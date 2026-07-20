@@ -776,6 +776,1046 @@
           ]
         }
       ]
+    },
+    {
+      "id": "mirabel",
+      "name": "Mirabel",
+      "region": "Laurentides",
+      "map": {
+        "x": 280,
+        "y": 486
+      },
+      "reports": [
+        {
+          "id": "mirabel-saint-janvier-2025",
+          "network": "Réseau Saint-Janvier",
+          "year": "2025",
+          "installation": "X0009439",
+          "population": "16 858",
+          "period": "1er janv. – 31 déc. 2025",
+          "publication": "Non indiquée",
+          "responsible": "Ville de Mirabel",
+          "file": "Bilan_annuel_de_la_qualite_de_l_eau_potable_2025.pdf",
+          "url": "https://mirabel.ca/uploads/1._Services/1.1_Services_aux_citoyens/1.1.11_Usage_eau/2025/Bilan_annuel_de_la_qualite_de_l_eau_potable_2025.pdf",
+          "exceedances": 0,
+          "thm": "61,2 µg/L",
+          "providerNote": "Aucun dépassement réglementaire indiqué dans le tableau récapitulatif de ce réseau. Une présence de coliformes totaux a entraîné une purge et des prélèvements de retour à la conformité; le tableau réglementaire indique zéro dépassement.",
+          "rows": [
+            {
+              "parameter": "Coliformes totaux",
+              "minimum": "204",
+              "analyzed": "367",
+              "exceedances": 0,
+              "note": "1 présence; purge et retour à la conformité"
+            },
+            {
+              "parameter": "Coliformes fécaux / E. coli",
+              "minimum": "204",
+              "analyzed": "367",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Plomb",
+              "minimum": "10",
+              "analyzed": "10",
+              "exceedances": 0,
+              "note": "Norme : 0,005 mg/L"
+            },
+            {
+              "parameter": "Cuivre",
+              "minimum": "10",
+              "analyzed": "10",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Turbidité",
+              "minimum": "12",
+              "analyzed": "12",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Trihalométhanes totaux",
+              "minimum": "16",
+              "analyzed": "16",
+              "exceedances": 0,
+              "note": "Moy. 61,2 µg/L · norme 80 µg/L"
+            }
+          ],
+          "events": []
+        },
+        {
+          "id": "mirabel-domaine-vert-nord-2025",
+          "network": "Réseau Domaine-Vert Nord",
+          "year": "2025",
+          "installation": "X2124659",
+          "population": "9 888",
+          "period": "1er janv. – 31 déc. 2025",
+          "publication": "Non indiquée",
+          "responsible": "Ville de Mirabel",
+          "file": "Bilan_annuel_de_la_qualite_de_l_eau_potable_2025.pdf",
+          "url": "https://mirabel.ca/uploads/1._Services/1.1_Services_aux_citoyens/1.1.11_Usage_eau/2025/Bilan_annuel_de_la_qualite_de_l_eau_potable_2025.pdf",
+          "exceedances": 0,
+          "thm": "38,9 µg/L",
+          "providerNote": "Aucun dépassement réglementaire indiqué dans le tableau récapitulatif de ce réseau.",
+          "rows": [
+            {
+              "parameter": "Coliformes totaux",
+              "minimum": "120",
+              "analyzed": "150",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Coliformes fécaux / E. coli",
+              "minimum": "120",
+              "analyzed": "150",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Plomb",
+              "minimum": "10",
+              "analyzed": "10",
+              "exceedances": 0,
+              "note": "Norme : 0,005 mg/L"
+            },
+            {
+              "parameter": "Cuivre",
+              "minimum": "10",
+              "analyzed": "10",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Turbidité",
+              "minimum": "12",
+              "analyzed": "12",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Trihalométhanes totaux",
+              "minimum": "16",
+              "analyzed": "16",
+              "exceedances": 0,
+              "note": "Moy. 38,9 µg/L · norme 80 µg/L"
+            }
+          ],
+          "events": []
+        },
+        {
+          "id": "mirabel-domaine-vert-sud-2025",
+          "network": "Réseau Domaine-Vert Sud",
+          "year": "2025",
+          "installation": "X2123591",
+          "population": "2 390",
+          "period": "1er janv. – 31 déc. 2025",
+          "publication": "Non indiquée",
+          "responsible": "Ville de Mirabel",
+          "file": "Bilan_annuel_de_la_qualite_de_l_eau_potable_2025.pdf",
+          "url": "https://mirabel.ca/uploads/1._Services/1.1_Services_aux_citoyens/1.1.11_Usage_eau/2025/Bilan_annuel_de_la_qualite_de_l_eau_potable_2025.pdf",
+          "exceedances": 0,
+          "thm": "31,9 µg/L",
+          "providerNote": "Aucun dépassement réglementaire indiqué dans le tableau récapitulatif de ce réseau.",
+          "rows": [
+            {
+              "parameter": "Coliformes totaux",
+              "minimum": "96",
+              "analyzed": "108",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Coliformes fécaux / E. coli",
+              "minimum": "96",
+              "analyzed": "108",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Plomb",
+              "minimum": "5",
+              "analyzed": "5",
+              "exceedances": 0,
+              "note": "Norme : 0,005 mg/L"
+            },
+            {
+              "parameter": "Cuivre",
+              "minimum": "5",
+              "analyzed": "5",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Turbidité",
+              "minimum": "12",
+              "analyzed": "12",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Trihalométhanes totaux",
+              "minimum": "4",
+              "analyzed": "4",
+              "exceedances": 0,
+              "note": "Moy. 31,9 µg/L · norme 80 µg/L"
+            }
+          ],
+          "events": []
+        },
+        {
+          "id": "mirabel-saint-canut-2025",
+          "network": "Réseau Saint-Canut",
+          "year": "2025",
+          "installation": "X0009441",
+          "population": "11 968",
+          "period": "1er janv. – 31 déc. 2025",
+          "publication": "Non indiquée",
+          "responsible": "Ville de Mirabel",
+          "file": "Bilan_annuel_de_la_qualite_de_l_eau_potable_2025.pdf",
+          "url": "https://mirabel.ca/uploads/1._Services/1.1_Services_aux_citoyens/1.1.11_Usage_eau/2025/Bilan_annuel_de_la_qualite_de_l_eau_potable_2025.pdf",
+          "exceedances": 1,
+          "thm": "39,6 µg/L",
+          "providerNote": "Un dépassement de plomb a été observé. Les résidents ont été informés et l’échantillonnage détaillé de suivi était conforme. Un résultat de colonies atypiques supérieur à 200 a aussi entraîné une purge et un retour à la conformité; le tableau microbiologique indique zéro dépassement.",
+          "rows": [
+            {
+              "parameter": "Coliformes totaux",
+              "minimum": "144",
+              "analyzed": "172",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Coliformes fécaux / E. coli",
+              "minimum": "144",
+              "analyzed": "172",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Plomb",
+              "minimum": "10",
+              "analyzed": "10",
+              "exceedances": 1,
+              "note": "Norme : 0,005 mg/L"
+            },
+            {
+              "parameter": "Cuivre",
+              "minimum": "10",
+              "analyzed": "10",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Turbidité",
+              "minimum": "12",
+              "analyzed": "12",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Trihalométhanes totaux",
+              "minimum": "16",
+              "analyzed": "16",
+              "exceedances": 0,
+              "note": "Moy. 39,6 µg/L · norme 80 µg/L"
+            }
+          ],
+          "events": [
+            {
+              "date": "22 juill. 2025",
+              "parameter": "Plomb",
+              "place": "Lieu non indiqué dans le bilan",
+              "standard": "0,005 mg/L",
+              "result": "0,008 mg/L",
+              "action": "Résidents informés; échantillonnage détaillé selon le protocole, revenu conforme."
+            }
+          ]
+        },
+        {
+          "id": "mirabel-mirabel-en-haut-2025",
+          "network": "Réseau Mirabel en Haut",
+          "year": "2025",
+          "installation": "X2103399",
+          "population": "3 026",
+          "period": "1er janv. – 31 déc. 2025",
+          "publication": "Non indiquée",
+          "responsible": "Ville de Mirabel",
+          "file": "Bilan_annuel_de_la_qualite_de_l_eau_potable_2025.pdf",
+          "url": "https://mirabel.ca/uploads/1._Services/1.1_Services_aux_citoyens/1.1.11_Usage_eau/2025/Bilan_annuel_de_la_qualite_de_l_eau_potable_2025.pdf",
+          "exceedances": 0,
+          "thm": "35,1 µg/L",
+          "providerNote": "Aucun dépassement réglementaire indiqué dans le tableau récapitulatif de ce réseau.",
+          "rows": [
+            {
+              "parameter": "Coliformes totaux",
+              "minimum": "96",
+              "analyzed": "96",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Coliformes fécaux / E. coli",
+              "minimum": "96",
+              "analyzed": "96",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Plomb",
+              "minimum": "5",
+              "analyzed": "5",
+              "exceedances": 0,
+              "note": "Norme : 0,005 mg/L"
+            },
+            {
+              "parameter": "Cuivre",
+              "minimum": "5",
+              "analyzed": "5",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Turbidité",
+              "minimum": "12",
+              "analyzed": "12",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Trihalométhanes totaux",
+              "minimum": "4",
+              "analyzed": "4",
+              "exceedances": 0,
+              "note": "Moy. 35,1 µg/L · norme 80 µg/L"
+            }
+          ],
+          "events": []
+        },
+        {
+          "id": "mirabel-saint-augustin-2025",
+          "network": "Réseau Saint-Augustin",
+          "year": "2025",
+          "installation": "X0009443",
+          "population": "14 084",
+          "period": "1er janv. – 31 déc. 2025",
+          "publication": "Non indiquée",
+          "responsible": "Ville de Mirabel",
+          "file": "Bilan_annuel_de_la_qualite_de_l_eau_potable_2025.pdf",
+          "url": "https://mirabel.ca/uploads/1._Services/1.1_Services_aux_citoyens/1.1.11_Usage_eau/2025/Bilan_annuel_de_la_qualite_de_l_eau_potable_2025.pdf",
+          "exceedances": 0,
+          "thm": "46,7 µg/L",
+          "providerNote": "Aucun dépassement réglementaire indiqué dans le tableau récapitulatif de ce réseau.",
+          "rows": [
+            {
+              "parameter": "Coliformes totaux",
+              "minimum": "180",
+              "analyzed": "187",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Coliformes fécaux / E. coli",
+              "minimum": "180",
+              "analyzed": "187",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Plomb",
+              "minimum": "10",
+              "analyzed": "10",
+              "exceedances": 0,
+              "note": "Norme : 0,005 mg/L"
+            },
+            {
+              "parameter": "Cuivre",
+              "minimum": "10",
+              "analyzed": "10",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Turbidité",
+              "minimum": "12",
+              "analyzed": "12",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Trihalométhanes totaux",
+              "minimum": "16",
+              "analyzed": "16",
+              "exceedances": 0,
+              "note": "Moy. 46,7 µg/L · norme 80 µg/L"
+            }
+          ],
+          "events": []
+        },
+        {
+          "id": "mirabel-sainte-scholastique-2025",
+          "network": "Réseau Sainte-Scholastique",
+          "year": "2025",
+          "installation": "X0009440",
+          "population": "960",
+          "period": "1er janv. – 31 déc. 2025",
+          "publication": "Non indiquée",
+          "responsible": "Ville de Mirabel",
+          "file": "Bilan_annuel_de_la_qualite_de_l_eau_potable_2025.pdf",
+          "url": "https://mirabel.ca/uploads/1._Services/1.1_Services_aux_citoyens/1.1.11_Usage_eau/2025/Bilan_annuel_de_la_qualite_de_l_eau_potable_2025.pdf",
+          "exceedances": 0,
+          "thm": "13,3 µg/L",
+          "providerNote": "Aucun dépassement réglementaire indiqué dans le tableau récapitulatif de ce réseau.",
+          "rows": [
+            {
+              "parameter": "Coliformes totaux",
+              "minimum": "96",
+              "analyzed": "96",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Coliformes fécaux / E. coli",
+              "minimum": "96",
+              "analyzed": "96",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Plomb",
+              "minimum": "5",
+              "analyzed": "5",
+              "exceedances": 0,
+              "note": "Norme : 0,005 mg/L"
+            },
+            {
+              "parameter": "Cuivre",
+              "minimum": "5",
+              "analyzed": "5",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Turbidité",
+              "minimum": "12",
+              "analyzed": "12",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Trihalométhanes totaux",
+              "minimum": "4",
+              "analyzed": "4",
+              "exceedances": 0,
+              "note": "Moy. 13,3 µg/L · norme 80 µg/L"
+            }
+          ],
+          "events": []
+        },
+        {
+          "id": "mirabel-saint-benoit-2025",
+          "network": "Réseau Saint-Benoît",
+          "year": "2025",
+          "installation": "X0009438",
+          "population": "1 580",
+          "period": "1er janv. – 31 déc. 2025",
+          "publication": "Non indiquée",
+          "responsible": "Ville de Mirabel",
+          "file": "Bilan_annuel_de_la_qualite_de_l_eau_potable_2025.pdf",
+          "url": "https://mirabel.ca/uploads/1._Services/1.1_Services_aux_citoyens/1.1.11_Usage_eau/2025/Bilan_annuel_de_la_qualite_de_l_eau_potable_2025.pdf",
+          "exceedances": 0,
+          "thm": "11,8 µg/L",
+          "providerNote": "Aucun dépassement réglementaire indiqué dans le tableau récapitulatif de ce réseau.",
+          "rows": [
+            {
+              "parameter": "Coliformes totaux",
+              "minimum": "96",
+              "analyzed": "116",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Coliformes fécaux / E. coli",
+              "minimum": "96",
+              "analyzed": "116",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Plomb",
+              "minimum": "5",
+              "analyzed": "5",
+              "exceedances": 0,
+              "note": "Norme : 0,005 mg/L"
+            },
+            {
+              "parameter": "Cuivre",
+              "minimum": "5",
+              "analyzed": "5",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Turbidité",
+              "minimum": "12",
+              "analyzed": "12",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Trihalométhanes totaux",
+              "minimum": "4",
+              "analyzed": "4",
+              "exceedances": 0,
+              "note": "Moy. 11,8 µg/L · norme 80 µg/L"
+            }
+          ],
+          "events": []
+        },
+        {
+          "id": "mirabel-saint-hermas-2025",
+          "network": "Réseau Saint-Hermas",
+          "year": "2025",
+          "installation": "X0009445",
+          "population": "425",
+          "period": "1er janv. – 31 déc. 2025",
+          "publication": "Non indiquée",
+          "responsible": "Ville de Mirabel",
+          "file": "Bilan_annuel_de_la_qualite_de_l_eau_potable_2025.pdf",
+          "url": "https://mirabel.ca/uploads/1._Services/1.1_Services_aux_citoyens/1.1.11_Usage_eau/2025/Bilan_annuel_de_la_qualite_de_l_eau_potable_2025.pdf",
+          "exceedances": 0,
+          "thm": "Non analysés",
+          "providerNote": "Aucun dépassement réglementaire indiqué dans le tableau récapitulatif de ce réseau.",
+          "rows": [
+            {
+              "parameter": "Coliformes totaux",
+              "minimum": "24",
+              "analyzed": "24",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Coliformes fécaux / E. coli",
+              "minimum": "24",
+              "analyzed": "24",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Plomb",
+              "minimum": "2",
+              "analyzed": "2",
+              "exceedances": 0,
+              "note": "Norme : 0,005 mg/L"
+            },
+            {
+              "parameter": "Cuivre",
+              "minimum": "2",
+              "analyzed": "2",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Turbidité",
+              "minimum": "12",
+              "analyzed": "12",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Trihalométhanes totaux",
+              "minimum": "0",
+              "analyzed": "0",
+              "exceedances": 0,
+              "note": "Non analysés dans ce bilan"
+            }
+          ],
+          "events": []
+        },
+        {
+          "id": "mirabel-puits-richer-1-2025",
+          "network": "Réseau Puits Richer no 1",
+          "year": "2025",
+          "installation": "X0009442",
+          "population": "57",
+          "period": "1er janv. – 31 déc. 2025",
+          "publication": "Non indiquée",
+          "responsible": "Ville de Mirabel",
+          "file": "Bilan_annuel_de_la_qualite_de_l_eau_potable_2025.pdf",
+          "url": "https://mirabel.ca/uploads/1._Services/1.1_Services_aux_citoyens/1.1.11_Usage_eau/2025/Bilan_annuel_de_la_qualite_de_l_eau_potable_2025.pdf",
+          "exceedances": 0,
+          "thm": "11 µg/L",
+          "providerNote": "Aucun dépassement réglementaire indiqué dans le tableau récapitulatif de ce réseau.",
+          "rows": [
+            {
+              "parameter": "Coliformes totaux",
+              "minimum": "24",
+              "analyzed": "28",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Coliformes fécaux / E. coli",
+              "minimum": "24",
+              "analyzed": "28",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Plomb",
+              "minimum": "2",
+              "analyzed": "2",
+              "exceedances": 0,
+              "note": "Norme : 0,005 mg/L"
+            },
+            {
+              "parameter": "Cuivre",
+              "minimum": "2",
+              "analyzed": "2",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Turbidité",
+              "minimum": "12",
+              "analyzed": "12",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Trihalométhanes totaux",
+              "minimum": "4",
+              "analyzed": "4",
+              "exceedances": 0,
+              "note": "Moy. 11 µg/L · norme 80 µg/L"
+            }
+          ],
+          "events": []
+        },
+        {
+          "id": "mirabel-puits-mousseau-2-2025",
+          "network": "Réseau Puits Mousseau no 2",
+          "year": "2025",
+          "installation": "X2007181",
+          "population": "34",
+          "period": "1er janv. – 31 déc. 2025",
+          "publication": "Non indiquée",
+          "responsible": "Ville de Mirabel",
+          "file": "Bilan_annuel_de_la_qualite_de_l_eau_potable_2025.pdf",
+          "url": "https://mirabel.ca/uploads/1._Services/1.1_Services_aux_citoyens/1.1.11_Usage_eau/2025/Bilan_annuel_de_la_qualite_de_l_eau_potable_2025.pdf",
+          "exceedances": 0,
+          "thm": "21,9 µg/L",
+          "providerNote": "Aucun dépassement réglementaire indiqué dans le tableau récapitulatif de ce réseau.",
+          "rows": [
+            {
+              "parameter": "Coliformes totaux",
+              "minimum": "24",
+              "analyzed": "28",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Coliformes fécaux / E. coli",
+              "minimum": "24",
+              "analyzed": "28",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Plomb",
+              "minimum": "2",
+              "analyzed": "2",
+              "exceedances": 0,
+              "note": "Norme : 0,005 mg/L"
+            },
+            {
+              "parameter": "Cuivre",
+              "minimum": "2",
+              "analyzed": "2",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Turbidité",
+              "minimum": "12",
+              "analyzed": "12",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Trihalométhanes totaux",
+              "minimum": "4",
+              "analyzed": "4",
+              "exceedances": 0,
+              "note": "Moy. 21,9 µg/L · norme 80 µg/L"
+            }
+          ],
+          "events": []
+        },
+        {
+          "id": "mirabel-puits-allee-des-pins-3-2025",
+          "network": "Réseau Puits Allée-des-Pins no 3",
+          "year": "2025",
+          "installation": "X0009444",
+          "population": "69",
+          "period": "1er janv. – 31 déc. 2025",
+          "publication": "Non indiquée",
+          "responsible": "Ville de Mirabel",
+          "file": "Bilan_annuel_de_la_qualite_de_l_eau_potable_2025.pdf",
+          "url": "https://mirabel.ca/uploads/1._Services/1.1_Services_aux_citoyens/1.1.11_Usage_eau/2025/Bilan_annuel_de_la_qualite_de_l_eau_potable_2025.pdf",
+          "exceedances": 0,
+          "thm": "6,3 µg/L",
+          "providerNote": "Aucun dépassement réglementaire indiqué dans le tableau récapitulatif de ce réseau.",
+          "rows": [
+            {
+              "parameter": "Coliformes totaux",
+              "minimum": "24",
+              "analyzed": "29",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Coliformes fécaux / E. coli",
+              "minimum": "24",
+              "analyzed": "29",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Plomb",
+              "minimum": "2",
+              "analyzed": "2",
+              "exceedances": 0,
+              "note": "Norme : 0,005 mg/L"
+            },
+            {
+              "parameter": "Cuivre",
+              "minimum": "2",
+              "analyzed": "2",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Turbidité",
+              "minimum": "12",
+              "analyzed": "12",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Trihalométhanes totaux",
+              "minimum": "4",
+              "analyzed": "4",
+              "exceedances": 0,
+              "note": "Moy. 6,3 µg/L · norme 80 µg/L"
+            }
+          ],
+          "events": []
+        },
+        {
+          "id": "mirabel-saint-antoine-2025",
+          "network": "Réseau Saint-Antoine",
+          "year": "2025",
+          "installation": "X2001596",
+          "population": "965",
+          "period": "1er janv. – 31 déc. 2025",
+          "publication": "Non indiquée",
+          "responsible": "Ville de Mirabel",
+          "file": "Bilan_annuel_de_la_qualite_de_l_eau_potable_2025.pdf",
+          "url": "https://mirabel.ca/uploads/1._Services/1.1_Services_aux_citoyens/1.1.11_Usage_eau/2025/Bilan_annuel_de_la_qualite_de_l_eau_potable_2025.pdf",
+          "exceedances": 0,
+          "thm": "48,1 µg/L",
+          "providerNote": "Aucun dépassement réglementaire indiqué dans le tableau récapitulatif de ce réseau.",
+          "rows": [
+            {
+              "parameter": "Coliformes totaux",
+              "minimum": "24",
+              "analyzed": "27",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Coliformes fécaux / E. coli",
+              "minimum": "24",
+              "analyzed": "27",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Plomb",
+              "minimum": "5",
+              "analyzed": "5",
+              "exceedances": 0,
+              "note": "Norme : 0,005 mg/L"
+            },
+            {
+              "parameter": "Cuivre",
+              "minimum": "5",
+              "analyzed": "5",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Turbidité",
+              "minimum": "12",
+              "analyzed": "12",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Trihalométhanes totaux",
+              "minimum": "4",
+              "analyzed": "4",
+              "exceedances": 0,
+              "note": "Moy. 48,1 µg/L · norme 80 µg/L"
+            }
+          ],
+          "events": []
+        },
+        {
+          "id": "mirabel-chapelle-2025",
+          "network": "Réseau de la Chapelle",
+          "year": "2025",
+          "installation": "X2174258",
+          "population": "26",
+          "period": "1er janv. – 31 déc. 2025",
+          "publication": "Non indiquée",
+          "responsible": "Ville de Mirabel",
+          "file": "Bilan_annuel_de_la_qualite_de_l_eau_potable_2025.pdf",
+          "url": "https://mirabel.ca/uploads/1._Services/1.1_Services_aux_citoyens/1.1.11_Usage_eau/2025/Bilan_annuel_de_la_qualite_de_l_eau_potable_2025.pdf",
+          "exceedances": 0,
+          "thm": "37,2 µg/L",
+          "providerNote": "Aucun dépassement réglementaire indiqué dans le tableau récapitulatif de ce réseau.",
+          "rows": [
+            {
+              "parameter": "Coliformes totaux",
+              "minimum": "24",
+              "analyzed": "25",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Coliformes fécaux / E. coli",
+              "minimum": "24",
+              "analyzed": "25",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Plomb",
+              "minimum": "1",
+              "analyzed": "1",
+              "exceedances": 0,
+              "note": "Norme : 0,005 mg/L"
+            },
+            {
+              "parameter": "Cuivre",
+              "minimum": "1",
+              "analyzed": "1",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Turbidité",
+              "minimum": "12",
+              "analyzed": "12",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Trihalométhanes totaux",
+              "minimum": "4",
+              "analyzed": "4",
+              "exceedances": 0,
+              "note": "Moy. 37,2 µg/L · norme 80 µg/L"
+            }
+          ],
+          "events": []
+        },
+        {
+          "id": "mirabel-sainte-monique-2025",
+          "network": "Réseau Sainte-Monique",
+          "year": "2025",
+          "installation": "X0009446",
+          "population": "26",
+          "period": "1er janv. – 31 déc. 2025",
+          "publication": "Non indiquée",
+          "responsible": "Ville de Mirabel",
+          "file": "Bilan_annuel_de_la_qualite_de_l_eau_potable_2025.pdf",
+          "url": "https://mirabel.ca/uploads/1._Services/1.1_Services_aux_citoyens/1.1.11_Usage_eau/2025/Bilan_annuel_de_la_qualite_de_l_eau_potable_2025.pdf",
+          "exceedances": 0,
+          "thm": "Non analysés",
+          "providerNote": "Aucun dépassement réglementaire indiqué dans le tableau récapitulatif de ce réseau.",
+          "rows": [
+            {
+              "parameter": "Coliformes totaux",
+              "minimum": "24",
+              "analyzed": "24",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Coliformes fécaux / E. coli",
+              "minimum": "24",
+              "analyzed": "24",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Plomb",
+              "minimum": "2",
+              "analyzed": "2",
+              "exceedances": 0,
+              "note": "Norme : 0,005 mg/L"
+            },
+            {
+              "parameter": "Cuivre",
+              "minimum": "2",
+              "analyzed": "2",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Turbidité",
+              "minimum": "12",
+              "analyzed": "12",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Trihalométhanes totaux",
+              "minimum": "0",
+              "analyzed": "0",
+              "exceedances": 0,
+              "note": "Non analysés dans ce bilan"
+            }
+          ],
+          "events": []
+        },
+        {
+          "id": "mirabel-parc-charlebel-2025",
+          "network": "Réseau Parc Charlebel",
+          "year": "2025",
+          "installation": "X2173857",
+          "population": "22",
+          "period": "1er janv. – 31 déc. 2025",
+          "publication": "Non indiquée",
+          "responsible": "Ville de Mirabel",
+          "file": "Bilan_annuel_de_la_qualite_de_l_eau_potable_2025.pdf",
+          "url": "https://mirabel.ca/uploads/1._Services/1.1_Services_aux_citoyens/1.1.11_Usage_eau/2025/Bilan_annuel_de_la_qualite_de_l_eau_potable_2025.pdf",
+          "exceedances": 0,
+          "thm": "Non analysés",
+          "providerNote": "Aucun dépassement réglementaire indiqué dans le tableau récapitulatif de ce réseau.",
+          "rows": [
+            {
+              "parameter": "Coliformes totaux",
+              "minimum": "24",
+              "analyzed": "27",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Coliformes fécaux / E. coli",
+              "minimum": "24",
+              "analyzed": "27",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Plomb",
+              "minimum": "1",
+              "analyzed": "1",
+              "exceedances": 0,
+              "note": "Norme : 0,005 mg/L"
+            },
+            {
+              "parameter": "Cuivre",
+              "minimum": "1",
+              "analyzed": "1",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Turbidité",
+              "minimum": "12",
+              "analyzed": "12",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Trihalométhanes totaux",
+              "minimum": "0",
+              "analyzed": "0",
+              "exceedances": 0,
+              "note": "Non analysés dans ce bilan"
+            }
+          ],
+          "events": []
+        },
+        {
+          "id": "mirabel-bois-belle-riviere-2025",
+          "network": "Réseau Bois de Belle-Rivière",
+          "year": "2025",
+          "installation": "X2066888",
+          "population": "337",
+          "period": "1er janv. – 31 déc. 2025",
+          "publication": "Non indiquée",
+          "responsible": "Ville de Mirabel",
+          "file": "Bilan_annuel_de_la_qualite_de_l_eau_potable_2025.pdf",
+          "url": "https://mirabel.ca/uploads/1._Services/1.1_Services_aux_citoyens/1.1.11_Usage_eau/2025/Bilan_annuel_de_la_qualite_de_l_eau_potable_2025.pdf",
+          "exceedances": 0,
+          "thm": "Non analysés",
+          "providerNote": "Aucun dépassement réglementaire indiqué dans le tableau récapitulatif de ce réseau.",
+          "rows": [
+            {
+              "parameter": "Coliformes totaux",
+              "minimum": "24",
+              "analyzed": "24",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Coliformes fécaux / E. coli",
+              "minimum": "24",
+              "analyzed": "24",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Plomb",
+              "minimum": "1",
+              "analyzed": "1",
+              "exceedances": 0,
+              "note": "Norme : 0,005 mg/L"
+            },
+            {
+              "parameter": "Cuivre",
+              "minimum": "1",
+              "analyzed": "1",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Turbidité",
+              "minimum": "12",
+              "analyzed": "12",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Trihalométhanes totaux",
+              "minimum": "0",
+              "analyzed": "0",
+              "exceedances": 0,
+              "note": "Non analysés dans ce bilan"
+            }
+          ],
+          "events": []
+        }
+      ]
     }
   ]
 }
