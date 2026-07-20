@@ -12,6 +12,91 @@
       },
       "reports": [
         {
+          "id": "terrebonne-2025",
+          "network": "Terrebonne + La Plaine",
+          "year": "2025",
+          "installation": "X0010510",
+          "population": "109 811",
+          "period": "1er janv. – 31 déc. 2025",
+          "publication": "31 mars 2026",
+          "responsible": "Ville de Terrebonne",
+          "file": "Bilan_qualite_EP_2025_Reseau-Terrebonne.pdf",
+          "url": "https://terrebonne.ca/wp-content/uploads/2026/03/Bilan_qualite_EP_2025_Reseau-Terrebonne.pdf",
+          "exceedances": 3,
+          "thm": "43,8 µg/L",
+          "providerNote": "Les trois dépassements de plomb ont fait l’objet de reprises séquentielles. Dans chaque cas, les quatre résultats de reprise étaient inférieurs à la norme de 0,005 mg/L.",
+          "rows": [
+            {
+              "parameter": "Coliformes totaux",
+              "minimum": "1 212",
+              "analyzed": "1 243",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Coliformes fécaux / E. coli",
+              "minimum": "1 212",
+              "analyzed": "1 243",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Plomb",
+              "minimum": "50",
+              "analyzed": "51",
+              "exceedances": 3,
+              "note": "Norme : 0,005 mg/L"
+            },
+            {
+              "parameter": "Cuivre",
+              "minimum": "50",
+              "analyzed": "51",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Turbidité",
+              "minimum": "12",
+              "analyzed": "12",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Trihalométhanes totaux",
+              "minimum": "32",
+              "analyzed": "34",
+              "exceedances": 0,
+              "note": "Moy. 43,8 µg/L · norme 80 µg/L"
+            }
+          ],
+          "events": [
+            {
+              "parameter": "Plomb",
+              "date": "17 juillet 2025",
+              "place": "10460, rue Villeneuve",
+              "standard": "0,005 mg/L",
+              "result": "0,0063 mg/L",
+              "action": "Reprise séquentielle le 20 août : 0,0006 mg/L et trois résultats sous 0,0005 mg/L. Le dépassement initial n’a pas été confirmé; l’adresse sera rééchantillonnée en 2026 et les occupants ont été informés."
+            },
+            {
+              "parameter": "Plomb",
+              "date": "23 juillet 2025",
+              "place": "2491, rue Ouellette",
+              "standard": "0,005 mg/L",
+              "result": "0,0173 mg/L",
+              "action": "Reprise séquentielle le 2 septembre : 0,0029, 0,0013, 0,0022 et 0,0017 mg/L. Le dépassement initial n’a pas été confirmé; l’adresse sera rééchantillonnée en 2026 et les occupants ont été informés."
+            },
+            {
+              "parameter": "Plomb",
+              "date": "6 août 2025",
+              "place": "3341, chemin Saint-Charles",
+              "standard": "0,005 mg/L",
+              "result": "0,3152 mg/L",
+              "action": "Reprise séquentielle le 17 septembre après une purge prolongée : 0,0016 puis 0,0007 mg/L pour les trois autres litres. Le bâtiment était fermé depuis plusieurs mois; la Ville estime que le résultat initial était probablement lié à une purge insuffisante. Les administrateurs ont été informés."
+            }
+          ]
+        },
+        {
           "id": "terrebonne-2024",
           "network": "Terrebonne + La Plaine",
           "year": "2024",
@@ -160,3 +245,4 @@
     }
   ]
 }
+
