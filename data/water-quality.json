@@ -330,6 +330,94 @@
           ]
         }
       ]
+    },
+    {
+      "id": "drummondville",
+      "name": "Drummondville",
+      "region": "Centre-du-Québec",
+      "map": {
+        "x": 330.5,
+        "y": 497.8
+      },
+      "reports": [
+        {
+          "id": "drummondville-2025",
+          "network": "Système de distribution d’eau potable de Drummondville",
+          "year": "2025",
+          "installation": "X0010739",
+          "population": "80 964",
+          "period": "1er janv. – 31 déc. 2025",
+          "publication": "15 janvier 2026",
+          "responsible": "Ville de Drummondville",
+          "file": "Bilan_annuel_qualite_eau_DMV_2025.pdf",
+          "url": "https://www.drummondville.ca/wp-content/uploads/2026/02/Bilan_annuel_qualite_eau_DMV_2025.pdf",
+          "exceedances": 2,
+          "thm": "46,15 µg/L",
+          "providerNote": "Le bilan décrit deux résultats de plomb dissout dépassant la norme à la même adresse et précise qu’il s’agit d’un résultat sur six prélèvements.",
+          "rows": [
+            {
+              "parameter": "Coliformes totaux",
+              "minimum": "1 012",
+              "analyzed": "1 082",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Coliformes fécaux / E. coli",
+              "minimum": "1 012",
+              "analyzed": "1 082",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Plomb",
+              "minimum": "30",
+              "analyzed": "80",
+              "exceedances": 2,
+              "note": "Norme : 0,005 mg/L"
+            },
+            {
+              "parameter": "Cuivre",
+              "minimum": "30",
+              "analyzed": "74",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Turbidité",
+              "minimum": "12",
+              "analyzed": "12",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Trihalométhanes totaux",
+              "minimum": "16",
+              "analyzed": "16",
+              "exceedances": 0,
+              "note": "Moy. 46,15 µg/L · norme 80 µg/L"
+            }
+          ],
+          "events": [
+            {
+              "parameter": "Plomb dissout",
+              "date": "12 août 2025",
+              "place": "545, 114e Avenue",
+              "standard": "0,005 mg/L",
+              "result": "0,007 mg/L",
+              "action": "Troisième prélèvement effectué pour vérification, selon le bilan municipal."
+            },
+            {
+              "parameter": "Plomb dissout",
+              "date": "12 août 2025",
+              "place": "545, 114e Avenue",
+              "standard": "0,005 mg/L",
+              "result": "0,256 mg/L",
+              "action": "Quatrième prélèvement effectué pour vérification, selon le bilan municipal."
+            }
+          ]
+        }
+      ]
     }
   ]
 }
