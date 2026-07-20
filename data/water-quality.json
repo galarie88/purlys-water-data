@@ -242,6 +242,94 @@
           "events": []
         }
       ]
+    },
+    {
+      "id": "saint-jerome",
+      "name": "Saint-Jérôme",
+      "region": "Laurentides",
+      "map": {
+        "x": 287.8,
+        "y": 491.6
+      },
+      "reports": [
+        {
+          "id": "saint-jerome-2025",
+          "network": "Réseau Saint-Jérôme",
+          "year": "2025",
+          "installation": "X0008099",
+          "population": "76 000",
+          "period": "1er janv. – 31 déc. 2025",
+          "publication": "31 mars 2026",
+          "responsible": "Ville de Saint-Jérôme",
+          "file": "Bilan_annuel_2025_Qualite_eau_Saint-Jerome.pdf",
+          "url": "https://www.vsj.ca/wp-content/uploads/2026/02/Bilan_annuel_2025_Qualite_eau_Saint-Jerome.pdf",
+          "exceedances": 2,
+          "thm": "38,78 µg/L",
+          "providerNote": "Deux dépassements de plomb ont été consignés. Le bilan indique que les citoyens concernés ont été avisés de laisser couler l’eau avant de la consommer.",
+          "rows": [
+            {
+              "parameter": "Coliformes totaux",
+              "minimum": "912",
+              "analyzed": "1 017",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Coliformes fécaux / E. coli",
+              "minimum": "912",
+              "analyzed": "1 017",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Plomb",
+              "minimum": "60",
+              "analyzed": "63",
+              "exceedances": 2,
+              "note": "Norme : 0,005 mg/L"
+            },
+            {
+              "parameter": "Cuivre",
+              "minimum": "60",
+              "analyzed": "63",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Turbidité",
+              "minimum": "12",
+              "analyzed": "15",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Trihalométhanes totaux",
+              "minimum": "16",
+              "analyzed": "20",
+              "exceedances": 0,
+              "note": "Moy. 38,78 µg/L · norme 80 µg/L"
+            }
+          ],
+          "events": [
+            {
+              "parameter": "Plomb",
+              "date": "15 juillet 2025",
+              "place": "310, rue Brière",
+              "standard": "0,005 mg/L",
+              "result": "0,0081 mg/L",
+              "action": "Les citoyens ont été avisés de laisser couler l’eau avant de la consommer."
+            },
+            {
+              "parameter": "Plomb",
+              "date": "15 juillet 2025",
+              "place": "609, rue du Domaine",
+              "standard": "0,005 mg/L",
+              "result": "0,0062 mg/L",
+              "action": "Les citoyens ont été avisés de laisser couler l’eau avant de la consommer."
+            }
+          ]
+        }
+      ]
     }
   ]
 }
