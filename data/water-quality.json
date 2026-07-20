@@ -557,11 +557,11 @@
             {"parameter":"Trihalométhanes totaux","minimum":"16","analyzed":"16","exceedances":0,"note":"Moy. 9,2 µg/L · norme 80 µg/L"}
           ],
           "events": [
-            {"date":"10 juill. 2025","parameter":"Plomb","location":"178, rue Fiset","standard":"0,01 mg/L","result":"0,0192 mg/L","action":"Propriétaires avisés; recherche de la source et suivi renforcé."},
-            {"date":"28 juill. 2025","parameter":"Plomb","location":"178, rue Fiset","standard":"0,01 mg/L","result":"0,0171 mg/L","action":"Propriétaires avisés; recherche de la source et suivi renforcé."},
-            {"date":"28 juill. 2025","parameter":"Plomb","location":"178, rue Fiset","standard":"0,01 mg/L","result":"0,0499 mg/L","action":"Propriétaires avisés; recherche de la source et suivi renforcé."},
-            {"date":"28 juill. 2025","parameter":"Plomb","location":"178, rue Fiset","standard":"0,01 mg/L","result":"0,0684 mg/L","action":"Propriétaires avisés; recherche de la source et suivi renforcé."},
-            {"date":"28 juill. 2025","parameter":"Plomb","location":"178, rue Fiset","standard":"0,01 mg/L","result":"0,0268 mg/L","action":"Propriétaires avisés; recherche de la source et suivi renforcé."}
+            {"date":"10 juill. 2025","parameter":"Plomb","place":"178, rue Fiset","standard":"0,01 mg/L","result":"0,0192 mg/L","action":"Propriétaires avisés; recherche de la source et suivi renforcé."},
+            {"date":"28 juill. 2025","parameter":"Plomb","place":"178, rue Fiset","standard":"0,01 mg/L","result":"0,0171 mg/L","action":"Propriétaires avisés; recherche de la source et suivi renforcé."},
+            {"date":"28 juill. 2025","parameter":"Plomb","place":"178, rue Fiset","standard":"0,01 mg/L","result":"0,0499 mg/L","action":"Propriétaires avisés; recherche de la source et suivi renforcé."},
+            {"date":"28 juill. 2025","parameter":"Plomb","place":"178, rue Fiset","standard":"0,01 mg/L","result":"0,0684 mg/L","action":"Propriétaires avisés; recherche de la source et suivi renforcé."},
+            {"date":"28 juill. 2025","parameter":"Plomb","place":"178, rue Fiset","standard":"0,01 mg/L","result":"0,0268 mg/L","action":"Propriétaires avisés; recherche de la source et suivi renforcé."}
           ]
         }
       ]
@@ -598,8 +598,8 @@
             {"parameter":"Trihalométhanes totaux","minimum":"16","analyzed":"16","exceedances":0,"note":"Moy. 38,1 µg/L · norme 80 µg/L"}
           ],
           "events": [
-            {"date":"29 août 2024","parameter":"Plomb","location":"80, rue Chayer","standard":"0,005 mg/L","result":"0,0069 mg/L","action":"Citoyen appelé; second prélèvement 4 × 1 L conforme."},
-            {"date":"5 sept. 2024","parameter":"Plomb","location":"126, 55e Avenue","standard":"0,005 mg/L","result":"0,0122 mg/L","action":"Citoyen appelé; second prélèvement 4 × 1 L conforme."}
+            {"date":"29 août 2024","parameter":"Plomb","place":"80, rue Chayer","standard":"0,005 mg/L","result":"0,0069 mg/L","action":"Citoyen appelé; second prélèvement 4 × 1 L conforme."},
+            {"date":"5 sept. 2024","parameter":"Plomb","place":"126, 55e Avenue","standard":"0,005 mg/L","result":"0,0122 mg/L","action":"Citoyen appelé; second prélèvement 4 × 1 L conforme."}
           ]
         }
       ]
@@ -684,6 +684,96 @@
             {"parameter":"Trihalométhanes totaux","minimum":"16","analyzed":"16","exceedances":0,"note":"Moy. 29,15 µg/L · norme 80 µg/L"}
           ],
           "events": []
+        }
+      ]
+    },
+    {
+      "id": "granby",
+      "name": "Granby",
+      "region": "Estrie",
+      "map": {"x": 316, "y": 535},
+      "reports": [
+        {
+          "id": "granby-principal-2025",
+          "network": "Centrale de traitement d’eau potable",
+          "year": "2025",
+          "installation": "X0009149",
+          "population": "60 614",
+          "period": "1er janv. – 31 déc. 2025",
+          "publication": "24 févr. 2026",
+          "responsible": "Ville de Granby",
+          "file": "bilan-rqep-2025-reseau-vdg-r01.pdf",
+          "url": "https://www.granby.ca/sites/default/files/2026-02/bilan-rqep-2025-reseau-vdg-r01.pdf",
+          "exceedances": 0,
+          "thm": "47 µg/L",
+          "providerNote": "Aucun dépassement de norme indiqué dans le bilan 2025 du réseau principal de Granby.",
+          "rows": [
+            {"parameter":"Coliformes totaux","minimum":"732","analyzed":"1 188","exceedances":0,"note":"—"},
+            {"parameter":"Coliformes fécaux / E. coli","minimum":"732","analyzed":"1 188","exceedances":0,"note":"—"},
+            {"parameter":"Plomb","minimum":"30","analyzed":"31","exceedances":0,"note":"—"},
+            {"parameter":"Cuivre","minimum":"30","analyzed":"31","exceedances":0,"note":"—"},
+            {"parameter":"Turbidité","minimum":"12","analyzed":"23","exceedances":0,"note":"—"},
+            {"parameter":"Trihalométhanes totaux","minimum":"16","analyzed":"31","exceedances":0,"note":"Moy. 47 µg/L · norme 80 µg/L"}
+          ],
+          "events": []
+        },
+        {
+          "id": "granby-verrieres-2025",
+          "network": "Verrières Saint-Alexandre",
+          "year": "2025",
+          "installation": "X0011475",
+          "population": "75",
+          "period": "1er janv. – 31 déc. 2025",
+          "publication": "24 févr. 2026",
+          "responsible": "Ville de Granby",
+          "file": "bilan-rqep-2025-reseau-verrieres-r01.pdf",
+          "url": "https://www.granby.ca/sites/default/files/2026-02/bilan-rqep-2025-reseau-verrieres-r01.pdf",
+          "exceedances": 0,
+          "thm": "39 µg/L",
+          "providerNote": "Aucun dépassement de norme indiqué dans le bilan 2025 du réseau Verrières Saint-Alexandre.",
+          "rows": [
+            {"parameter":"Coliformes totaux","minimum":"24","analyzed":"52","exceedances":0,"note":"—"},
+            {"parameter":"Coliformes fécaux / E. coli","minimum":"24","analyzed":"52","exceedances":0,"note":"—"},
+            {"parameter":"Plomb","minimum":"2","analyzed":"2","exceedances":0,"note":"—"},
+            {"parameter":"Cuivre","minimum":"2","analyzed":"2","exceedances":0,"note":"—"},
+            {"parameter":"Turbidité","minimum":"12","analyzed":"24","exceedances":0,"note":"—"},
+            {"parameter":"Trihalométhanes totaux","minimum":"4","analyzed":"4","exceedances":0,"note":"Moy. 39 µg/L · norme 80 µg/L"}
+          ],
+          "events": []
+        }
+      ]
+    },
+    {
+      "id": "blainville",
+      "name": "Blainville",
+      "region": "Laurentides",
+      "map": {"x": 284, "y": 496},
+      "reports": [
+        {
+          "id": "blainville-2025",
+          "network": "Réseau de Blainville",
+          "year": "2025",
+          "installation": "X0008894",
+          "population": "61 617",
+          "period": "1er janv. – 31 déc. 2025",
+          "publication": "28 janv. 2026",
+          "responsible": "Ville de Blainville",
+          "file": "Eau potable bilan-annuel 2025.pdf",
+          "url": "https://blainville.ca/storage/app/media/Services/Environnement%20et%20voirie/Eau/Eau%20potable%20bilan-annuel%202025.pdf",
+          "exceedances": 1,
+          "thm": "39,23 µg/L",
+          "providerNote": "Un résultat de plomb légèrement supérieur à la norme a été observé. Le second prélèvement était conforme et le propriétaire de l’immeuble a été avisé.",
+          "rows": [
+            {"parameter":"Coliformes totaux","minimum":"744","analyzed":"780","exceedances":0,"note":"—"},
+            {"parameter":"Coliformes fécaux / E. coli","minimum":"744","analyzed":"780","exceedances":0,"note":"—"},
+            {"parameter":"Plomb","minimum":"30","analyzed":"30","exceedances":1,"note":"Norme : 0,005 mg/L"},
+            {"parameter":"Cuivre","minimum":"30","analyzed":"30","exceedances":0,"note":"—"},
+            {"parameter":"Turbidité","minimum":"12","analyzed":"12","exceedances":0,"note":"—"},
+            {"parameter":"Trihalométhanes totaux","minimum":"16","analyzed":"16","exceedances":0,"note":"Moy. 39,23 µg/L · norme 80 µg/L"}
+          ],
+          "events": [
+            {"date":"17 sept. 2025","parameter":"Plomb","place":"12, 20e Avenue Ouest","standard":"0,005 mg/L","result":"0,0051 mg/L","action":"Second prélèvement conforme; propriétaire de l’immeuble avisé."}
+          ]
         }
       ]
     }
