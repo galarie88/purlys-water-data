@@ -489,7 +489,203 @@
           "events": []
         }
       ]
+    },
+    {
+      "id": "brossard",
+      "name": "Brossard",
+      "region": "Montérégie",
+      "map": {
+        "x": 286.5,
+        "y": 512
+      },
+      "reports": [
+        {
+          "id": "brossard-2024",
+          "network": "Réseau de Brossard",
+          "year": "2024",
+          "installation": "X2109413",
+          "population": "91 525",
+          "period": "1er janv. – 31 déc. 2024",
+          "publication": "12 févr. 2025",
+          "responsible": "Ville de Brossard",
+          "file": "bilan-annuel-qualite-eau-brossard-2024.pdf",
+          "url": "https://brossard.ca/app/uploads/2025/04/attach_cmsUpload_cfdb5dd8-5150-455b-8f21-f51b9ceca732.pdf",
+          "exceedances": 0,
+          "thm": "Non indiquée",
+          "providerNote": "Le bilan indique cinq présences de coliformes totaux, mais précise qu’aucune ne constitue un dépassement réglementaire. Les contrôles du plomb et du cuivre relèvent du réseau fournisseur et ne sont pas présentés comme analyses réalisées dans ce bilan.",
+          "rows": [
+            {"parameter":"Coliformes totaux","minimum":"1 136","analyzed":"1 132","exceedances":0,"note":"5 présences; aucun dépassement réglementaire"},
+            {"parameter":"Coliformes fécaux / E. coli","minimum":"1 136","analyzed":"1 132","exceedances":0,"note":"—"},
+            {"parameter":"Plomb","minimum":"30","analyzed":"Sous responsabilité du réseau fournisseur","exceedances":0,"note":"Non applicable dans ce bilan"},
+            {"parameter":"Cuivre","minimum":"30","analyzed":"Sous responsabilité du réseau fournisseur","exceedances":0,"note":"Non applicable dans ce bilan"},
+            {"parameter":"Turbidité","minimum":"12","analyzed":"12","exceedances":0,"note":"—"},
+            {"parameter":"Trihalométhanes totaux","minimum":"16","analyzed":"16","exceedances":0,"note":"Aucun dépassement; moyenne non indiquée"}
+          ],
+          "events": []
+        }
+      ]
+    },
+    {
+      "id": "rimouski",
+      "name": "Rimouski",
+      "region": "Bas-Saint-Laurent",
+      "map": {
+        "x": 430,
+        "y": 450
+      },
+      "reports": [
+        {
+          "id": "rimouski-2025",
+          "network": "Réseau de Rimouski",
+          "year": "2025",
+          "installation": "X0008223",
+          "population": "47 142",
+          "period": "1er janv. – 31 déc. 2025",
+          "publication": "31 mars 2026",
+          "responsible": "Ville de Rimouski",
+          "file": "rimouski.pdf",
+          "url": "https://rimouski.ca/storage/app/media/services/citoyens/environnement/rimouski.pdf",
+          "exceedances": 5,
+          "thm": "9,2 µg/L",
+          "providerNote": "Cinq résultats de plomb dépassant la norme indiquée au bilan ont été mesurés à la même adresse. Les propriétaires ont été avisés, une recherche de la source du plomb a été entreprise et l’échantillonnage sera doublé en 2026.",
+          "rows": [
+            {"parameter":"Coliformes totaux","minimum":"612","analyzed":"660","exceedances":0,"note":"—"},
+            {"parameter":"Coliformes fécaux / E. coli","minimum":"612","analyzed":"660","exceedances":0,"note":"—"},
+            {"parameter":"Plomb","minimum":"30","analyzed":"34","exceedances":5,"note":"Norme indiquée au bilan : 0,01 mg/L"},
+            {"parameter":"Cuivre","minimum":"30","analyzed":"34","exceedances":0,"note":"—"},
+            {"parameter":"Turbidité","minimum":"12","analyzed":"12","exceedances":0,"note":"—"},
+            {"parameter":"Trihalométhanes totaux","minimum":"16","analyzed":"16","exceedances":0,"note":"Moy. 9,2 µg/L · norme 80 µg/L"}
+          ],
+          "events": [
+            {"date":"10 juill. 2025","parameter":"Plomb","location":"178, rue Fiset","standard":"0,01 mg/L","result":"0,0192 mg/L","action":"Propriétaires avisés; recherche de la source et suivi renforcé."},
+            {"date":"28 juill. 2025","parameter":"Plomb","location":"178, rue Fiset","standard":"0,01 mg/L","result":"0,0171 mg/L","action":"Propriétaires avisés; recherche de la source et suivi renforcé."},
+            {"date":"28 juill. 2025","parameter":"Plomb","location":"178, rue Fiset","standard":"0,01 mg/L","result":"0,0499 mg/L","action":"Propriétaires avisés; recherche de la source et suivi renforcé."},
+            {"date":"28 juill. 2025","parameter":"Plomb","location":"178, rue Fiset","standard":"0,01 mg/L","result":"0,0684 mg/L","action":"Propriétaires avisés; recherche de la source et suivi renforcé."},
+            {"date":"28 juill. 2025","parameter":"Plomb","location":"178, rue Fiset","standard":"0,01 mg/L","result":"0,0268 mg/L","action":"Propriétaires avisés; recherche de la source et suivi renforcé."}
+          ]
+        }
+      ]
+    },
+    {
+      "id": "saint-eustache",
+      "name": "Saint-Eustache",
+      "region": "Laurentides",
+      "map": {
+        "x": 279,
+        "y": 502
+      },
+      "reports": [
+        {
+          "id": "saint-eustache-2024",
+          "network": "Usine de production d’eau potable",
+          "year": "2024",
+          "installation": "113 844 430 701",
+          "population": "46 506",
+          "period": "1er janv. – 31 déc. 2024",
+          "publication": "6 janv. 2025",
+          "responsible": "Ville de Saint-Eustache",
+          "file": "bilan-annuel-qualite-de-leau-potable-2024-signe.pdf",
+          "url": "https://www.saint-eustache.ca/storage/app/media/services-aux-citoyens/eaux-et-arrosage/qualite-de-leau/bilan-annuel-qualite-de-leau-potable-2024-signe.pdf",
+          "exceedances": 2,
+          "thm": "38,1 µg/L",
+          "providerNote": "Deux dépassements de plomb ont été observés. Les citoyens ont été joints et les seconds prélèvements aux deux adresses étaient conformes. La campagne plomb est doublée en 2025 et 2026.",
+          "rows": [
+            {"parameter":"Coliformes totaux","minimum":"552","analyzed":"555","exceedances":0,"note":"—"},
+            {"parameter":"Coliformes fécaux / E. coli","minimum":"552","analyzed":"555","exceedances":0,"note":"—"},
+            {"parameter":"Plomb","minimum":"20","analyzed":"29","exceedances":2,"note":"Norme : 0,005 mg/L"},
+            {"parameter":"Cuivre","minimum":"20","analyzed":"29","exceedances":0,"note":"—"},
+            {"parameter":"Turbidité","minimum":"12","analyzed":"12","exceedances":0,"note":"—"},
+            {"parameter":"Trihalométhanes totaux","minimum":"16","analyzed":"16","exceedances":0,"note":"Moy. 38,1 µg/L · norme 80 µg/L"}
+          ],
+          "events": [
+            {"date":"29 août 2024","parameter":"Plomb","location":"80, rue Chayer","standard":"0,005 mg/L","result":"0,0069 mg/L","action":"Citoyen appelé; second prélèvement 4 × 1 L conforme."},
+            {"date":"5 sept. 2024","parameter":"Plomb","location":"126, 55e Avenue","standard":"0,005 mg/L","result":"0,0122 mg/L","action":"Citoyen appelé; second prélèvement 4 × 1 L conforme."}
+          ]
+        }
+      ]
+    },
+    {
+      "id": "victoriaville",
+      "name": "Victoriaville",
+      "region": "Centre-du-Québec",
+      "map": {
+        "x": 332,
+        "y": 526
+      },
+      "reports": [
+        {
+          "id": "victoriaville-arthabaska-2025",
+          "network": "Réseau Arthabaska",
+          "year": "2025",
+          "installation": "X0010729",
+          "population": "9 046",
+          "period": "1er janv. – 31 déc. 2025",
+          "publication": "11 févr. 2026",
+          "responsible": "Ville de Victoriaville",
+          "file": "Bilan-annuel-2025-Réseau-Arthabaska.pdf",
+          "url": "https://d16k40le270owi.cloudfront.net/Documents/Analyses-et-documents-dinformation-sur-leau/Bilan-annuel-2025-R%C3%A9seau-Arthabaska.pdf",
+          "exceedances": 0,
+          "thm": "20,14 µg/L",
+          "providerNote": "Aucun dépassement de norme indiqué dans le bilan 2025 du réseau Arthabaska.",
+          "rows": [
+            {"parameter":"Coliformes totaux","minimum":"120","analyzed":"153","exceedances":0,"note":"—"},
+            {"parameter":"Coliformes fécaux / E. coli","minimum":"120","analyzed":"153","exceedances":0,"note":"—"},
+            {"parameter":"Plomb","minimum":"10","analyzed":"10","exceedances":0,"note":"—"},
+            {"parameter":"Cuivre","minimum":"10","analyzed":"10","exceedances":0,"note":"—"},
+            {"parameter":"Turbidité","minimum":"12","analyzed":"12","exceedances":0,"note":"—"},
+            {"parameter":"Trihalométhanes totaux","minimum":"16","analyzed":"16","exceedances":0,"note":"Moy. 20,14 µg/L · norme 80 µg/L"}
+          ],
+          "events": []
+        },
+        {
+          "id": "victoriaville-saint-christophe-2025",
+          "network": "Réseau Saint-Christophe-d’Arthabaska",
+          "year": "2025",
+          "installation": "X0009317",
+          "population": "838",
+          "period": "1er janv. – 31 déc. 2025",
+          "publication": "11 févr. 2026",
+          "responsible": "Ville de Victoriaville",
+          "file": "Bilan-annuel-2025-Réseau-St-Christophe.pdf",
+          "url": "https://d16k40le270owi.cloudfront.net/Documents/Analyses-et-documents-dinformation-sur-leau/Bilan-annuel-2025-R%C3%A9seau-St-Christophe.pdf",
+          "exceedances": 0,
+          "thm": "13,20 µg/L",
+          "providerNote": "Aucun dépassement de norme indiqué dans le bilan 2025 du réseau Saint-Christophe-d’Arthabaska.",
+          "rows": [
+            {"parameter":"Coliformes totaux","minimum":"24","analyzed":"26","exceedances":0,"note":"—"},
+            {"parameter":"Coliformes fécaux / E. coli","minimum":"24","analyzed":"26","exceedances":0,"note":"—"},
+            {"parameter":"Plomb","minimum":"5","analyzed":"5","exceedances":0,"note":"—"},
+            {"parameter":"Cuivre","minimum":"5","analyzed":"5","exceedances":0,"note":"—"},
+            {"parameter":"Turbidité","minimum":"12","analyzed":"12","exceedances":0,"note":"—"},
+            {"parameter":"Trihalométhanes totaux","minimum":"4","analyzed":"4","exceedances":0,"note":"Moy. 13,20 µg/L · norme 80 µg/L"}
+          ],
+          "events": []
+        },
+        {
+          "id": "victoriaville-reseau-principal-2025",
+          "network": "Réseau Victoriaville",
+          "year": "2025",
+          "installation": "X0010728",
+          "population": "38 005",
+          "period": "1er janv. – 31 déc. 2025",
+          "publication": "11 févr. 2026",
+          "responsible": "Ville de Victoriaville",
+          "file": "Bilan-annuel-2025-Réseau-Victoriaville.pdf",
+          "url": "https://d16k40le270owi.cloudfront.net/Documents/Analyses-et-documents-dinformation-sur-leau/Bilan-annuel-2025-R%C3%A9seau-Victoriaville.pdf",
+          "exceedances": 0,
+          "thm": "29,15 µg/L",
+          "providerNote": "Aucun dépassement de norme indiqué dans le bilan 2025 du réseau Victoriaville.",
+          "rows": [
+            {"parameter":"Coliformes totaux","minimum":"468","analyzed":"509","exceedances":0,"note":"—"},
+            {"parameter":"Coliformes fécaux / E. coli","minimum":"468","analyzed":"509","exceedances":0,"note":"—"},
+            {"parameter":"Plomb","minimum":"20","analyzed":"20","exceedances":0,"note":"—"},
+            {"parameter":"Cuivre","minimum":"20","analyzed":"20","exceedances":0,"note":"—"},
+            {"parameter":"Turbidité","minimum":"12","analyzed":"12","exceedances":0,"note":"—"},
+            {"parameter":"Trihalométhanes totaux","minimum":"16","analyzed":"16","exceedances":0,"note":"Moy. 29,15 µg/L · norme 80 µg/L"}
+          ],
+          "events": []
+        }
+      ]
     }
   ]
 }
-
