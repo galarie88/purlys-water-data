@@ -1,0 +1,162 @@
+{
+  "schemaVersion": 1,
+  "updatedAt": "2026-07-20",
+  "municipalities": [
+    {
+      "id": "terrebonne",
+      "name": "Terrebonne",
+      "region": "Lanaudière",
+      "map": {
+        "x": 293.250634,
+        "y": 505.58324
+      },
+      "reports": [
+        {
+          "id": "terrebonne-2024",
+          "network": "Terrebonne + La Plaine",
+          "year": "2024",
+          "installation": "X0010510",
+          "population": "109 811",
+          "period": "1er janv. – 31 déc. 2024",
+          "publication": "31 mars 2025",
+          "responsible": "Ville de Terrebonne",
+          "file": "Bilan_qualite_EP_2024_Reseau-Terrebonne_VF.pdf",
+          "url": "https://terrebonne.ca/wp-content/uploads/2025/03/Bilan_qualite_EP_2024_Reseau-Terrebonne_VF.pdf",
+          "exceedances": 3,
+          "thm": "40,8 µg/L",
+          "providerNote": "",
+          "rows": [
+            {
+              "parameter": "Coliformes totaux",
+              "minimum": "1 212",
+              "analyzed": "1 248",
+              "exceedances": 1,
+              "note": "Norme : < 10"
+            },
+            {
+              "parameter": "Coliformes fécaux / E. coli",
+              "minimum": "1 212",
+              "analyzed": "1 248",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Plomb",
+              "minimum": "50",
+              "analyzed": "52",
+              "exceedances": 2,
+              "note": "Norme : 0,005 mg/L"
+            },
+            {
+              "parameter": "Cuivre",
+              "minimum": "50",
+              "analyzed": "52",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Turbidité",
+              "minimum": "12",
+              "analyzed": "13",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Trihalométhanes totaux",
+              "minimum": "32",
+              "analyzed": "34",
+              "exceedances": 0,
+              "note": "Moy. 40,8 µg/L · norme 80 µg/L"
+            }
+          ],
+          "events": [
+            {
+              "parameter": "Coliformes totaux",
+              "date": "21 août 2024",
+              "place": "7700, Laurier",
+              "standard": "< 10",
+              "result": "28",
+              "action": "Drainage du réseau le 26 août. Les 5 et 6 septembre, 40 échantillons ont été repris sur deux jours; tous étaient conformes."
+            },
+            {
+              "parameter": "Plomb",
+              "date": "3 juillet 2024",
+              "place": "3677, montée Gagnon",
+              "standard": "0,005 mg/L",
+              "result": "0,0108 mg/L",
+              "action": "Échantillonnage séquentiel. Le rapport indique du plomb au-dessus de la norme dans les quatre litres, le remplacement du boîtier de service par la Ville et une recommandation de consulter un plombier pour la partie privée."
+            },
+            {
+              "parameter": "Plomb",
+              "date": "9 juillet 2024",
+              "place": "400, montée Dumais",
+              "standard": "0,005 mg/L",
+              "result": "0,0056 mg/L",
+              "action": "Lors de la reprise séquentielle, le laboratoire a mélangé les quatre bouteilles; le résultat combiné était conforme à 0,0011 mg/L. La date limite étant passée, l’adresse devait être remise sur la liste de visite 2025."
+            }
+          ]
+        },
+        {
+          "id": "carrefour-2025",
+          "network": "Carrefour des Fleurs",
+          "year": "2025",
+          "installation": "X0008154",
+          "population": "9 549",
+          "period": "1er janv. – 31 déc. 2025",
+          "publication": "31 mars 2026",
+          "responsible": "Ville de Terrebonne",
+          "file": "Bilan_qualite_EP_2025_Carrefour-des-Fleurs.pdf",
+          "url": "https://terrebonne.ca/wp-content/uploads/2026/03/Bilan_qualite_EP_2025_Carrefour-des-Fleurs.pdf",
+          "exceedances": 0,
+          "thm": "33,2 µg/L",
+          "providerNote": "Pour ce réseau, le bilan précise que la Ville de Repentigny, fournisseur d’eau potable, analyse les autres substances inorganiques et organiques. Terrebonne réalise la campagne de prélèvement pour le plomb et le cuivre.",
+          "rows": [
+            {
+              "parameter": "Coliformes totaux",
+              "minimum": "120",
+              "analyzed": "155",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Coliformes fécaux / E. coli",
+              "minimum": "120",
+              "analyzed": "155",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Plomb",
+              "minimum": "10",
+              "analyzed": "10",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Cuivre",
+              "minimum": "10",
+              "analyzed": "10",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Turbidité",
+              "minimum": "12",
+              "analyzed": "11",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Trihalométhanes totaux",
+              "minimum": "16",
+              "analyzed": "16",
+              "exceedances": 0,
+              "note": "Moy. 33,2 µg/L"
+            }
+          ],
+          "events": []
+        }
+      ]
+    }
+  ]
+}
