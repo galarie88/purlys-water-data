@@ -418,6 +418,77 @@
           ]
         }
       ]
+    },
+    {
+      "id": "repentigny",
+      "name": "Repentigny",
+      "region": "Lanaudière",
+      "map": {
+        "x": 298.4,
+        "y": 504.3
+      },
+      "reports": [
+        {
+          "id": "repentigny-2025",
+          "network": "Ville de Repentigny",
+          "year": "2025",
+          "installation": "114306000701",
+          "population": "90 040",
+          "period": "1er janv. – 31 déc. 2025",
+          "publication": "12 mars 2026",
+          "responsible": "Ville de Repentigny",
+          "file": "ville-repentigny_rapport_bilan-annuel-qualite-eau-potable_2025.pdf",
+          "url": "https://repentigny.ca/sites/default/files/2026-03/ville-repentigny_rapport_bilan-annuel-qualite-eau-potable_2025.pdf",
+          "exceedances": 0,
+          "thm": "28,5 µg/L",
+          "providerNote": "Une présence de coliformes totaux a été détectée parmi 1 124 échantillons, sans constituer un dépassement de la norme réglementaire. Aucun E. coli n’a été détecté.",
+          "rows": [
+            {
+              "parameter": "Coliformes totaux",
+              "minimum": "1 080",
+              "analyzed": "1 124",
+              "exceedances": 0,
+              "note": "1 présence; aucun dépassement réglementaire"
+            },
+            {
+              "parameter": "Coliformes fécaux / E. coli",
+              "minimum": "1 080",
+              "analyzed": "1 124",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Plomb",
+              "minimum": "30",
+              "analyzed": "30",
+              "exceedances": 0,
+              "note": "Norme : 0,005 mg/L"
+            },
+            {
+              "parameter": "Cuivre",
+              "minimum": "30",
+              "analyzed": "30",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Turbidité",
+              "minimum": "12",
+              "analyzed": "12",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Trihalométhanes totaux",
+              "minimum": "16",
+              "analyzed": "16",
+              "exceedances": 0,
+              "note": "Moy. 28,5 µg/L · norme 80 µg/L"
+            }
+          ],
+          "events": []
+        }
+      ]
     }
   ]
 }
