@@ -1816,6 +1816,304 @@
           "events": []
         }
       ]
+    },
+    {
+      "id": "saint-hyacinthe",
+      "name": "Saint-Hyacinthe",
+      "region": "Montérégie",
+      "map": {
+        "x": 316,
+        "y": 519
+      },
+      "reports": [
+        {
+          "id": "saint-hyacinthe-2025",
+          "network": "Réseau de Saint-Hyacinthe",
+          "year": "2025",
+          "installation": "15193519-07-01",
+          "population": "60 847",
+          "period": "1er janv. – 31 déc. 2025",
+          "publication": "26 févr. 2026",
+          "responsible": "Ville de Saint-Hyacinthe",
+          "file": "Bilan-annuel-eau-2026.pdf",
+          "url": "https://www.st-hyacinthe.ca/medias/services-aux-citoyens/environnement/eau/Bilan-annuel-eau-2026.pdf",
+          "exceedances": 3,
+          "thm": "56,4 µg/L",
+          "providerNote": "Trois dépassements de plomb sont consignés. Le bilan marque les mesures prises par un astérisque. La moyenne des valeurs maximales trimestrielles de trihalométhanes est de 56,4 µg/L, sous la norme annuelle de 80 µg/L.",
+          "rows": [
+            {
+              "parameter": "Coliformes totaux",
+              "minimum": "730",
+              "analyzed": "736",
+              "exceedances": 0,
+              "note": "Des présences sont mentionnées, sans dépassement réglementaire"
+            },
+            {
+              "parameter": "Coliformes fécaux / E. coli",
+              "minimum": "730",
+              "analyzed": "736",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Plomb",
+              "minimum": "30",
+              "analyzed": "60",
+              "exceedances": 3,
+              "note": "Norme : 0,005 mg/L"
+            },
+            {
+              "parameter": "Cuivre",
+              "minimum": "30",
+              "analyzed": "60",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Turbidité",
+              "minimum": "12",
+              "analyzed": "12",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Trihalométhanes totaux",
+              "minimum": "Non indiqué",
+              "analyzed": "20 résultats",
+              "exceedances": 0,
+              "note": "Moy. des maximums trimestriels : 56,4 µg/L · norme 80 µg/L"
+            }
+          ],
+          "events": [
+            {
+              "date": "31 juill. 2025",
+              "parameter": "Plomb",
+              "place": "575, rue Bovey",
+              "standard": "0,005 mg/L",
+              "result": "0,0150 mg/L",
+              "action": "Mesure de suivi signalée par un astérisque dans le bilan officiel."
+            },
+            {
+              "date": "31 juill. 2025",
+              "parameter": "Plomb",
+              "place": "760, rue du Sacré-Cœur Est",
+              "standard": "0,005 mg/L",
+              "result": "0,006 mg/L",
+              "action": "Mesure de suivi signalée par un astérisque dans le bilan officiel."
+            },
+            {
+              "date": "15 août 2025",
+              "parameter": "Plomb",
+              "place": "2370, avenue Pagé",
+              "standard": "0,005 mg/L",
+              "result": "0,006 mg/L",
+              "action": "Mesure de suivi signalée par un astérisque dans le bilan officiel."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "shawinigan",
+      "name": "Shawinigan",
+      "region": "Mauricie",
+      "map": {
+        "x": 335,
+        "y": 477
+      },
+      "reports": [
+        {
+          "id": "shawinigan-principal-2025",
+          "network": "Réseau Shawinigan",
+          "year": "2025",
+          "installation": "X0011548",
+          "population": "34 078",
+          "period": "1er janv. – 31 déc. 2025",
+          "publication": "31 mars 2026",
+          "responsible": "Ville de Shawinigan",
+          "file": "BILAN_qlt_eau_SHA_2025_VF.pdf",
+          "url": "https://www.shawinigan.ca/wp-content/uploads/2026/03/BILAN_qlt_eau_SHA_2025_VF.pdf",
+          "exceedances": 0,
+          "thm": "34 µg/L (valeur inscrite)",
+          "providerNote": "Aucun dépassement indiqué. Le tableau des trihalométhanes inscrit la valeur 34 dans sa dernière colonne; elle est conservée comme valeur publiée, le libellé de colonne du document étant ambigu.",
+          "rows": [
+            {
+              "parameter": "Coliformes totaux",
+              "minimum": "408",
+              "analyzed": "505",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Coliformes fécaux / E. coli",
+              "minimum": "408",
+              "analyzed": "505",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Plomb",
+              "minimum": "20",
+              "analyzed": "20",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Cuivre",
+              "minimum": "20",
+              "analyzed": "20",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Turbidité",
+              "minimum": "12",
+              "analyzed": "25",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Trihalométhanes totaux",
+              "minimum": "16",
+              "analyzed": "55",
+              "exceedances": 0,
+              "note": "Valeur 34 inscrite au bilan; aucun dépassement déclaré"
+            }
+          ],
+          "events": []
+        },
+        {
+          "id": "shawinigan-grand-mere-2025",
+          "network": "Réseau Grand-Mère",
+          "year": "2025",
+          "installation": "X0008260",
+          "population": "17 049",
+          "period": "1er janv. – 31 déc. 2025",
+          "publication": "31 mars 2026",
+          "responsible": "Ville de Shawinigan",
+          "file": "BILAN_qlt_eau_GM_2025_VF.pdf",
+          "url": "https://www.shawinigan.ca/wp-content/uploads/2026/03/BILAN_qlt_eau_GM_2025_VF.pdf",
+          "exceedances": 0,
+          "thm": "Non indiquée",
+          "providerNote": "Aucun dépassement de norme indiqué. Le bilan présente 22 analyses de trihalométhanes, sans moyenne annuelle exploitable dans le tableau publié.",
+          "rows": [
+            {
+              "parameter": "Coliformes totaux",
+              "minimum": "228",
+              "analyzed": "355",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Coliformes fécaux / E. coli",
+              "minimum": "228",
+              "analyzed": "355",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Plomb",
+              "minimum": "10",
+              "analyzed": "11",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Cuivre",
+              "minimum": "10",
+              "analyzed": "11",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Turbidité",
+              "minimum": "12",
+              "analyzed": "24",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Trihalométhanes totaux",
+              "minimum": "16",
+              "analyzed": "22",
+              "exceedances": 0,
+              "note": "Aucun dépassement; moyenne non indiquée"
+            }
+          ],
+          "events": []
+        }
+      ]
+    },
+    {
+      "id": "chateauguay",
+      "name": "Châteauguay",
+      "region": "Montérégie",
+      "map": {
+        "x": 278,
+        "y": 518
+      },
+      "reports": [
+        {
+          "id": "chateauguay-2025",
+          "network": "Système de distribution d’eau potable de Châteauguay",
+          "year": "2025",
+          "installation": "X0010090",
+          "population": "52 950",
+          "period": "1er janv. – 31 déc. 2025",
+          "publication": "23 févr. 2026",
+          "responsible": "Ville de Châteauguay",
+          "file": "Bilan_2025_qualite_eau_potable.pdf",
+          "url": "https://ville.chateauguay.qc.ca/wp-content/uploads/2026/02/Bilan_2025_qualite_eau_potable.pdf",
+          "exceedances": 0,
+          "thm": "Non indiquée",
+          "providerNote": "Aucun dépassement de norme indiqué. Le bilan présente 22 analyses de trihalométhanes, mais aucune moyenne annuelle exploitable dans la cellule publiée.",
+          "rows": [
+            {
+              "parameter": "Coliformes totaux",
+              "minimum": "636",
+              "analyzed": "656",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Coliformes fécaux / E. coli",
+              "minimum": "636",
+              "analyzed": "656",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Plomb",
+              "minimum": "30",
+              "analyzed": "30",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Cuivre",
+              "minimum": "30",
+              "analyzed": "30",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Turbidité",
+              "minimum": "12",
+              "analyzed": "12",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Trihalométhanes totaux",
+              "minimum": "16",
+              "analyzed": "22",
+              "exceedances": 0,
+              "note": "Aucun dépassement; moyenne non indiquée"
+            }
+          ],
+          "events": []
+        }
+      ]
     }
   ]
 }
