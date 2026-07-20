@@ -2114,6 +2114,295 @@
           "events": []
         }
       ]
+    },
+    {
+      "id": "levis",
+      "name": "Lévis",
+      "region": "Chaudière-Appalaches",
+      "map": {
+        "x": 370,
+        "y": 466
+      },
+      "reports": [
+        {
+          "id": "levis-secteur-levis-2025",
+          "network": "Secteur Lévis",
+          "year": "2025",
+          "installation": "X0010694",
+          "population": "63 803",
+          "period": "1er janv. – 31 déc. 2025",
+          "publication": "31 mars 2026",
+          "responsible": "Ville de Lévis",
+          "file": "2025_Levis_bilan_annuel.pdf",
+          "url": "https://www.ville.levis.qc.ca/fileadmin/documents/pdf/transports/2025_Levis_bilan_annuel.pdf",
+          "exceedances": 0,
+          "thm": "36 µg/L",
+          "providerNote": "Une détection de colonies atypiques supérieure à 200 a été attribuée à une erreur d’échantillonnage. L’échantillonnage de confirmation était conforme; le bilan ne la présente pas comme un dépassement réglementaire.",
+          "rows": [
+            {
+              "parameter": "Coliformes totaux",
+              "minimum": "766",
+              "analyzed": "956",
+              "exceedances": 0,
+              "note": "1 incident de colonies atypiques; confirmation conforme"
+            },
+            {
+              "parameter": "Coliformes fécaux / E. coli",
+              "minimum": "766",
+              "analyzed": "956",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Plomb",
+              "minimum": "60",
+              "analyzed": "62",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Cuivre",
+              "minimum": "60",
+              "analyzed": "62",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Turbidité",
+              "minimum": "12",
+              "analyzed": "12",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Trihalométhanes totaux",
+              "minimum": "16",
+              "analyzed": "16",
+              "exceedances": 0,
+              "note": "Moy. 36 µg/L · norme 80 µg/L"
+            }
+          ],
+          "events": [
+            {
+              "date": "17 déc. 2025",
+              "parameter": "Colonies atypiques",
+              "place": "2, rue Jean-Cloutier",
+              "standard": "200",
+              "result": "> 200",
+              "action": "Erreur d’échantillonnage identifiée; confirmation conforme et sensibilisation du personnel."
+            }
+          ]
+        },
+        {
+          "id": "levis-charny-2025",
+          "network": "Breakeyville – Charny – Saint-Rédempteur – Saint-Nicolas – Saint-Étienne",
+          "year": "2025",
+          "installation": "X0008979",
+          "population": "64 362",
+          "period": "1er janv. – 31 déc. 2025",
+          "publication": "31 mars 2026",
+          "responsible": "Ville de Lévis",
+          "file": "2025_Charny_bilan_annuel.pdf",
+          "url": "https://www.ville.levis.qc.ca/fileadmin/documents/pdf/transports/2025_Charny_bilan_annuel.pdf",
+          "exceedances": 1,
+          "thm": "91,0 µg/L",
+          "providerNote": "La moyenne réglementaire des valeurs maximales trimestrielles de THM est de 91,0 µg/L, au-dessus de la norme de 80 µg/L. La Ville précise que la moyenne de l’ensemble des 92 analyses est de 61,8 µg/L et qu’un plan d’action est en cours.",
+          "rows": [
+            {
+              "parameter": "Coliformes totaux",
+              "minimum": "772",
+              "analyzed": "1 119",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Coliformes fécaux / E. coli",
+              "minimum": "772",
+              "analyzed": "1 119",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Plomb",
+              "minimum": "30",
+              "analyzed": "30",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Cuivre",
+              "minimum": "30",
+              "analyzed": "30",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Turbidité",
+              "minimum": "12",
+              "analyzed": "12",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Trihalométhanes totaux",
+              "minimum": "16",
+              "analyzed": "92",
+              "exceedances": 1,
+              "note": "Moy. réglementaire 91,0 µg/L · moyenne globale 61,8 µg/L · norme 80 µg/L"
+            }
+          ],
+          "events": [
+            {
+              "date": "Année 2025",
+              "parameter": "Trihalométhanes totaux",
+              "place": "Extrémités du réseau Charny",
+              "standard": "80 µg/L (moyenne réglementaire)",
+              "result": "91,0 µg/L",
+              "action": "Échantillonnage intensif de 92 analyses et plan d’action visant à réduire durablement la formation de THM."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "saint-jean-sur-richelieu",
+      "name": "Saint-Jean-sur-Richelieu",
+      "region": "Montérégie",
+      "map": {
+        "x": 293,
+        "y": 530
+      },
+      "reports": [
+        {
+          "id": "sjsr-rive-est-2025",
+          "network": "Usine de filtration Rive Est (Iberville)",
+          "year": "2025",
+          "installation": "X0008117",
+          "population": "18 103",
+          "period": "1er janv. – 31 déc. 2025",
+          "publication": "Janv. 2026",
+          "responsible": "Ville de Saint-Jean-sur-Richelieu",
+          "file": "bilan-annuel-rive-est-2025.pdf",
+          "url": "https://sjsr.ca/wp-content/uploads/2026/01/bilan-annuel-rive-est-2025.pdf",
+          "exceedances": 0,
+          "thm": "23,73 µg/L",
+          "providerNote": "Aucun dépassement de norme indiqué dans le bilan 2025 de la rive est.",
+          "rows": [
+            {
+              "parameter": "Coliformes totaux",
+              "minimum": "228",
+              "analyzed": "257",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Coliformes fécaux / E. coli",
+              "minimum": "208",
+              "analyzed": "257",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Plomb",
+              "minimum": "10",
+              "analyzed": "12",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Cuivre",
+              "minimum": "10",
+              "analyzed": "12",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Turbidité",
+              "minimum": "12",
+              "analyzed": "12",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Trihalométhanes totaux",
+              "minimum": "16",
+              "analyzed": "16",
+              "exceedances": 0,
+              "note": "Moy. 23,73 µg/L · norme 80 µg/L"
+            }
+          ],
+          "events": []
+        },
+        {
+          "id": "sjsr-rive-ouest-2025",
+          "network": "Usine de filtration Rive Ouest",
+          "year": "2025",
+          "installation": "X0008107",
+          "population": "79 587",
+          "period": "1er janv. – 31 déc. 2025",
+          "publication": "Janv. 2026",
+          "responsible": "Ville de Saint-Jean-sur-Richelieu",
+          "file": "bilan-annuel-rive-ouest-2025.pdf",
+          "url": "https://sjsr.ca/wp-content/uploads/2026/01/bilan-annuel-rive-ouest-2025.pdf",
+          "exceedances": 0,
+          "thm": "20,36 µg/L",
+          "providerNote": "Une présence de coliformes totaux a été détectée. La Ville indique qu’aucune procédure réglementaire n’était requise, mais a purgé la borne-fontaine voisine et réalisé deux échantillonnages de contrôle.",
+          "rows": [
+            {
+              "parameter": "Coliformes totaux",
+              "minimum": "960",
+              "analyzed": "1 008",
+              "exceedances": 0,
+              "note": "1 présence; contrôles et purge préventive"
+            },
+            {
+              "parameter": "Coliformes fécaux / E. coli",
+              "minimum": "960",
+              "analyzed": "1 008",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Plomb",
+              "minimum": "30",
+              "analyzed": "31",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Cuivre",
+              "minimum": "30",
+              "analyzed": "31",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Turbidité",
+              "minimum": "12",
+              "analyzed": "12",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Trihalométhanes totaux",
+              "minimum": "16",
+              "analyzed": "16",
+              "exceedances": 0,
+              "note": "Moy. 20,36 µg/L · norme 80 µg/L"
+            }
+          ],
+          "events": [
+            {
+              "date": "20 janv. 2025",
+              "parameter": "Coliformes totaux",
+              "place": "116, rue Clermont, parc Pierre-Benoit",
+              "standard": "Absence",
+              "result": "Présence",
+              "action": "Deux échantillonnages de contrôle et purge préventive de la borne-fontaine la plus proche; aucune procédure réglementaire requise."
+            }
+          ]
+        }
+      ]
     }
   ]
 }
