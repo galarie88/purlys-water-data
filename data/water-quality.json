@@ -4260,6 +4260,1081 @@
           ]
         }
       ]
+    },
+    {
+      "id": "quebec",
+      "name": "Québec",
+      "region": "Capitale-Nationale",
+      "map": {
+        "x": 339.1,
+        "y": 476.2
+      },
+      "reports": [
+        {
+          "id": "quebec-2025",
+          "network": "Ville de Québec",
+          "year": "2025",
+          "installation": "X0008180",
+          "population": "594 443",
+          "period": "1er janv. – 31 déc. 2025",
+          "publication": "31 mars 2026",
+          "responsible": "Valérie Tremblay",
+          "file": "bilan-quebec-2025.pdf",
+          "url": "https://www.ville.quebec.qc.ca/apropos/planification-orientations/environnement/eau/gestion_eau/docs/bilan-quebec-2025.pdf",
+          "exceedances": 4,
+          "thm": "Non indiquée",
+          "providerNote": "Les quatre dépassements concernent la turbidité. Aucun dépassement microbiologique, inorganique ou organique n’est déclaré. Le bilan distinct du suivi du plomb et du cuivre confirme 51 analyses et aucun dépassement pour ces deux paramètres.",
+          "rows": [
+            {
+              "parameter": "Coliformes totaux",
+              "minimum": "1 800",
+              "analyzed": "4 329",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Coliformes fécaux / E. coli",
+              "minimum": "1 800",
+              "analyzed": "4 329",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Plomb",
+              "minimum": "50",
+              "analyzed": "51",
+              "exceedances": 0,
+              "note": "Confirmé par le bilan distinct du plomb et du cuivre"
+            },
+            {
+              "parameter": "Cuivre",
+              "minimum": "50",
+              "analyzed": "51",
+              "exceedances": 0,
+              "note": "Confirmé par le bilan distinct du plomb et du cuivre"
+            },
+            {
+              "parameter": "Turbidité",
+              "minimum": "12",
+              "analyzed": "4 300",
+              "exceedances": 4,
+              "note": "4 résultats de 5,4 à 20 UTN · norme 5 UTN"
+            },
+            {
+              "parameter": "Trihalométhanes totaux",
+              "minimum": "32",
+              "analyzed": "38",
+              "exceedances": 0,
+              "note": "Norme annuelle 80 µg/L · moyenne non indiquée"
+            }
+          ],
+          "events": [
+            {
+              "date": "2 avr. 2025",
+              "parameter": "Turbidité",
+              "place": "2485, chemin Saint-Louis",
+              "standard": "5 UTN",
+              "result": "20 UTN",
+              "action": "Rinçage complet du secteur et échantillonnage de confirmation du retour à la conformité."
+            },
+            {
+              "date": "15 mai 2025",
+              "parameter": "Turbidité",
+              "place": "2320, chemin du Foulon",
+              "standard": "5 UTN",
+              "result": "5,4 UTN",
+              "action": "Vérification de l’ouverture des vannes après des travaux et nouvel échantillonnage de suivi."
+            },
+            {
+              "date": "10 juin 2025",
+              "parameter": "Turbidité",
+              "place": "1451, boulevard Père-Lelièvre",
+              "standard": "5 UTN",
+              "result": "9,1 UTN",
+              "action": "Ouverture d’une borne d’incendie afin de renouveler l’eau de la conduite et échantillonnage de confirmation."
+            },
+            {
+              "date": "4 sept. 2025",
+              "parameter": "Turbidité",
+              "place": "1415, rue Frank-Carrel, local 133",
+              "standard": "5 UTN",
+              "result": "8,2 UTN",
+              "action": "Rinçage complet du secteur et échantillonnage de confirmation du retour à la conformité."
+            }
+          ]
+        },
+        {
+          "id": "quebec-perce-neige-2025",
+          "network": "Secteur Perce-Neige (Sainte-Brigitte-de-Laval)",
+          "year": "2025",
+          "installation": "X2159271",
+          "population": "50",
+          "period": "1er janv. – 31 déc. 2025",
+          "publication": "31 mars 2026",
+          "responsible": "Sylvain-A. Langlois",
+          "file": "bilan-perce-neige-2025.pdf",
+          "url": "https://www.ville.quebec.qc.ca/apropos/planification-orientations/environnement/eau/gestion_eau/docs/bilan-perce-neige-2025.pdf",
+          "exceedances": 0,
+          "thm": "Non indiquée",
+          "providerNote": "Aucun dépassement n’est déclaré. Les exigences visant les substances inorganiques et organiques autres que les THM sont indiquées comme non applicables parce que ce réseau est alimenté par un autre réseau assujetti. Le bilan distinct du plomb et du cuivre confirme deux analyses conformes pour chaque paramètre.",
+          "rows": [
+            {
+              "parameter": "Coliformes totaux",
+              "minimum": "24",
+              "analyzed": "28",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Coliformes fécaux / E. coli",
+              "minimum": "24",
+              "analyzed": "28",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Plomb",
+              "minimum": "2",
+              "analyzed": "2",
+              "exceedances": 0,
+              "note": "Bilan distinct du plomb et du cuivre"
+            },
+            {
+              "parameter": "Cuivre",
+              "minimum": "2",
+              "analyzed": "2",
+              "exceedances": 0,
+              "note": "Bilan distinct du plomb et du cuivre"
+            },
+            {
+              "parameter": "Turbidité",
+              "minimum": "12",
+              "analyzed": "28",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Trihalométhanes totaux",
+              "minimum": "4",
+              "analyzed": "4",
+              "exceedances": 0,
+              "note": "Norme annuelle 80 µg/L · moyenne non indiquée"
+            }
+          ],
+          "events": []
+        }
+      ]
+    },
+    {
+      "id": "laval",
+      "name": "Laval",
+      "region": "Laval",
+      "map": {
+        "x": 290.5,
+        "y": 501.8
+      },
+      "reports": [
+        {
+          "id": "laval-2025",
+          "network": "Ville de Laval",
+          "year": "2025",
+          "installation": "X0008882",
+          "population": "457 621",
+          "period": "1er janv. – 31 déc. 2025",
+          "publication": "Mars 2026",
+          "responsible": "Ville de Laval",
+          "file": "bilan-qualite-eau-potable-2025.pdf",
+          "url": "https://www.laval.ca/wp-content/uploads/2026/03/bilan-qualite-eau-potable-2025.pdf",
+          "exceedances": 0,
+          "thm": "37–45 µg/L",
+          "providerNote": "Le bilan déclare l’ensemble des paramètres conforme. Une présence de coliformes totaux en juin demeure sous le critère réglementaire. Un échantillon de plomb du premier jet de 250 mL dépassait la norme, mais la robinetterie a été identifiée comme source, l’entrée de service n’était pas en plomb et l’échantillon réglementaire après cinq minutes était conforme; cet épisode n’est donc pas compté comme dépassement réglementaire.",
+          "rows": [
+            {
+              "parameter": "Coliformes totaux",
+              "minimum": "1 620",
+              "analyzed": "1 934",
+              "exceedances": 0,
+              "note": "1 présence en juin · aucun dépassement réglementaire"
+            },
+            {
+              "parameter": "Coliformes fécaux / E. coli",
+              "minimum": "1 620",
+              "analyzed": "1 934",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Plomb",
+              "minimum": "50",
+              "analyzed": "51",
+              "exceedances": 0,
+              "note": "Maximum réglementaire 0,0017 mg/L · norme 0,005 mg/L"
+            },
+            {
+              "parameter": "Cuivre",
+              "minimum": "50",
+              "analyzed": "51",
+              "exceedances": 0,
+              "note": "Maximum 0,040 mg/L · norme 1 mg/L"
+            },
+            {
+              "parameter": "Turbidité",
+              "minimum": "12",
+              "analyzed": "20",
+              "exceedances": 0,
+              "note": "4 à Chomedey · 4 à Pont-Viau · 12 à Sainte-Rose"
+            },
+            {
+              "parameter": "Trihalométhanes totaux",
+              "minimum": "4 par zone",
+              "analyzed": "12 (3 zones × 4)",
+              "exceedances": 0,
+              "note": "Chomedey 43 · Pont-Viau 37 · Sainte-Rose 45 µg/L · norme annuelle 80 µg/L"
+            }
+          ],
+          "events": [
+            {
+              "date": "Campagne 2025",
+              "parameter": "Plomb",
+              "place": "Une résidence (adresse non publiée)",
+              "standard": "0,005 mg/L",
+              "result": "Au-dessus de la norme au premier 250 mL (valeur non publiée)",
+              "action": "Robinetterie identifiée comme source; entrée de service confirmée sans plomb et échantillon réglementaire conforme. Épisode non compté comme dépassement réglementaire."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "gatineau",
+      "name": "Gatineau",
+      "region": "Outaouais",
+      "map": {
+        "x": 239.9,
+        "y": 489.4
+      },
+      "reports": [
+        {
+          "id": "gatineau-aylmer-2025",
+          "network": "Usine d’Aylmer",
+          "year": "2025",
+          "installation": "X0009980",
+          "population": "64 145",
+          "period": "1er janv. – 31 déc. 2025",
+          "publication": "31 mars 2026",
+          "responsible": "Mohamed Mouas",
+          "file": "bilan_annuel_usines_production_eau_potable_2025.fr-CA.pdf",
+          "url": "https://www.gatineau.ca/docs/guichet_municipal/eau_potable/qualite_eau_potable/bilan_annuel_usines_production_eau_potable_2025.fr-CA.pdf",
+          "exceedances": 0,
+          "thm": "68,1 µg/L",
+          "providerNote": "Le bilan annuel consolidé affiche un dépassement de plomb, mais son tableau des dépassements est vide. Le bilan officiel distinct du plomb et du cuivre et sa liste complète des 31 résultats indiquent tous deux zéro dépassement; cette fiche retient donc zéro. La population provient du bilan annuel consolidé; le bilan distinct du plomb utilise une autre valeur.",
+          "rows": [
+            {
+              "parameter": "Coliformes totaux",
+              "minimum": "744",
+              "analyzed": "874",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Coliformes fécaux / E. coli",
+              "minimum": "744",
+              "analyzed": "857",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Plomb",
+              "minimum": "30",
+              "analyzed": "31",
+              "exceedances": 0,
+              "note": "Bilan distinct du plomb et du cuivre; tous les résultats ≤ 0,0018 mg/L"
+            },
+            {
+              "parameter": "Cuivre",
+              "minimum": "30",
+              "analyzed": "31",
+              "exceedances": 0,
+              "note": "Bilan distinct du plomb et du cuivre"
+            },
+            {
+              "parameter": "Turbidité",
+              "minimum": "12",
+              "analyzed": "12",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Trihalométhanes totaux",
+              "minimum": "20",
+              "analyzed": "20",
+              "exceedances": 0,
+              "note": "Moy. 68,1 µg/L · norme annuelle 80 µg/L"
+            }
+          ],
+          "events": []
+        },
+        {
+          "id": "gatineau-buckingham-2025",
+          "network": "Usine de Buckingham / Masson-Angers",
+          "year": "2025",
+          "installation": "X0010250",
+          "population": "26 190",
+          "period": "1er janv. – 31 déc. 2025",
+          "publication": "31 mars 2026",
+          "responsible": "Mohamed Mouas",
+          "file": "bilan_annuel_usines_production_eau_potable_2025.fr-CA.pdf",
+          "url": "https://www.gatineau.ca/docs/guichet_municipal/eau_potable/qualite_eau_potable/bilan_annuel_usines_production_eau_potable_2025.fr-CA.pdf",
+          "exceedances": 1,
+          "thm": "41,8 µg/L",
+          "providerNote": "Le tableau sommaire consolidé affiche zéro dépassement de plomb, mais son tableau détaillé et le bilan officiel distinct du plomb et du cuivre documentent le même dépassement à 0,0051 mg/L; la fiche retient donc un dépassement. Le sommaire marque aussi une valeur de pH, sans la présenter comme dépassement réglementaire dans le tableau détaillé; elle n’est pas ajoutée au total. La population provient du bilan annuel consolidé.",
+          "rows": [
+            {
+              "parameter": "Coliformes totaux",
+              "minimum": "312",
+              "analyzed": "410",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Coliformes fécaux / E. coli",
+              "minimum": "312",
+              "analyzed": "412",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Plomb",
+              "minimum": "20",
+              "analyzed": "20",
+              "exceedances": 1,
+              "note": "1 résultat à 0,0051 mg/L · norme 0,005 mg/L"
+            },
+            {
+              "parameter": "Cuivre",
+              "minimum": "20",
+              "analyzed": "20",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Turbidité",
+              "minimum": "12",
+              "analyzed": "12",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Trihalométhanes totaux",
+              "minimum": "16",
+              "analyzed": "22",
+              "exceedances": 0,
+              "note": "Moy. 41,8 µg/L · norme annuelle 80 µg/L"
+            }
+          ],
+          "events": [
+            {
+              "date": "21 juill. 2025",
+              "parameter": "Plomb",
+              "place": "11, rue Olivier-Pagé",
+              "standard": "0,005 mg/L",
+              "result": "0,0051 mg/L",
+              "action": "Hydro-excavation et inspection par un plombier: aucun plomb trouvé au branchement ni à l’entrée d’eau. Le propriétaire a reçu les résultats, les recommandations de réduction de l’exposition et les démarches d’investigation possibles."
+            }
+          ]
+        },
+        {
+          "id": "gatineau-secteur-gatineau-2025",
+          "network": "Usine de Gatineau",
+          "year": "2025",
+          "installation": "X0009984",
+          "population": "123 199",
+          "period": "1er janv. – 31 déc. 2025",
+          "publication": "31 mars 2026",
+          "responsible": "Mohamed Mouas",
+          "file": "bilan_annuel_usines_production_eau_potable_2025.fr-CA.pdf",
+          "url": "https://www.gatineau.ca/docs/guichet_municipal/eau_potable/qualite_eau_potable/bilan_annuel_usines_production_eau_potable_2025.fr-CA.pdf",
+          "exceedances": 22,
+          "thm": "93,45 µg/L",
+          "providerNote": "Le bilan annuel consolidé compte 10 dépassements de plomb, tandis que le bilan officiel distinct du plomb et du cuivre et sa liste complète en documentent 11; cette fiche retient les 11 résultats détaillés. Avec deux dépassements microbiologiques au même prélèvement et neuf dépassements de THM, le total est de 22. La population provient du bilan annuel consolidé.",
+          "rows": [
+            {
+              "parameter": "Coliformes totaux",
+              "minimum": "1 224",
+              "analyzed": "1 474",
+              "exceedances": 1,
+              "note": "1 résultat trop nombreux pour être compté · norme 10 UFC/100 mL"
+            },
+            {
+              "parameter": "Coliformes fécaux / E. coli",
+              "minimum": "1 224",
+              "analyzed": "1 474",
+              "exceedances": 1,
+              "note": "1 résultat à 2 UFC/100 mL · norme 0"
+            },
+            {
+              "parameter": "Plomb",
+              "minimum": "50",
+              "analyzed": "50",
+              "exceedances": 11,
+              "note": "Bilan distinct du plomb et du cuivre · résultats de 0,0069 à 0,0693 mg/L"
+            },
+            {
+              "parameter": "Cuivre",
+              "minimum": "50",
+              "analyzed": "50",
+              "exceedances": 0,
+              "note": "Bilan distinct du plomb et du cuivre"
+            },
+            {
+              "parameter": "Turbidité",
+              "minimum": "12",
+              "analyzed": "12",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Trihalométhanes totaux",
+              "minimum": "32",
+              "analyzed": "38",
+              "exceedances": 9,
+              "note": "Moy. 93,45 µg/L · 9 valeurs de 83,4 à 139,6 µg/L · norme 80 µg/L"
+            }
+          ],
+          "events": [
+            {
+              "date": "21 août 2025",
+              "parameter": "Coliformes totaux",
+              "place": "28, rue Drapeau",
+              "standard": "10 UFC/100 mL maximum",
+              "result": "Trop nombreux pour être comptés",
+              "action": "Avis d’ébullition et rinçage."
+            },
+            {
+              "date": "21 août 2025",
+              "parameter": "E. coli",
+              "place": "28, rue Drapeau",
+              "standard": "Absence / 0 UFC/100 mL",
+              "result": "2 UFC/100 mL",
+              "action": "Avis d’ébullition et rinçage."
+            },
+            {
+              "date": "21 juill. 2025",
+              "parameter": "Plomb",
+              "place": "122, rue East",
+              "standard": "0,005 mg/L",
+              "result": "0,0125 mg/L",
+              "action": "Plomb trouvé des deux côtés du branchement; partie publique remplacée. Propriétaire avisé des obligations visant la partie privée, encore non remplacée."
+            },
+            {
+              "date": "29 juill. 2025",
+              "parameter": "Plomb",
+              "place": "150, rue de la Baie, app. A",
+              "standard": "0,005 mg/L",
+              "result": "0,0072 mg/L",
+              "action": "Aucun plomb trouvé au branchement ni à l’entrée d’eau; propriétaire avisé des recommandations et des démarches d’investigation possibles."
+            },
+            {
+              "date": "9 juill. 2025",
+              "parameter": "Plomb",
+              "place": "152, rue Brian",
+              "standard": "0,005 mg/L",
+              "result": "0,0105 mg/L",
+              "action": "Plomb trouvé des deux côtés du branchement; partie publique remplacée. Partie privée encore non remplacée."
+            },
+            {
+              "date": "11 juill. 2025",
+              "parameter": "Plomb",
+              "place": "156, rue Broadway Ouest",
+              "standard": "0,005 mg/L",
+              "result": "0,0072 mg/L",
+              "action": "Plomb trouvé des deux côtés du branchement; partie publique remplacée. Partie privée encore non remplacée."
+            },
+            {
+              "date": "25 juill. 2025",
+              "parameter": "Plomb",
+              "place": "180, rue Édouard-Ellis",
+              "standard": "0,005 mg/L",
+              "result": "0,0147 mg/L",
+              "action": "Plomb trouvé des deux côtés du branchement; partie publique remplacée. Partie privée encore non remplacée."
+            },
+            {
+              "date": "22 juill. 2025",
+              "parameter": "Plomb",
+              "place": "22, rue Auvergne",
+              "standard": "0,005 mg/L",
+              "result": "0,0693 mg/L",
+              "action": "Aucun plomb trouvé au branchement ni à l’entrée d’eau. Résultats transmis au service responsable du bâtiment municipal et analyse du bâtiment amorcée."
+            },
+            {
+              "date": "10 juill. 2025",
+              "parameter": "Plomb",
+              "place": "239, boulevard Saint-René Est, app. 4",
+              "standard": "0,005 mg/L",
+              "result": "0,0069 mg/L",
+              "action": "Aucun plomb trouvé au branchement ni, après inspection, à l’entrée d’eau; propriétaire avisé des recommandations et des démarches possibles."
+            },
+            {
+              "date": "9 juill. 2025",
+              "parameter": "Plomb",
+              "place": "255, rue Elm",
+              "standard": "0,005 mg/L",
+              "result": "0,0234 mg/L",
+              "action": "Plomb trouvé du côté public; partie publique remplacée et propriétaire avisé."
+            },
+            {
+              "date": "8 juill. 2025",
+              "parameter": "Plomb",
+              "place": "37, boulevard Gréber",
+              "standard": "0,005 mg/L",
+              "result": "0,0644 mg/L",
+              "action": "Plomb trouvé des deux côtés du branchement; partie publique remplacée. Partie privée encore non remplacée."
+            },
+            {
+              "date": "31 juill. 2025",
+              "parameter": "Plomb",
+              "place": "59, rue Saint-Patrice",
+              "standard": "0,005 mg/L",
+              "result": "0,0474 mg/L",
+              "action": "Plomb trouvé des deux côtés; remplacement public planifié au printemps 2026. Partie privée encore non remplacée."
+            },
+            {
+              "date": "22 juill. 2025",
+              "parameter": "Plomb",
+              "place": "656, boulevard Maloney Est",
+              "standard": "0,005 mg/L",
+              "result": "0,0075 mg/L",
+              "action": "Aucun plomb trouvé au branchement ni à l’entrée d’eau; propriétaire avisé des recommandations et des démarches d’investigation possibles."
+            },
+            {
+              "date": "22 sept. 2025",
+              "parameter": "Trihalométhanes totaux",
+              "place": "1, rue Arthur-Fecteau",
+              "standard": "80 µg/L",
+              "result": "129,1 µg/L",
+              "action": "Plan d’action THM."
+            },
+            {
+              "date": "22 sept. 2025",
+              "parameter": "Trihalométhanes totaux",
+              "place": "2014, boulevard Maloney Est",
+              "standard": "80 µg/L",
+              "result": "129,3 µg/L",
+              "action": "Plan d’action THM."
+            },
+            {
+              "date": "22 sept. 2025",
+              "parameter": "Trihalométhanes totaux",
+              "place": "226, rue de la Plaine",
+              "standard": "80 µg/L",
+              "result": "124,6 µg/L",
+              "action": "Plan d’action THM."
+            },
+            {
+              "date": "22 sept. 2025",
+              "parameter": "Trihalométhanes totaux",
+              "place": "245, rue de Cannes",
+              "standard": "80 µg/L",
+              "result": "139,6 µg/L",
+              "action": "Plan d’action THM."
+            },
+            {
+              "date": "22 sept. 2025",
+              "parameter": "Trihalométhanes totaux",
+              "place": "348, boulevard Lorrain",
+              "standard": "80 µg/L",
+              "result": "89,1 µg/L",
+              "action": "Plan d’action THM."
+            },
+            {
+              "date": "22 sept. 2025",
+              "parameter": "Trihalométhanes totaux",
+              "place": "730, boulevard Mont-Royal",
+              "standard": "80 µg/L",
+              "result": "89,2 µg/L",
+              "action": "Plan d’action THM."
+            },
+            {
+              "date": "22 sept. 2025",
+              "parameter": "Trihalométhanes totaux",
+              "place": "741, boulevard Maloney Est",
+              "standard": "80 µg/L",
+              "result": "107,8 µg/L",
+              "action": "Plan d’action THM."
+            },
+            {
+              "date": "1er déc. 2025",
+              "parameter": "Trihalométhanes totaux",
+              "place": "1, rue Arthur-Fecteau",
+              "standard": "80 µg/L",
+              "result": "84,1 µg/L",
+              "action": "Plan d’action THM."
+            },
+            {
+              "date": "1er déc. 2025",
+              "parameter": "Trihalométhanes totaux",
+              "place": "245, rue de Cannes",
+              "standard": "80 µg/L",
+              "result": "83,4 µg/L",
+              "action": "Plan d’action THM."
+            }
+          ]
+        },
+        {
+          "id": "gatineau-hull-2025",
+          "network": "Usine de Hull",
+          "year": "2025",
+          "installation": "X0008106",
+          "population": "94 703",
+          "period": "1er janv. – 31 déc. 2025",
+          "publication": "31 mars 2026",
+          "responsible": "Mohamed Mouas",
+          "file": "bilan_annuel_usines_production_eau_potable_2025.fr-CA.pdf",
+          "url": "https://www.gatineau.ca/docs/guichet_municipal/eau_potable/qualite_eau_potable/bilan_annuel_usines_production_eau_potable_2025.fr-CA.pdf",
+          "exceedances": 13,
+          "thm": "37,16 µg/L",
+          "providerNote": "Le bilan annuel consolidé compte huit dépassements de plomb, tandis que le bilan officiel distinct du plomb et du cuivre et sa liste complète en documentent 12; cette fiche retient les 12 résultats détaillés. Avec un dépassement d’E. coli, le total est de 13. La population provient du bilan annuel consolidé.",
+          "rows": [
+            {
+              "parameter": "Coliformes totaux",
+              "minimum": "1 140",
+              "analyzed": "1 431",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Coliformes fécaux / E. coli",
+              "minimum": "1 140",
+              "analyzed": "1 432",
+              "exceedances": 1,
+              "note": "1 résultat positif · norme 0"
+            },
+            {
+              "parameter": "Plomb",
+              "minimum": "30",
+              "analyzed": "30",
+              "exceedances": 12,
+              "note": "Bilan distinct du plomb et du cuivre · résultats de 0,0053 à 0,0402 mg/L"
+            },
+            {
+              "parameter": "Cuivre",
+              "minimum": "30",
+              "analyzed": "30",
+              "exceedances": 0,
+              "note": "Bilan distinct du plomb et du cuivre"
+            },
+            {
+              "parameter": "Turbidité",
+              "minimum": "12",
+              "analyzed": "12",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Trihalométhanes totaux",
+              "minimum": "16",
+              "analyzed": "21",
+              "exceedances": 0,
+              "note": "Moy. 37,16 µg/L · norme annuelle 80 µg/L"
+            }
+          ],
+          "events": [
+            {
+              "date": "2 déc. 2025",
+              "parameter": "E. coli",
+              "place": "100, rue Atawe",
+              "standard": "Absence / 0 UFC/100 mL",
+              "result": "1 UFC/100 mL",
+              "action": "Rinçage et avis d’ébullition."
+            },
+            {
+              "date": "14 juill. 2025",
+              "parameter": "Plomb",
+              "place": "124, rue Sainte-Marie",
+              "standard": "0,005 mg/L",
+              "result": "0,0205 mg/L",
+              "action": "Plomb trouvé du côté public; partie publique remplacée et propriétaire avisé."
+            },
+            {
+              "date": "2 juill. 2025",
+              "parameter": "Plomb",
+              "place": "15, rue Dalpé",
+              "standard": "0,005 mg/L",
+              "result": "0,0093 mg/L",
+              "action": "Aucun plomb trouvé au branchement; résultat remis en question et rééchantillonnage proposé en 2026. Propriétaire avisé."
+            },
+            {
+              "date": "22 juill. 2025",
+              "parameter": "Plomb",
+              "place": "18, rue Taylor",
+              "standard": "0,005 mg/L",
+              "result": "0,0053 mg/L",
+              "action": "Aucun plomb trouvé au branchement ni à l’entrée d’eau; propriétaire avisé des recommandations de réduction de l’exposition."
+            },
+            {
+              "date": "8 août 2025",
+              "parameter": "Plomb",
+              "place": "225, rue Gamelin",
+              "standard": "0,005 mg/L",
+              "result": "0,0402 mg/L",
+              "action": "Plomb trouvé des deux côtés du branchement; remplacement complet effectué et propriétaire avisé."
+            },
+            {
+              "date": "28 juill. 2025",
+              "parameter": "Plomb",
+              "place": "31, rue des Açores",
+              "standard": "0,005 mg/L",
+              "result": "0,0332 mg/L",
+              "action": "Plomb trouvé du côté privé; propriétaire avisé des obligations. Partie privée encore non remplacée."
+            },
+            {
+              "date": "24 juill. 2025",
+              "parameter": "Plomb",
+              "place": "34, rue Wigwas",
+              "standard": "0,005 mg/L",
+              "result": "0,0111 mg/L",
+              "action": "Plomb trouvé du côté privé; propriétaire avisé des obligations. Partie privée encore non remplacée."
+            },
+            {
+              "date": "31 juill. 2025",
+              "parameter": "Plomb",
+              "place": "47, rue Caron",
+              "standard": "0,005 mg/L",
+              "result": "0,033 mg/L",
+              "action": "Hydro-excavation impossible en 2025; inspection planifiée au printemps 2026. Propriétaire avisé."
+            },
+            {
+              "date": "3 juill. 2025",
+              "parameter": "Plomb",
+              "place": "5, rue Lévesque",
+              "standard": "0,005 mg/L",
+              "result": "0,0089 mg/L",
+              "action": "Plomb trouvé des deux côtés du branchement; remplacement complet effectué et propriétaire avisé."
+            },
+            {
+              "date": "21 juill. 2025",
+              "parameter": "Plomb",
+              "place": "50, rue Isidore-Ostiguy",
+              "standard": "0,005 mg/L",
+              "result": "0,007 mg/L",
+              "action": "Aucun plomb trouvé au branchement ni à l’entrée d’eau. Résultats transmis au service responsable du bâtiment municipal et analyse amorcée."
+            },
+            {
+              "date": "17 juill. 2025",
+              "parameter": "Plomb",
+              "place": "54, rue Coallier",
+              "standard": "0,005 mg/L",
+              "result": "0,0313 mg/L",
+              "action": "Plomb trouvé des deux côtés; partie publique remplacée. Partie privée encore non remplacée."
+            },
+            {
+              "date": "8 juill. 2025",
+              "parameter": "Plomb",
+              "place": "63, rue Caron",
+              "standard": "0,005 mg/L",
+              "result": "0,0281 mg/L",
+              "action": "Branchement partagé avec le 65; plomb trouvé des deux côtés. Partie publique remplacée, partie privée encore non remplacée."
+            },
+            {
+              "date": "8 juill. 2025",
+              "parameter": "Plomb",
+              "place": "65, rue Caron",
+              "standard": "0,005 mg/L",
+              "result": "0,0354 mg/L",
+              "action": "Branchement partagé avec le 63; plomb trouvé des deux côtés. Partie publique remplacée, partie privée encore non remplacée."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "longueuil",
+      "name": "Longueuil",
+      "region": "Montérégie",
+      "map": {
+        "x": 296.4,
+        "y": 508.1
+      },
+      "reports": [
+        {
+          "id": "longueuil-louise-gravel-2025",
+          "network": "Réseau Louise-Gravel",
+          "year": "2025",
+          "installation": "X0008119",
+          "population": "217 982",
+          "period": "1er janv. – 31 déc. 2025",
+          "publication": "14 janv. 2026",
+          "responsible": "Ville de Longueuil",
+          "file": "Bilan de la qualité de l'eau 2025 - Louise-Gravel.pdf",
+          "url": "https://cms.longueuil.quebec/sites/default/files/medias/documents/2026-01/Bilan%20de%20la%20qualit%C3%A9%20de%20l%26%23039%3Beau%2020260101_ULG.pdf",
+          "exceedances": 0,
+          "thm": "Non indiquée",
+          "providerNote": "Aucun dépassement n’est déclaré. Le rapport donne le nombre de prélèvements de THM et confirme leur conformité, mais ne publie pas la moyenne annuelle.",
+          "rows": [
+            {
+              "parameter": "Coliformes totaux",
+              "minimum": "1 344",
+              "analyzed": "1 367",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Coliformes fécaux / E. coli",
+              "minimum": "1 344",
+              "analyzed": "1 367",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Plomb",
+              "minimum": "50",
+              "analyzed": "102",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Cuivre",
+              "minimum": "50",
+              "analyzed": "102",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Turbidité",
+              "minimum": "12",
+              "analyzed": "12",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Trihalométhanes totaux",
+              "minimum": "32",
+              "analyzed": "32",
+              "exceedances": 0,
+              "note": "Norme annuelle 80 µg/L · moyenne non indiquée"
+            }
+          ],
+          "events": []
+        },
+        {
+          "id": "longueuil-greenfield-park-lemoyne-2025",
+          "network": "Réseau Greenfield Park / Lemoyne",
+          "year": "2025",
+          "installation": "X2109440",
+          "population": "23 573",
+          "period": "1er janv. – 31 déc. 2025",
+          "publication": "14 janv. 2026",
+          "responsible": "Ville de Longueuil",
+          "file": "Bilan de la qualité de l'eau 2025 - Greenfield Park-Lemoyne.pdf",
+          "url": "https://cms.longueuil.quebec/sites/default/files/medias/documents/2026-01/Bilan%20de%20la%20qualit%C3%A9%20de%20l%26%23039%3Beau%2020260101_GFP.pdf",
+          "exceedances": 4,
+          "thm": "Non indiquée",
+          "providerNote": "Quatre résidences ont présenté un dépassement de plomb durant la campagne de juillet à septembre. Le rapport publie les rues et confirme que les résidents ont été informés, sans donner les concentrations mesurées. La moyenne annuelle des THM n’est pas publiée.",
+          "rows": [
+            {
+              "parameter": "Coliformes totaux",
+              "minimum": "288",
+              "analyzed": "335",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Coliformes fécaux / E. coli",
+              "minimum": "288",
+              "analyzed": "335",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Plomb",
+              "minimum": "20",
+              "analyzed": "42",
+              "exceedances": 4,
+              "note": "4 résidences · concentrations non publiées"
+            },
+            {
+              "parameter": "Cuivre",
+              "minimum": "20",
+              "analyzed": "42",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Turbidité",
+              "minimum": "12",
+              "analyzed": "12",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Trihalométhanes totaux",
+              "minimum": "16",
+              "analyzed": "16",
+              "exceedances": 0,
+              "note": "Norme annuelle 80 µg/L · moyenne non indiquée"
+            }
+          ],
+          "events": [
+            {
+              "date": "1er juill. – 30 sept. 2025",
+              "parameter": "Plomb",
+              "place": "Rue de l’Église (1 résidence)",
+              "standard": "0,005 mg/L",
+              "result": "Dépassement (valeur non publiée)",
+              "action": "Résidents informés."
+            },
+            {
+              "date": "1er juill. – 30 sept. 2025",
+              "parameter": "Plomb",
+              "place": "Rue King-Edward (1 résidence)",
+              "standard": "0,005 mg/L",
+              "result": "Dépassement (valeur non publiée)",
+              "action": "Résidents informés."
+            },
+            {
+              "date": "1er juill. – 30 sept. 2025",
+              "parameter": "Plomb",
+              "place": "Rue Empire (1 résidence)",
+              "standard": "0,005 mg/L",
+              "result": "Dépassement (valeur non publiée)",
+              "action": "Résidents informés."
+            },
+            {
+              "date": "1er juill. – 30 sept. 2025",
+              "parameter": "Plomb",
+              "place": "Chemin Saint-Charles (1 résidence)",
+              "standard": "0,005 mg/L",
+              "result": "Dépassement (valeur non publiée)",
+              "action": "Résidents informés."
+            }
+          ]
+        },
+        {
+          "id": "longueuil-mario-petrone-2025",
+          "network": "Réseau Mario-Petrone",
+          "year": "2025",
+          "installation": "X2015853",
+          "population": "25 968",
+          "period": "1er janv. – 31 déc. 2025",
+          "publication": "14 janv. 2026",
+          "responsible": "Ville de Longueuil",
+          "file": "Bilan de la qualité de l'eau 2025 - Mario-Petrone.pdf",
+          "url": "https://cms.longueuil.quebec/sites/default/files/medias/documents/2026-01/Bilan%20de%20la%20qualit%C3%A9%20de%20l%26%23039%3Beau%2020260101_UMP.pdf",
+          "exceedances": 9,
+          "thm": "Non indiquée",
+          "providerNote": "Neuf résidences ont présenté un dépassement de plomb durant la campagne de juillet à septembre. Le rapport regroupe deux résidences sous la même entrée de la rue La Salle, ce qui donne huit lieux publiés pour neuf dépassements. Les concentrations mesurées et la moyenne annuelle des THM ne sont pas publiées.",
+          "rows": [
+            {
+              "parameter": "Coliformes totaux",
+              "minimum": "312",
+              "analyzed": "331",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Coliformes fécaux / E. coli",
+              "minimum": "312",
+              "analyzed": "331",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Plomb",
+              "minimum": "20",
+              "analyzed": "44",
+              "exceedances": 9,
+              "note": "9 résidences · concentrations non publiées"
+            },
+            {
+              "parameter": "Cuivre",
+              "minimum": "20",
+              "analyzed": "44",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Turbidité",
+              "minimum": "12",
+              "analyzed": "12",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Trihalométhanes totaux",
+              "minimum": "16",
+              "analyzed": "16",
+              "exceedances": 0,
+              "note": "Norme annuelle 80 µg/L · moyenne non indiquée"
+            }
+          ],
+          "events": [
+            {
+              "date": "1er juill. – 30 sept. 2025",
+              "parameter": "Plomb",
+              "place": "Boulevard Quinn (1 résidence)",
+              "standard": "0,005 mg/L",
+              "result": "Dépassement (valeur non publiée)",
+              "action": "Résidents informés."
+            },
+            {
+              "date": "1er juill. – 30 sept. 2025",
+              "parameter": "Plomb",
+              "place": "Rue Saint-Laurent Ouest (1 résidence)",
+              "standard": "0,005 mg/L",
+              "result": "Dépassement (valeur non publiée)",
+              "action": "Résidents informés."
+            },
+            {
+              "date": "1er juill. – 30 sept. 2025",
+              "parameter": "Plomb",
+              "place": "Rue Sainte-Hélène (1 résidence)",
+              "standard": "0,005 mg/L",
+              "result": "Dépassement (valeur non publiée)",
+              "action": "Résidents informés."
+            },
+            {
+              "date": "1er juill. – 30 sept. 2025",
+              "parameter": "Plomb",
+              "place": "Rue Guillaume (1 résidence)",
+              "standard": "0,005 mg/L",
+              "result": "Dépassement (valeur non publiée)",
+              "action": "Résidents informés."
+            },
+            {
+              "date": "1er juill. – 30 sept. 2025",
+              "parameter": "Plomb",
+              "place": "Rue Mercier (1 résidence)",
+              "standard": "0,005 mg/L",
+              "result": "Dépassement (valeur non publiée)",
+              "action": "Résidents informés."
+            },
+            {
+              "date": "1er juill. – 30 sept. 2025",
+              "parameter": "Plomb",
+              "place": "Rue Labonté (1 résidence)",
+              "standard": "0,005 mg/L",
+              "result": "Dépassement (valeur non publiée)",
+              "action": "Résidents informés."
+            },
+            {
+              "date": "1er juill. – 30 sept. 2025",
+              "parameter": "Plomb",
+              "place": "Rue Verchères (1 résidence)",
+              "standard": "0,005 mg/L",
+              "result": "Dépassement (valeur non publiée)",
+              "action": "Résidents informés."
+            },
+            {
+              "date": "1er juill. – 30 sept. 2025",
+              "parameter": "Plomb",
+              "place": "Rue La Salle (2 résidences)",
+              "standard": "0,005 mg/L",
+              "result": "2 dépassements (valeurs non publiées)",
+              "action": "Résidents informés."
+            }
+          ]
+        }
+      ]
     }
   ]
 }
