@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-07-21",
+  "updatedAt": "2026-07-22",
   "municipalities": [
     {
       "id": "terrebonne",
@@ -2785,6 +2785,377 @@
               "standard": "Absence",
               "result": "Présence",
               "action": "Deux échantillonnages de contrôle et purge préventive de la borne-fontaine la plus proche; aucune procédure réglementaire requise."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "trois-rivieres",
+      "name": "Trois-Rivières",
+      "region": "Mauricie",
+      "map": {
+        "x": 312.6,
+        "y": 480.9
+      },
+      "reports": [
+        {
+          "id": "trois-rivieres-2025",
+          "network": "Trois-Rivières",
+          "year": "2025",
+          "installation": "X0008076",
+          "population": "83 662",
+          "period": "1er janv. – 31 déc. 2025",
+          "publication": "Date non indiquée (signé le 22 avr. 2026)",
+          "responsible": "Ville de Trois-Rivières",
+          "file": "modele-bilan-annuel-TROIS-RIVIERES.pdf",
+          "url": "https://www.v3r.net/wp-content/uploads/2026/04/modele-bilan-annuel-TROIS-RIVIERES.pdf",
+          "exceedances": 1,
+          "thm": "Non indiquée",
+          "providerNote": "Le tableau synthèse affiche zéro dépassement pour le plomb, mais le tableau détaillé consigne 0,0213 mg/L à une norme de 0,005 mg/L; cette fiche compte donc un dépassement de plomb. Le bilan affiche aussi 924 analyses microbiologiques pour un minimum indiqué de 1 008, sans fournir d’explication, ainsi que deux résultats de bactéries atypiques supérieurs à 200 suivis de rééchantillonnages.",
+          "rows": [
+            {
+              "parameter": "Coliformes totaux",
+              "minimum": "1 008",
+              "analyzed": "924",
+              "exceedances": 0,
+              "note": "2 résultats de bactéries atypiques > 200; rééchantillonnages"
+            },
+            {
+              "parameter": "Coliformes fécaux / E. coli",
+              "minimum": "1 008",
+              "analyzed": "924",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Plomb",
+              "minimum": "30",
+              "analyzed": "30",
+              "exceedances": 1,
+              "note": "1 résultat à 0,0213 mg/L · norme 0,005 mg/L"
+            },
+            {
+              "parameter": "Cuivre",
+              "minimum": "30",
+              "analyzed": "30",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Turbidité",
+              "minimum": "12",
+              "analyzed": "12",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Trihalométhanes totaux",
+              "minimum": "16",
+              "analyzed": "16",
+              "exceedances": 0,
+              "note": "Aucun dépassement; moyenne non indiquée"
+            }
+          ],
+          "events": [
+            {
+              "date": "13 janv. 2025",
+              "parameter": "Bactéries atypiques",
+              "place": "23225, 1re Avenue",
+              "standard": "200",
+              "result": "> 200",
+              "action": "Aucune mesure d’information indiquée; rééchantillonnage pour retrouver la conformité. Le bilan ne comptabilise pas cet épisode comme un dépassement microbiologique."
+            },
+            {
+              "date": "14 juill. 2025",
+              "parameter": "Bactéries atypiques",
+              "place": "23225, 1re Avenue",
+              "standard": "200",
+              "result": "> 200",
+              "action": "Aucune mesure d’information indiquée; rééchantillonnage pour retrouver la conformité. Le bilan ne comptabilise pas cet épisode comme un dépassement microbiologique."
+            },
+            {
+              "date": "22 août 2025",
+              "parameter": "Plomb",
+              "place": "463, rue Sainte-Julie",
+              "standard": "0,005 mg/L",
+              "result": "0,0213 mg/L",
+              "action": "Rééchantillonnage, plan d’action plomb et lettre au citoyen."
+            }
+          ]
+        },
+        {
+          "id": "trois-rivieres-cap-de-la-madeleine-2025",
+          "network": "Cap-de-la-Madeleine",
+          "year": "2025",
+          "installation": "X0008213",
+          "population": "29 915",
+          "period": "1er janv. – 31 déc. 2025",
+          "publication": "Date non indiquée (signé le 5 mars 2026)",
+          "responsible": "Ville de Trois-Rivières",
+          "file": "modele-bilan-annuel-CAP-DE-LA-MADELEINE.pdf",
+          "url": "https://www.v3r.net/wp-content/uploads/2026/04/modele-bilan-annuel-CAP-DE-LA-MADELEINE.pdf",
+          "exceedances": 0,
+          "thm": "Non indiquée",
+          "providerNote": "Deux échantillons ont présenté un résultat de 1 pour les coliformes totaux. La Ville les considère conformes à la règle mensuelle applicable et n’indique aucun dépassement réglementaire.",
+          "rows": [
+            {
+              "parameter": "Coliformes totaux",
+              "minimum": "360",
+              "analyzed": "529",
+              "exceedances": 0,
+              "note": "2 détections à 1; aucun dépassement réglementaire"
+            },
+            {
+              "parameter": "Coliformes fécaux / E. coli",
+              "minimum": "360",
+              "analyzed": "529",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Plomb",
+              "minimum": "20",
+              "analyzed": "20",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Cuivre",
+              "minimum": "20",
+              "analyzed": "20",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Turbidité",
+              "minimum": "12",
+              "analyzed": "12",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Trihalométhanes totaux",
+              "minimum": "16",
+              "analyzed": "16",
+              "exceedances": 0,
+              "note": "Aucun dépassement; moyenne non indiquée"
+            }
+          ],
+          "events": [
+            {
+              "date": "18 août 2025",
+              "parameter": "Coliformes totaux",
+              "place": "1175, rue des Prairies",
+              "standard": "< 10",
+              "result": "1",
+              "action": "Aucune mesure requise; résultat sous la norme applicable."
+            },
+            {
+              "date": "25 août 2025",
+              "parameter": "Coliformes totaux",
+              "place": "1191, rue Boisclair",
+              "standard": "< 10",
+              "result": "1",
+              "action": "Aucune mesure requise; la note du bilan précise un maximum de quatre échantillons positifs par mois."
+            }
+          ]
+        },
+        {
+          "id": "trois-rivieres-pointe-du-lac-2025",
+          "network": "Pointe-du-Lac",
+          "year": "2025",
+          "installation": "X0010193",
+          "population": "9 938",
+          "period": "1er janv. – 31 déc. 2025",
+          "publication": "Date non indiquée (signé le 5 mars 2026)",
+          "responsible": "Ville de Trois-Rivières",
+          "file": "modele-bilan-annuel-POINTE-DU-LAC.pdf",
+          "url": "https://www.v3r.net/wp-content/uploads/2026/04/modele-bilan-annuel-POINTE-DU-LAC.pdf",
+          "exceedances": 0,
+          "thm": "Non indiquée",
+          "providerNote": "Aucun dépassement de norme indiqué dans le bilan 2025 de Pointe-du-Lac.",
+          "rows": [
+            {
+              "parameter": "Coliformes totaux",
+              "minimum": "100",
+              "analyzed": "144",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Coliformes fécaux / E. coli",
+              "minimum": "100",
+              "analyzed": "144",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Plomb",
+              "minimum": "10",
+              "analyzed": "10",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Cuivre",
+              "minimum": "10",
+              "analyzed": "10",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Turbidité",
+              "minimum": "12",
+              "analyzed": "12",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Trihalométhanes totaux",
+              "minimum": "16",
+              "analyzed": "16",
+              "exceedances": 0,
+              "note": "Aucun dépassement; moyenne non indiquée"
+            }
+          ],
+          "events": []
+        },
+        {
+          "id": "trois-rivieres-saint-louis-de-france-2025",
+          "network": "Saint-Louis-de-France",
+          "year": "2025",
+          "installation": "X0009430",
+          "population": "5 639",
+          "period": "1er janv. – 31 déc. 2025",
+          "publication": "Date non indiquée (signé le 5 mars 2026)",
+          "responsible": "Ville de Trois-Rivières",
+          "file": "modele-bilan-annuel-SAINT-LOUIS-DE-FRANCE.pdf",
+          "url": "https://www.v3r.net/wp-content/uploads/2026/04/modele-bilan-annuel-SAINT-LOUIS-DE-FRANCE.pdf",
+          "exceedances": 0,
+          "thm": "Non indiquée",
+          "providerNote": "Un échantillon a présenté un résultat de 1 pour les coliformes totaux. Le bilan précise que la limite applicable est d’au plus un résultat par mois et n’indique aucun dépassement.",
+          "rows": [
+            {
+              "parameter": "Coliformes totaux",
+              "minimum": "96",
+              "analyzed": "192",
+              "exceedances": 0,
+              "note": "1 détection; résultat dans la limite mensuelle"
+            },
+            {
+              "parameter": "Coliformes fécaux / E. coli",
+              "minimum": "96",
+              "analyzed": "192",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Plomb",
+              "minimum": "10",
+              "analyzed": "10",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Cuivre",
+              "minimum": "10",
+              "analyzed": "10",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Turbidité",
+              "minimum": "12",
+              "analyzed": "12",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Trihalométhanes totaux",
+              "minimum": "16",
+              "analyzed": "16",
+              "exceedances": 0,
+              "note": "Aucun dépassement; moyenne non indiquée"
+            }
+          ],
+          "events": [
+            {
+              "date": "20 janv. 2025",
+              "parameter": "Coliformes totaux",
+              "place": "750, rue des Marguerites",
+              "standard": "Pas plus de 1 par mois",
+              "result": "1",
+              "action": "Aucune mesure requise; le bilan considère le résultat conforme à la limite mensuelle."
+            }
+          ]
+        },
+        {
+          "id": "trois-rivieres-ouest-2025",
+          "network": "Trois-Rivières Ouest",
+          "year": "2025",
+          "installation": "X0008264",
+          "population": "14 221",
+          "period": "1er janv. – 31 déc. 2025",
+          "publication": "Date non indiquée (signé le 28 avr. 2026)",
+          "responsible": "Ville de Trois-Rivières",
+          "file": "modele-bilan-annuel-TROIS-RIVIERES-OUEST.pdf",
+          "url": "https://www.v3r.net/wp-content/uploads/2026/04/modele-bilan-annuel-TROIS-RIVIERES-OUEST.pdf",
+          "exceedances": 1,
+          "thm": "Non indiquée",
+          "providerNote": "Le tableau synthèse affiche zéro dépassement microbiologique, mais le tableau détaillé consigne 11 coliformes totaux pour une norme inférieure à 10 et mentionne une déclaration de non-conformité. Cette fiche compte donc un dépassement ponctuel.",
+          "rows": [
+            {
+              "parameter": "Coliformes totaux",
+              "minimum": "180",
+              "analyzed": "338",
+              "exceedances": 1,
+              "note": "1 résultat à 11 · norme < 10"
+            },
+            {
+              "parameter": "Coliformes fécaux / E. coli",
+              "minimum": "180",
+              "analyzed": "338",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Plomb",
+              "minimum": "20",
+              "analyzed": "20",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Cuivre",
+              "minimum": "20",
+              "analyzed": "20",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Turbidité",
+              "minimum": "12",
+              "analyzed": "12",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Trihalométhanes totaux",
+              "minimum": "16",
+              "analyzed": "16",
+              "exceedances": 0,
+              "note": "Aucun dépassement; moyenne non indiquée"
+            }
+          ],
+          "events": [
+            {
+              "date": "2 sept. 2025",
+              "parameter": "Coliformes totaux",
+              "place": "4500, côte Rosemont",
+              "standard": "< 10",
+              "result": "11",
+              "action": "Déclaration de non-conformité et reprise des échantillons."
             }
           ]
         }
