@@ -3160,6 +3160,717 @@
           ]
         }
       ]
+    },
+    {
+      "id": "saguenay",
+      "name": "Saguenay",
+      "region": "Saguenay–Lac-Saint-Jean",
+      "map": {
+        "x": 329.8,
+        "y": 419.1
+      },
+      "reports": [
+        {
+          "id": "saguenay-la-baie-2025",
+          "network": "Arrondissement de La Baie",
+          "year": "2025",
+          "installation": "X0010037",
+          "population": "18 000",
+          "period": "1er janv. – 31 déc. 2025",
+          "publication": "9 juill. 2026",
+          "responsible": "Ville de Saguenay",
+          "file": "Bilan-annuel-de-la-qualité-2025.pdf",
+          "url": "https://ville.saguenay.ca/files/medias/La-ville-et-vie-d%C3%A9mocratique/Publications/Rapports/Eau/Bilan-annuel-de-la-qualit%C3%A9-2025.pdf",
+          "exceedances": 3,
+          "thm": "Non indiquée",
+          "providerNote": "Deux dépassements d’E. coli et un dépassement de bactéries atypiques sont détaillés, avec avis d’ébullition lors des épisodes d’E. coli. Sept échantillons de plomb et de cuivre ont été prélevés pour 10 exigés. Le tableau des paramètres non normés indique 8 ng/L de SPFA; le rapport précise que l’objectif de 30 ng/L a été respecté en tout temps.",
+          "rows": [
+            {
+              "parameter": "Coliformes totaux",
+              "minimum": "216",
+              "analyzed": "326",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Coliformes fécaux / E. coli",
+              "minimum": "216",
+              "analyzed": "326",
+              "exceedances": 2,
+              "note": "2 dépassements d’E. coli"
+            },
+            {
+              "parameter": "Plomb",
+              "minimum": "10",
+              "analyzed": "7",
+              "exceedances": 0,
+              "note": "Maximum < 0,0010 mg/L"
+            },
+            {
+              "parameter": "Cuivre",
+              "minimum": "10",
+              "analyzed": "7",
+              "exceedances": 0,
+              "note": "Maximum 0,240 mg/L · norme 1,0 mg/L"
+            },
+            {
+              "parameter": "Turbidité",
+              "minimum": "12",
+              "analyzed": "12",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Trihalométhanes totaux",
+              "minimum": "Non indiqué",
+              "analyzed": "Non indiqué",
+              "exceedances": 0,
+              "note": "Non présenté séparément pour ce réseau"
+            }
+          ],
+          "events": [
+            {
+              "date": "18 avr. 2025",
+              "parameter": "E. coli",
+              "place": "Puits S-72, 5654, chemin Saint-Louis, La Baie",
+              "standard": "Absence",
+              "result": "8 UFC/100 mL",
+              "action": "Avis d’ébullition ciblé, avis automatisés et aux établissements sensibles, échantillonnage supplémentaire et révision des procédures de démarrage d’urgence."
+            },
+            {
+              "date": "17 oct. 2025",
+              "parameter": "Bactéries atypiques",
+              "place": "Réservoir de l’aéroport, 6840, chemin de l’Aéroport",
+              "standard": "< 200 UFC/100 mL",
+              "result": "> 200 UFC/100 mL",
+              "action": "Secteur délimité, échantillonnage supplémentaire et suivi resserré."
+            },
+            {
+              "date": "1er nov. 2025",
+              "parameter": "E. coli",
+              "place": "Pavillon du parc de la place du 150e, 3020, rue Monseigneur-Dufour",
+              "standard": "Absence",
+              "result": "1 UFC/100 mL",
+              "action": "Investigation après des travaux d’aqueduc, avis d’ébullition ciblé, avis aux établissements sensibles et échantillonnage supplémentaire."
+            }
+          ]
+        },
+        {
+          "id": "saguenay-chicoutimi-2025",
+          "network": "Chicoutimi (Chicoutimi)",
+          "year": "2025",
+          "installation": "X0010041",
+          "population": "48 000",
+          "period": "1er janv. – 31 déc. 2025",
+          "publication": "9 juill. 2026",
+          "responsible": "Ville de Saguenay",
+          "file": "Bilan-annuel-de-la-qualité-2025.pdf",
+          "url": "https://ville.saguenay.ca/files/medias/La-ville-et-vie-d%C3%A9mocratique/Publications/Rapports/Eau/Bilan-annuel-de-la-qualit%C3%A9-2025.pdf",
+          "exceedances": 1,
+          "thm": "59 µg/L",
+          "providerNote": "Un résultat de plomb de 0,0074 mg/L a dépassé la norme de 0,005 mg/L. Dix échantillons de plomb et de cuivre ont été prélevés pour 20 exigés. La moyenne réglementaire de THM est de 59 µg/L. Le tableau des paramètres non normés indique moins de 1 ng/L de SPFA.",
+          "rows": [
+            {
+              "parameter": "Coliformes totaux",
+              "minimum": "576",
+              "analyzed": "590",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Coliformes fécaux / E. coli",
+              "minimum": "576",
+              "analyzed": "590",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Plomb",
+              "minimum": "20",
+              "analyzed": "10",
+              "exceedances": 1,
+              "note": "Maximum 0,0074 mg/L · norme 0,005 mg/L"
+            },
+            {
+              "parameter": "Cuivre",
+              "minimum": "20",
+              "analyzed": "10",
+              "exceedances": 0,
+              "note": "Maximum 0,041 mg/L · norme 1,0 mg/L"
+            },
+            {
+              "parameter": "Turbidité",
+              "minimum": "12",
+              "analyzed": "12",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Trihalométhanes totaux",
+              "minimum": "16",
+              "analyzed": "Exigence trimestrielle respectée",
+              "exceedances": 0,
+              "note": "Moy. 59 µg/L · norme 80 µg/L"
+            }
+          ],
+          "events": [
+            {
+              "date": "19 mars 2025",
+              "parameter": "Plomb",
+              "place": "112, place des Écorceurs, Chicoutimi",
+              "standard": "0,005 mg/L",
+              "result": "0,0074 mg/L",
+              "action": "Résultats communiqués au Ministère et à la santé publique; investigation, rééchantillonnage et recommandations aux personnes concernées."
+            }
+          ]
+        },
+        {
+          "id": "saguenay-chicoutimi-nord-2025",
+          "network": "Chicoutimi (Chicoutimi-Nord)",
+          "year": "2025",
+          "installation": "X0010042",
+          "population": "14 000",
+          "period": "1er janv. – 31 déc. 2025",
+          "publication": "9 juill. 2026",
+          "responsible": "Ville de Saguenay",
+          "file": "Bilan-annuel-de-la-qualité-2025.pdf",
+          "url": "https://ville.saguenay.ca/files/medias/La-ville-et-vie-d%C3%A9mocratique/Publications/Rapports/Eau/Bilan-annuel-de-la-qualit%C3%A9-2025.pdf",
+          "exceedances": 2,
+          "thm": "45 µg/L",
+          "providerNote": "Le bilan détaille un dépassement de bactéries atypiques et un épisode d’E. coli ayant entraîné un avis d’ébullition. Deux échantillons de plomb et de cuivre ont été prélevés pour 10 exigés. La moyenne réglementaire de THM est de 45 µg/L et le résultat SPFA indiqué est de 1 ng/L.",
+          "rows": [
+            {
+              "parameter": "Coliformes totaux",
+              "minimum": "312",
+              "analyzed": "381",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Coliformes fécaux / E. coli",
+              "minimum": "312",
+              "analyzed": "381",
+              "exceedances": 1,
+              "note": "1 dépassement d’E. coli"
+            },
+            {
+              "parameter": "Plomb",
+              "minimum": "10",
+              "analyzed": "2",
+              "exceedances": 0,
+              "note": "Maximum 0,0042 mg/L · norme 0,005 mg/L"
+            },
+            {
+              "parameter": "Cuivre",
+              "minimum": "10",
+              "analyzed": "2",
+              "exceedances": 0,
+              "note": "Maximum 0,120 mg/L · norme 1,0 mg/L"
+            },
+            {
+              "parameter": "Turbidité",
+              "minimum": "12",
+              "analyzed": "12",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Trihalométhanes totaux",
+              "minimum": "16",
+              "analyzed": "Exigence trimestrielle respectée",
+              "exceedances": 0,
+              "note": "Moy. 45 µg/L · norme 80 µg/L"
+            }
+          ],
+          "events": [
+            {
+              "date": "1er juill. 2025",
+              "parameter": "Bactéries atypiques",
+              "place": "Garage Vimy, 2025, rue de Vimy, Chicoutimi",
+              "standard": "< 200 UFC/100 mL",
+              "result": "> 200 UFC/100 mL",
+              "action": "Secteur délimité, échantillonnage supplémentaire et suivi resserré."
+            },
+            {
+              "date": "17 juill. 2025",
+              "parameter": "E. coli",
+              "place": "Caserne de pompiers, 2589, rue Roussel, Chicoutimi",
+              "standard": "Absence",
+              "result": "TNI (trop nombreux pour être identifiés)",
+              "action": "Correctifs à l’usine après des variations de pression, avis d’ébullition ciblé, avis aux établissements sensibles et échantillonnage supplémentaire."
+            }
+          ]
+        },
+        {
+          "id": "saguenay-laterriere-2025",
+          "network": "Laterrière",
+          "year": "2025",
+          "installation": "X0010473",
+          "population": "4 900",
+          "period": "1er janv. – 31 déc. 2025",
+          "publication": "9 juill. 2026",
+          "responsible": "Ville de Saguenay",
+          "file": "Bilan-annuel-de-la-qualité-2025.pdf",
+          "url": "https://ville.saguenay.ca/files/medias/La-ville-et-vie-d%C3%A9mocratique/Publications/Rapports/Eau/Bilan-annuel-de-la-qualit%C3%A9-2025.pdf",
+          "exceedances": 0,
+          "thm": "Non indiquée",
+          "providerNote": "Aucun dépassement microbiologique ou de turbidité n’est indiqué. Le tableau affiche zéro échantillon de plomb et de cuivre prélevé pour cinq exigés, sans fournir d’explication. Le résultat SPFA indiqué est de 1 ng/L; les THM ne sont pas présentés séparément pour ce réseau.",
+          "rows": [
+            {
+              "parameter": "Coliformes totaux",
+              "minimum": "96",
+              "analyzed": "101",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Coliformes fécaux / E. coli",
+              "minimum": "96",
+              "analyzed": "101",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Plomb",
+              "minimum": "5",
+              "analyzed": "0",
+              "exceedances": 0,
+              "note": "Aucun échantillon indiqué"
+            },
+            {
+              "parameter": "Cuivre",
+              "minimum": "5",
+              "analyzed": "0",
+              "exceedances": 0,
+              "note": "Aucun échantillon indiqué"
+            },
+            {
+              "parameter": "Turbidité",
+              "minimum": "12",
+              "analyzed": "12",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Trihalométhanes totaux",
+              "minimum": "Non indiqué",
+              "analyzed": "Non indiqué",
+              "exceedances": 0,
+              "note": "Non présenté séparément pour ce réseau"
+            }
+          ],
+          "events": []
+        },
+        {
+          "id": "saguenay-centre-plein-air-portage-2025",
+          "network": "Centre Plein Air du Portage",
+          "year": "2025",
+          "installation": "X0010671",
+          "population": "22",
+          "period": "1er janv. – 31 déc. 2025",
+          "publication": "9 juill. 2026",
+          "responsible": "Ville de Saguenay",
+          "file": "Bilan-annuel-de-la-qualité-2025.pdf",
+          "url": "https://ville.saguenay.ca/files/medias/La-ville-et-vie-d%C3%A9mocratique/Publications/Rapports/Eau/Bilan-annuel-de-la-qualit%C3%A9-2025.pdf",
+          "exceedances": 0,
+          "thm": "Non indiquée",
+          "providerNote": "Aucun dépassement microbiologique n’est indiqué. Le réseau est saisonnier dans le tableau de turbidité, avec sept résultats de juin à décembre. Les contrôles du plomb, du cuivre, des THM et des SPFA ne sont pas présentés séparément pour cette installation.",
+          "rows": [
+            {
+              "parameter": "Coliformes totaux",
+              "minimum": "14",
+              "analyzed": "26",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Coliformes fécaux / E. coli",
+              "minimum": "14",
+              "analyzed": "26",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Plomb",
+              "minimum": "Non indiqué",
+              "analyzed": "Non indiqué",
+              "exceedances": 0,
+              "note": "Non présenté séparément"
+            },
+            {
+              "parameter": "Cuivre",
+              "minimum": "Non indiqué",
+              "analyzed": "Non indiqué",
+              "exceedances": 0,
+              "note": "Non présenté séparément"
+            },
+            {
+              "parameter": "Turbidité",
+              "minimum": "Saisonnier",
+              "analyzed": "7",
+              "exceedances": 0,
+              "note": "Résultats de juin à décembre"
+            },
+            {
+              "parameter": "Trihalométhanes totaux",
+              "minimum": "Non indiqué",
+              "analyzed": "Non indiqué",
+              "exceedances": 0,
+              "note": "Non présenté séparément pour ce réseau"
+            }
+          ],
+          "events": []
+        },
+        {
+          "id": "saguenay-jonquiere-kenogami-2025",
+          "network": "Jonquière (Jonquière / Kénogami)",
+          "year": "2025",
+          "installation": "X0009974",
+          "population": "32 000",
+          "period": "1er janv. – 31 déc. 2025",
+          "publication": "9 juill. 2026",
+          "responsible": "Ville de Saguenay",
+          "file": "Bilan-annuel-de-la-qualité-2025.pdf",
+          "url": "https://ville.saguenay.ca/files/medias/La-ville-et-vie-d%C3%A9mocratique/Publications/Rapports/Eau/Bilan-annuel-de-la-qualit%C3%A9-2025.pdf",
+          "exceedances": 0,
+          "thm": "62 µg/L",
+          "providerNote": "Aucun dépassement de norme indiqué. Six échantillons de plomb et de cuivre ont été prélevés pour 20 exigés. La moyenne réglementaire de THM est de 62 µg/L et le tableau des paramètres non normés indique moins de 1 ng/L de SPFA.",
+          "rows": [
+            {
+              "parameter": "Coliformes totaux",
+              "minimum": "432",
+              "analyzed": "433",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Coliformes fécaux / E. coli",
+              "minimum": "432",
+              "analyzed": "433",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Plomb",
+              "minimum": "20",
+              "analyzed": "6",
+              "exceedances": 0,
+              "note": "Maximum 0,0023 mg/L · norme 0,005 mg/L"
+            },
+            {
+              "parameter": "Cuivre",
+              "minimum": "20",
+              "analyzed": "6",
+              "exceedances": 0,
+              "note": "Maximum 0,043 mg/L · norme 1,0 mg/L"
+            },
+            {
+              "parameter": "Turbidité",
+              "minimum": "12",
+              "analyzed": "12",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Trihalométhanes totaux",
+              "minimum": "16",
+              "analyzed": "Exigence trimestrielle respectée",
+              "exceedances": 0,
+              "note": "Moy. 62 µg/L · norme 80 µg/L"
+            }
+          ],
+          "events": []
+        },
+        {
+          "id": "saguenay-arvida-2025",
+          "network": "Jonquière (secteur Arvida)",
+          "year": "2025",
+          "installation": "X0009975",
+          "population": "21 000",
+          "period": "1er janv. – 31 déc. 2025",
+          "publication": "9 juill. 2026",
+          "responsible": "Ville de Saguenay",
+          "file": "Bilan-annuel-de-la-qualité-2025.pdf",
+          "url": "https://ville.saguenay.ca/files/medias/La-ville-et-vie-d%C3%A9mocratique/Publications/Rapports/Eau/Bilan-annuel-de-la-qualit%C3%A9-2025.pdf",
+          "exceedances": 0,
+          "thm": "51 µg/L",
+          "providerNote": "Aucun dépassement de norme indiqué. Dix échantillons de plomb et de cuivre ont été prélevés pour 20 exigés. La moyenne réglementaire de THM est de 51 µg/L et le tableau des paramètres non normés indique moins de 1 ng/L de SPFA.",
+          "rows": [
+            {
+              "parameter": "Coliformes totaux",
+              "minimum": "288",
+              "analyzed": "297",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Coliformes fécaux / E. coli",
+              "minimum": "288",
+              "analyzed": "297",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Plomb",
+              "minimum": "20",
+              "analyzed": "10",
+              "exceedances": 0,
+              "note": "Maximum 0,0017 mg/L · norme 0,005 mg/L"
+            },
+            {
+              "parameter": "Cuivre",
+              "minimum": "20",
+              "analyzed": "10",
+              "exceedances": 0,
+              "note": "Maximum 0,270 mg/L · norme 1,0 mg/L"
+            },
+            {
+              "parameter": "Turbidité",
+              "minimum": "12",
+              "analyzed": "12",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Trihalométhanes totaux",
+              "minimum": "16",
+              "analyzed": "Exigence trimestrielle respectée",
+              "exceedances": 0,
+              "note": "Moy. 51 µg/L · norme 80 µg/L"
+            }
+          ],
+          "events": []
+        },
+        {
+          "id": "saguenay-shipshaw-2025",
+          "network": "Shipshaw (puits)",
+          "year": "2025",
+          "installation": "X0010151",
+          "population": "2 100",
+          "period": "1er janv. – 31 déc. 2025",
+          "publication": "9 juill. 2026",
+          "responsible": "Ville de Saguenay",
+          "file": "Bilan-annuel-de-la-qualité-2025.pdf",
+          "url": "https://ville.saguenay.ca/files/medias/La-ville-et-vie-d%C3%A9mocratique/Publications/Rapports/Eau/Bilan-annuel-de-la-qualit%C3%A9-2025.pdf",
+          "exceedances": 6,
+          "thm": "Non indiquée",
+          "providerNote": "Le bilan compte quatre dépassements d’E. coli et un de coliformes totaux; il détaille aussi une présence de virus coliphages F-spécifiques. Une chloration temporaire, des avis d’ébullition et un suivi renforcé ont été mis en place. Aucun échantillon de plomb ou de cuivre n’est indiqué pour cinq exigés. Les SPFA sont inférieurs à 1 ng/L.",
+          "rows": [
+            {
+              "parameter": "Coliformes totaux",
+              "minimum": "96",
+              "analyzed": "138",
+              "exceedances": 1,
+              "note": "1 dépassement"
+            },
+            {
+              "parameter": "Coliformes fécaux / E. coli",
+              "minimum": "96",
+              "analyzed": "138",
+              "exceedances": 4,
+              "note": "4 dépassements d’E. coli"
+            },
+            {
+              "parameter": "Plomb",
+              "minimum": "5",
+              "analyzed": "0",
+              "exceedances": 0,
+              "note": "Aucun échantillon indiqué"
+            },
+            {
+              "parameter": "Cuivre",
+              "minimum": "5",
+              "analyzed": "0",
+              "exceedances": 0,
+              "note": "Aucun échantillon indiqué"
+            },
+            {
+              "parameter": "Turbidité",
+              "minimum": "12",
+              "analyzed": "12",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Trihalométhanes totaux",
+              "minimum": "Non indiqué",
+              "analyzed": "Non indiqué",
+              "exceedances": 0,
+              "note": "Non présenté séparément pour ce réseau"
+            }
+          ],
+          "events": [
+            {
+              "date": "2 mai 2025",
+              "parameter": "Virus coliphages F-spécifiques",
+              "place": "Puits Shipshaw Sud, 1020, chemin de la Sablière, Shipshaw",
+              "standard": "Absence",
+              "result": "Présence",
+              "action": "Échantillonnage supplémentaire, investigation et suivi resserré avec la santé publique."
+            },
+            {
+              "date": "29 mai 2025",
+              "parameter": "Coliformes totaux",
+              "place": "Réseau Shipshaw Sud",
+              "standard": "Absence",
+              "result": "1 UFC/100 mL",
+              "action": "Échantillonnage supplémentaire, investigation et suivi resserré avec la santé publique."
+            },
+            {
+              "date": "24 juill. 2025",
+              "parameter": "E. coli",
+              "place": "Puits Shipshaw Sud, 1020, chemin de la Sablière, Shipshaw",
+              "standard": "Absence",
+              "result": "TNI (trop nombreux pour être identifiés)",
+              "action": "Investigation, chloration temporaire, avis d’ébullition ciblé et échantillonnage supplémentaire."
+            },
+            {
+              "date": "7 août 2025",
+              "parameter": "E. coli",
+              "place": "Puits Shipshaw Sud, 1020, chemin de la Sablière, Shipshaw",
+              "standard": "Absence",
+              "result": "TNI (trop nombreux pour être identifiés)",
+              "action": "Investigation, chloration temporaire, avis d’ébullition ciblé et échantillonnage supplémentaire."
+            },
+            {
+              "date": "20 août 2025",
+              "parameter": "E. coli",
+              "place": "Surpresseur Coulombe, 1861, route Coulombe, Shipshaw",
+              "standard": "Absence",
+              "result": "TNI (trop nombreux pour être identifiés)",
+              "action": "Investigation, chloration temporaire, avis d’ébullition ciblé et ajout d’une méthode d’analyse présence/absence pour les prochains échantillons."
+            },
+            {
+              "date": "20 août 2025",
+              "parameter": "E. coli",
+              "place": "Centre communautaire, 1983, rue de la Montagne, Shipshaw",
+              "standard": "Absence",
+              "result": "TNI (trop nombreux pour être identifiés)",
+              "action": "Investigation, chloration temporaire, avis d’ébullition ciblé et ajout d’une méthode d’analyse présence/absence pour les prochains échantillons."
+            }
+          ]
+        },
+        {
+          "id": "saguenay-lac-kenogami-2025",
+          "network": "Lac Kénogami (Pointe de Sable)",
+          "year": "2025",
+          "installation": "X0008044",
+          "population": "500",
+          "period": "1er janv. – 31 déc. 2025",
+          "publication": "9 juill. 2026",
+          "responsible": "Ville de Saguenay",
+          "file": "Bilan-annuel-de-la-qualité-2025.pdf",
+          "url": "https://ville.saguenay.ca/files/medias/La-ville-et-vie-d%C3%A9mocratique/Publications/Rapports/Eau/Bilan-annuel-de-la-qualit%C3%A9-2025.pdf",
+          "exceedances": 0,
+          "thm": "9 µg/L",
+          "providerNote": "Aucun dépassement de norme indiqué. Un échantillon de plomb et de cuivre a été prélevé pour deux exigés. La moyenne réglementaire de THM est de 9 µg/L et les SPFA sont inférieurs à 1 ng/L.",
+          "rows": [
+            {
+              "parameter": "Coliformes totaux",
+              "minimum": "48",
+              "analyzed": "49",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Coliformes fécaux / E. coli",
+              "minimum": "48",
+              "analyzed": "49",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Plomb",
+              "minimum": "2",
+              "analyzed": "1",
+              "exceedances": 0,
+              "note": "Maximum 0,0017 mg/L · norme 0,005 mg/L"
+            },
+            {
+              "parameter": "Cuivre",
+              "minimum": "2",
+              "analyzed": "1",
+              "exceedances": 0,
+              "note": "Maximum 0,084 mg/L · norme 1,0 mg/L"
+            },
+            {
+              "parameter": "Turbidité",
+              "minimum": "12",
+              "analyzed": "12",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Trihalométhanes totaux",
+              "minimum": "4",
+              "analyzed": "Exigence trimestrielle respectée",
+              "exceedances": 0,
+              "note": "Moy. 9 µg/L · norme 80 µg/L"
+            }
+          ],
+          "events": []
+        },
+        {
+          "id": "saguenay-rampe-lac-kenogami-2025",
+          "network": "Rampe de mise à l’eau du lac Kénogami",
+          "year": "2025",
+          "installation": "X2015855",
+          "population": "50",
+          "period": "1er janv. – 31 déc. 2025",
+          "publication": "9 juill. 2026",
+          "responsible": "Ville de Saguenay",
+          "file": "Bilan-annuel-de-la-qualité-2025.pdf",
+          "url": "https://ville.saguenay.ca/files/medias/La-ville-et-vie-d%C3%A9mocratique/Publications/Rapports/Eau/Bilan-annuel-de-la-qualit%C3%A9-2025.pdf",
+          "exceedances": 0,
+          "thm": "Non indiquée",
+          "providerNote": "Le rapport consolidé présente cinq analyses microbiologiques pour cette petite installation et aucun dépassement. Les contrôles du plomb, du cuivre, de la turbidité, des THM et des SPFA ne sont pas présentés séparément.",
+          "rows": [
+            {
+              "parameter": "Coliformes totaux",
+              "minimum": "4",
+              "analyzed": "5",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Coliformes fécaux / E. coli",
+              "minimum": "4",
+              "analyzed": "5",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Plomb",
+              "minimum": "Non indiqué",
+              "analyzed": "Non indiqué",
+              "exceedances": 0,
+              "note": "Non présenté séparément"
+            },
+            {
+              "parameter": "Cuivre",
+              "minimum": "Non indiqué",
+              "analyzed": "Non indiqué",
+              "exceedances": 0,
+              "note": "Non présenté séparément"
+            },
+            {
+              "parameter": "Turbidité",
+              "minimum": "Non indiqué",
+              "analyzed": "Non indiqué",
+              "exceedances": 0,
+              "note": "Non présenté séparément"
+            },
+            {
+              "parameter": "Trihalométhanes totaux",
+              "minimum": "Non indiqué",
+              "analyzed": "Non indiqué",
+              "exceedances": 0,
+              "note": "Non présenté séparément"
+            }
+          ],
+          "events": []
+        }
+      ]
     }
   ]
 }
