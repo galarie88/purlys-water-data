@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-07-20",
+  "updatedAt": "2026-07-21",
   "municipalities": [
     {
       "id": "terrebonne",
       "name": "Terrebonne",
       "region": "Lanaudière",
       "map": {
-        "x": 293.250634,
-        "y": 505.58324
+        "x": 293.3,
+        "y": 505.6
       },
       "reports": [
         {
@@ -248,8 +248,8 @@
       "name": "Saint-Jérôme",
       "region": "Laurentides",
       "map": {
-        "x": 287.8,
-        "y": 491.6
+        "x": 286.2,
+        "y": 492.8
       },
       "reports": [
         {
@@ -336,8 +336,8 @@
       "name": "Drummondville",
       "region": "Centre-du-Québec",
       "map": {
-        "x": 330.5,
-        "y": 497.8
+        "x": 319.5,
+        "y": 496.5
       },
       "reports": [
         {
@@ -424,8 +424,8 @@
       "name": "Repentigny",
       "region": "Lanaudière",
       "map": {
-        "x": 298.4,
-        "y": 504.3
+        "x": 298.9,
+        "y": 502.8
       },
       "reports": [
         {
@@ -495,8 +495,8 @@
       "name": "Brossard",
       "region": "Montérégie",
       "map": {
-        "x": 286.5,
-        "y": 512
+        "x": 294.4,
+        "y": 514.2
       },
       "reports": [
         {
@@ -514,12 +514,48 @@
           "thm": "Non indiquée",
           "providerNote": "Le bilan indique cinq présences de coliformes totaux, mais précise qu’aucune ne constitue un dépassement réglementaire. Les contrôles du plomb et du cuivre relèvent du réseau fournisseur et ne sont pas présentés comme analyses réalisées dans ce bilan.",
           "rows": [
-            {"parameter":"Coliformes totaux","minimum":"1 136","analyzed":"1 132","exceedances":0,"note":"5 présences; aucun dépassement réglementaire"},
-            {"parameter":"Coliformes fécaux / E. coli","minimum":"1 136","analyzed":"1 132","exceedances":0,"note":"—"},
-            {"parameter":"Plomb","minimum":"30","analyzed":"Sous responsabilité du réseau fournisseur","exceedances":0,"note":"Non applicable dans ce bilan"},
-            {"parameter":"Cuivre","minimum":"30","analyzed":"Sous responsabilité du réseau fournisseur","exceedances":0,"note":"Non applicable dans ce bilan"},
-            {"parameter":"Turbidité","minimum":"12","analyzed":"12","exceedances":0,"note":"—"},
-            {"parameter":"Trihalométhanes totaux","minimum":"16","analyzed":"16","exceedances":0,"note":"Aucun dépassement; moyenne non indiquée"}
+            {
+              "parameter": "Coliformes totaux",
+              "minimum": "1 136",
+              "analyzed": "1 132",
+              "exceedances": 0,
+              "note": "5 présences; aucun dépassement réglementaire"
+            },
+            {
+              "parameter": "Coliformes fécaux / E. coli",
+              "minimum": "1 136",
+              "analyzed": "1 132",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Plomb",
+              "minimum": "30",
+              "analyzed": "Sous responsabilité du réseau fournisseur",
+              "exceedances": 0,
+              "note": "Non applicable dans ce bilan"
+            },
+            {
+              "parameter": "Cuivre",
+              "minimum": "30",
+              "analyzed": "Sous responsabilité du réseau fournisseur",
+              "exceedances": 0,
+              "note": "Non applicable dans ce bilan"
+            },
+            {
+              "parameter": "Turbidité",
+              "minimum": "12",
+              "analyzed": "12",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Trihalométhanes totaux",
+              "minimum": "16",
+              "analyzed": "16",
+              "exceedances": 0,
+              "note": "Aucun dépassement; moyenne non indiquée"
+            }
           ],
           "events": []
         }
@@ -530,8 +566,8 @@
       "name": "Rimouski",
       "region": "Bas-Saint-Laurent",
       "map": {
-        "x": 430,
-        "y": 450
+        "x": 397.2,
+        "y": 442.8
       },
       "reports": [
         {
@@ -549,19 +585,90 @@
           "thm": "9,2 µg/L",
           "providerNote": "Cinq résultats de plomb dépassant la norme indiquée au bilan ont été mesurés à la même adresse. Les propriétaires ont été avisés, une recherche de la source du plomb a été entreprise et l’échantillonnage sera doublé en 2026.",
           "rows": [
-            {"parameter":"Coliformes totaux","minimum":"612","analyzed":"660","exceedances":0,"note":"—"},
-            {"parameter":"Coliformes fécaux / E. coli","minimum":"612","analyzed":"660","exceedances":0,"note":"—"},
-            {"parameter":"Plomb","minimum":"30","analyzed":"34","exceedances":5,"note":"Norme indiquée au bilan : 0,01 mg/L"},
-            {"parameter":"Cuivre","minimum":"30","analyzed":"34","exceedances":0,"note":"—"},
-            {"parameter":"Turbidité","minimum":"12","analyzed":"12","exceedances":0,"note":"—"},
-            {"parameter":"Trihalométhanes totaux","minimum":"16","analyzed":"16","exceedances":0,"note":"Moy. 9,2 µg/L · norme 80 µg/L"}
+            {
+              "parameter": "Coliformes totaux",
+              "minimum": "612",
+              "analyzed": "660",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Coliformes fécaux / E. coli",
+              "minimum": "612",
+              "analyzed": "660",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Plomb",
+              "minimum": "30",
+              "analyzed": "34",
+              "exceedances": 5,
+              "note": "Norme indiquée au bilan : 0,01 mg/L"
+            },
+            {
+              "parameter": "Cuivre",
+              "minimum": "30",
+              "analyzed": "34",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Turbidité",
+              "minimum": "12",
+              "analyzed": "12",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Trihalométhanes totaux",
+              "minimum": "16",
+              "analyzed": "16",
+              "exceedances": 0,
+              "note": "Moy. 9,2 µg/L · norme 80 µg/L"
+            }
           ],
           "events": [
-            {"date":"10 juill. 2025","parameter":"Plomb","place":"178, rue Fiset","standard":"0,01 mg/L","result":"0,0192 mg/L","action":"Propriétaires avisés; recherche de la source et suivi renforcé."},
-            {"date":"28 juill. 2025","parameter":"Plomb","place":"178, rue Fiset","standard":"0,01 mg/L","result":"0,0171 mg/L","action":"Propriétaires avisés; recherche de la source et suivi renforcé."},
-            {"date":"28 juill. 2025","parameter":"Plomb","place":"178, rue Fiset","standard":"0,01 mg/L","result":"0,0499 mg/L","action":"Propriétaires avisés; recherche de la source et suivi renforcé."},
-            {"date":"28 juill. 2025","parameter":"Plomb","place":"178, rue Fiset","standard":"0,01 mg/L","result":"0,0684 mg/L","action":"Propriétaires avisés; recherche de la source et suivi renforcé."},
-            {"date":"28 juill. 2025","parameter":"Plomb","place":"178, rue Fiset","standard":"0,01 mg/L","result":"0,0268 mg/L","action":"Propriétaires avisés; recherche de la source et suivi renforcé."}
+            {
+              "date": "10 juill. 2025",
+              "parameter": "Plomb",
+              "place": "178, rue Fiset",
+              "standard": "0,01 mg/L",
+              "result": "0,0192 mg/L",
+              "action": "Propriétaires avisés; recherche de la source et suivi renforcé."
+            },
+            {
+              "date": "28 juill. 2025",
+              "parameter": "Plomb",
+              "place": "178, rue Fiset",
+              "standard": "0,01 mg/L",
+              "result": "0,0171 mg/L",
+              "action": "Propriétaires avisés; recherche de la source et suivi renforcé."
+            },
+            {
+              "date": "28 juill. 2025",
+              "parameter": "Plomb",
+              "place": "178, rue Fiset",
+              "standard": "0,01 mg/L",
+              "result": "0,0499 mg/L",
+              "action": "Propriétaires avisés; recherche de la source et suivi renforcé."
+            },
+            {
+              "date": "28 juill. 2025",
+              "parameter": "Plomb",
+              "place": "178, rue Fiset",
+              "standard": "0,01 mg/L",
+              "result": "0,0684 mg/L",
+              "action": "Propriétaires avisés; recherche de la source et suivi renforcé."
+            },
+            {
+              "date": "28 juill. 2025",
+              "parameter": "Plomb",
+              "place": "178, rue Fiset",
+              "standard": "0,01 mg/L",
+              "result": "0,0268 mg/L",
+              "action": "Propriétaires avisés; recherche de la source et suivi renforcé."
+            }
           ]
         }
       ]
@@ -571,8 +678,8 @@
       "name": "Saint-Eustache",
       "region": "Laurentides",
       "map": {
-        "x": 279,
-        "y": 502
+        "x": 282.6,
+        "y": 503.2
       },
       "reports": [
         {
@@ -590,16 +697,66 @@
           "thm": "38,1 µg/L",
           "providerNote": "Deux dépassements de plomb ont été observés. Les citoyens ont été joints et les seconds prélèvements aux deux adresses étaient conformes. La campagne plomb est doublée en 2025 et 2026.",
           "rows": [
-            {"parameter":"Coliformes totaux","minimum":"552","analyzed":"555","exceedances":0,"note":"—"},
-            {"parameter":"Coliformes fécaux / E. coli","minimum":"552","analyzed":"555","exceedances":0,"note":"—"},
-            {"parameter":"Plomb","minimum":"20","analyzed":"29","exceedances":2,"note":"Norme : 0,005 mg/L"},
-            {"parameter":"Cuivre","minimum":"20","analyzed":"29","exceedances":0,"note":"—"},
-            {"parameter":"Turbidité","minimum":"12","analyzed":"12","exceedances":0,"note":"—"},
-            {"parameter":"Trihalométhanes totaux","minimum":"16","analyzed":"16","exceedances":0,"note":"Moy. 38,1 µg/L · norme 80 µg/L"}
+            {
+              "parameter": "Coliformes totaux",
+              "minimum": "552",
+              "analyzed": "555",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Coliformes fécaux / E. coli",
+              "minimum": "552",
+              "analyzed": "555",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Plomb",
+              "minimum": "20",
+              "analyzed": "29",
+              "exceedances": 2,
+              "note": "Norme : 0,005 mg/L"
+            },
+            {
+              "parameter": "Cuivre",
+              "minimum": "20",
+              "analyzed": "29",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Turbidité",
+              "minimum": "12",
+              "analyzed": "12",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Trihalométhanes totaux",
+              "minimum": "16",
+              "analyzed": "16",
+              "exceedances": 0,
+              "note": "Moy. 38,1 µg/L · norme 80 µg/L"
+            }
           ],
           "events": [
-            {"date":"29 août 2024","parameter":"Plomb","place":"80, rue Chayer","standard":"0,005 mg/L","result":"0,0069 mg/L","action":"Citoyen appelé; second prélèvement 4 × 1 L conforme."},
-            {"date":"5 sept. 2024","parameter":"Plomb","place":"126, 55e Avenue","standard":"0,005 mg/L","result":"0,0122 mg/L","action":"Citoyen appelé; second prélèvement 4 × 1 L conforme."}
+            {
+              "date": "29 août 2024",
+              "parameter": "Plomb",
+              "place": "80, rue Chayer",
+              "standard": "0,005 mg/L",
+              "result": "0,0069 mg/L",
+              "action": "Citoyen appelé; second prélèvement 4 × 1 L conforme."
+            },
+            {
+              "date": "5 sept. 2024",
+              "parameter": "Plomb",
+              "place": "126, 55e Avenue",
+              "standard": "0,005 mg/L",
+              "result": "0,0122 mg/L",
+              "action": "Citoyen appelé; second prélèvement 4 × 1 L conforme."
+            }
           ]
         }
       ]
@@ -609,8 +766,8 @@
       "name": "Victoriaville",
       "region": "Centre-du-Québec",
       "map": {
-        "x": 332,
-        "y": 526
+        "x": 320.8,
+        "y": 498.8
       },
       "reports": [
         {
@@ -628,12 +785,48 @@
           "thm": "20,14 µg/L",
           "providerNote": "Aucun dépassement de norme indiqué dans le bilan 2025 du réseau Arthabaska.",
           "rows": [
-            {"parameter":"Coliformes totaux","minimum":"120","analyzed":"153","exceedances":0,"note":"—"},
-            {"parameter":"Coliformes fécaux / E. coli","minimum":"120","analyzed":"153","exceedances":0,"note":"—"},
-            {"parameter":"Plomb","minimum":"10","analyzed":"10","exceedances":0,"note":"—"},
-            {"parameter":"Cuivre","minimum":"10","analyzed":"10","exceedances":0,"note":"—"},
-            {"parameter":"Turbidité","minimum":"12","analyzed":"12","exceedances":0,"note":"—"},
-            {"parameter":"Trihalométhanes totaux","minimum":"16","analyzed":"16","exceedances":0,"note":"Moy. 20,14 µg/L · norme 80 µg/L"}
+            {
+              "parameter": "Coliformes totaux",
+              "minimum": "120",
+              "analyzed": "153",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Coliformes fécaux / E. coli",
+              "minimum": "120",
+              "analyzed": "153",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Plomb",
+              "minimum": "10",
+              "analyzed": "10",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Cuivre",
+              "minimum": "10",
+              "analyzed": "10",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Turbidité",
+              "minimum": "12",
+              "analyzed": "12",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Trihalométhanes totaux",
+              "minimum": "16",
+              "analyzed": "16",
+              "exceedances": 0,
+              "note": "Moy. 20,14 µg/L · norme 80 µg/L"
+            }
           ],
           "events": []
         },
@@ -652,12 +845,48 @@
           "thm": "13,20 µg/L",
           "providerNote": "Aucun dépassement de norme indiqué dans le bilan 2025 du réseau Saint-Christophe-d’Arthabaska.",
           "rows": [
-            {"parameter":"Coliformes totaux","minimum":"24","analyzed":"26","exceedances":0,"note":"—"},
-            {"parameter":"Coliformes fécaux / E. coli","minimum":"24","analyzed":"26","exceedances":0,"note":"—"},
-            {"parameter":"Plomb","minimum":"5","analyzed":"5","exceedances":0,"note":"—"},
-            {"parameter":"Cuivre","minimum":"5","analyzed":"5","exceedances":0,"note":"—"},
-            {"parameter":"Turbidité","minimum":"12","analyzed":"12","exceedances":0,"note":"—"},
-            {"parameter":"Trihalométhanes totaux","minimum":"4","analyzed":"4","exceedances":0,"note":"Moy. 13,20 µg/L · norme 80 µg/L"}
+            {
+              "parameter": "Coliformes totaux",
+              "minimum": "24",
+              "analyzed": "26",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Coliformes fécaux / E. coli",
+              "minimum": "24",
+              "analyzed": "26",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Plomb",
+              "minimum": "5",
+              "analyzed": "5",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Cuivre",
+              "minimum": "5",
+              "analyzed": "5",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Turbidité",
+              "minimum": "12",
+              "analyzed": "12",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Trihalométhanes totaux",
+              "minimum": "4",
+              "analyzed": "4",
+              "exceedances": 0,
+              "note": "Moy. 13,20 µg/L · norme 80 µg/L"
+            }
           ],
           "events": []
         },
@@ -676,12 +905,48 @@
           "thm": "29,15 µg/L",
           "providerNote": "Aucun dépassement de norme indiqué dans le bilan 2025 du réseau Victoriaville.",
           "rows": [
-            {"parameter":"Coliformes totaux","minimum":"468","analyzed":"509","exceedances":0,"note":"—"},
-            {"parameter":"Coliformes fécaux / E. coli","minimum":"468","analyzed":"509","exceedances":0,"note":"—"},
-            {"parameter":"Plomb","minimum":"20","analyzed":"20","exceedances":0,"note":"—"},
-            {"parameter":"Cuivre","minimum":"20","analyzed":"20","exceedances":0,"note":"—"},
-            {"parameter":"Turbidité","minimum":"12","analyzed":"12","exceedances":0,"note":"—"},
-            {"parameter":"Trihalométhanes totaux","minimum":"16","analyzed":"16","exceedances":0,"note":"Moy. 29,15 µg/L · norme 80 µg/L"}
+            {
+              "parameter": "Coliformes totaux",
+              "minimum": "468",
+              "analyzed": "509",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Coliformes fécaux / E. coli",
+              "minimum": "468",
+              "analyzed": "509",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Plomb",
+              "minimum": "20",
+              "analyzed": "20",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Cuivre",
+              "minimum": "20",
+              "analyzed": "20",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Turbidité",
+              "minimum": "12",
+              "analyzed": "12",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Trihalométhanes totaux",
+              "minimum": "16",
+              "analyzed": "16",
+              "exceedances": 0,
+              "note": "Moy. 29,15 µg/L · norme 80 µg/L"
+            }
           ],
           "events": []
         }
@@ -691,7 +956,10 @@
       "id": "granby",
       "name": "Granby",
       "region": "Estrie",
-      "map": {"x": 316, "y": 535},
+      "map": {
+        "x": 330.2,
+        "y": 512.6
+      },
       "reports": [
         {
           "id": "granby-principal-2025",
@@ -708,12 +976,48 @@
           "thm": "47 µg/L",
           "providerNote": "Aucun dépassement de norme indiqué dans le bilan 2025 du réseau principal de Granby.",
           "rows": [
-            {"parameter":"Coliformes totaux","minimum":"732","analyzed":"1 188","exceedances":0,"note":"—"},
-            {"parameter":"Coliformes fécaux / E. coli","minimum":"732","analyzed":"1 188","exceedances":0,"note":"—"},
-            {"parameter":"Plomb","minimum":"30","analyzed":"31","exceedances":0,"note":"—"},
-            {"parameter":"Cuivre","minimum":"30","analyzed":"31","exceedances":0,"note":"—"},
-            {"parameter":"Turbidité","minimum":"12","analyzed":"23","exceedances":0,"note":"—"},
-            {"parameter":"Trihalométhanes totaux","minimum":"16","analyzed":"31","exceedances":0,"note":"Moy. 47 µg/L · norme 80 µg/L"}
+            {
+              "parameter": "Coliformes totaux",
+              "minimum": "732",
+              "analyzed": "1 188",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Coliformes fécaux / E. coli",
+              "minimum": "732",
+              "analyzed": "1 188",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Plomb",
+              "minimum": "30",
+              "analyzed": "31",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Cuivre",
+              "minimum": "30",
+              "analyzed": "31",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Turbidité",
+              "minimum": "12",
+              "analyzed": "23",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Trihalométhanes totaux",
+              "minimum": "16",
+              "analyzed": "31",
+              "exceedances": 0,
+              "note": "Moy. 47 µg/L · norme 80 µg/L"
+            }
           ],
           "events": []
         },
@@ -732,12 +1036,48 @@
           "thm": "39 µg/L",
           "providerNote": "Aucun dépassement de norme indiqué dans le bilan 2025 du réseau Verrières Saint-Alexandre.",
           "rows": [
-            {"parameter":"Coliformes totaux","minimum":"24","analyzed":"52","exceedances":0,"note":"—"},
-            {"parameter":"Coliformes fécaux / E. coli","minimum":"24","analyzed":"52","exceedances":0,"note":"—"},
-            {"parameter":"Plomb","minimum":"2","analyzed":"2","exceedances":0,"note":"—"},
-            {"parameter":"Cuivre","minimum":"2","analyzed":"2","exceedances":0,"note":"—"},
-            {"parameter":"Turbidité","minimum":"12","analyzed":"24","exceedances":0,"note":"—"},
-            {"parameter":"Trihalométhanes totaux","minimum":"4","analyzed":"4","exceedances":0,"note":"Moy. 39 µg/L · norme 80 µg/L"}
+            {
+              "parameter": "Coliformes totaux",
+              "minimum": "24",
+              "analyzed": "52",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Coliformes fécaux / E. coli",
+              "minimum": "24",
+              "analyzed": "52",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Plomb",
+              "minimum": "2",
+              "analyzed": "2",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Cuivre",
+              "minimum": "2",
+              "analyzed": "2",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Turbidité",
+              "minimum": "12",
+              "analyzed": "24",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Trihalométhanes totaux",
+              "minimum": "4",
+              "analyzed": "4",
+              "exceedances": 0,
+              "note": "Moy. 39 µg/L · norme 80 µg/L"
+            }
           ],
           "events": []
         }
@@ -747,7 +1087,10 @@
       "id": "blainville",
       "name": "Blainville",
       "region": "Laurentides",
-      "map": {"x": 284, "y": 496},
+      "map": {
+        "x": 284.5,
+        "y": 497.4
+      },
       "reports": [
         {
           "id": "blainville-2025",
@@ -764,15 +1107,58 @@
           "thm": "39,23 µg/L",
           "providerNote": "Un résultat de plomb légèrement supérieur à la norme a été observé. Le second prélèvement était conforme et le propriétaire de l’immeuble a été avisé.",
           "rows": [
-            {"parameter":"Coliformes totaux","minimum":"744","analyzed":"780","exceedances":0,"note":"—"},
-            {"parameter":"Coliformes fécaux / E. coli","minimum":"744","analyzed":"780","exceedances":0,"note":"—"},
-            {"parameter":"Plomb","minimum":"30","analyzed":"30","exceedances":1,"note":"Norme : 0,005 mg/L"},
-            {"parameter":"Cuivre","minimum":"30","analyzed":"30","exceedances":0,"note":"—"},
-            {"parameter":"Turbidité","minimum":"12","analyzed":"12","exceedances":0,"note":"—"},
-            {"parameter":"Trihalométhanes totaux","minimum":"16","analyzed":"16","exceedances":0,"note":"Moy. 39,23 µg/L · norme 80 µg/L"}
+            {
+              "parameter": "Coliformes totaux",
+              "minimum": "744",
+              "analyzed": "780",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Coliformes fécaux / E. coli",
+              "minimum": "744",
+              "analyzed": "780",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Plomb",
+              "minimum": "30",
+              "analyzed": "30",
+              "exceedances": 1,
+              "note": "Norme : 0,005 mg/L"
+            },
+            {
+              "parameter": "Cuivre",
+              "minimum": "30",
+              "analyzed": "30",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Turbidité",
+              "minimum": "12",
+              "analyzed": "12",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Trihalométhanes totaux",
+              "minimum": "16",
+              "analyzed": "16",
+              "exceedances": 0,
+              "note": "Moy. 39,23 µg/L · norme 80 µg/L"
+            }
           ],
           "events": [
-            {"date":"17 sept. 2025","parameter":"Plomb","place":"12, 20e Avenue Ouest","standard":"0,005 mg/L","result":"0,0051 mg/L","action":"Second prélèvement conforme; propriétaire de l’immeuble avisé."}
+            {
+              "date": "17 sept. 2025",
+              "parameter": "Plomb",
+              "place": "12, 20e Avenue Ouest",
+              "standard": "0,005 mg/L",
+              "result": "0,0051 mg/L",
+              "action": "Second prélèvement conforme; propriétaire de l’immeuble avisé."
+            }
           ]
         }
       ]
@@ -782,8 +1168,8 @@
       "name": "Mirabel",
       "region": "Laurentides",
       "map": {
-        "x": 280,
-        "y": 486
+        "x": 279.2,
+        "y": 489.4
       },
       "reports": [
         {
@@ -1822,8 +2208,8 @@
       "name": "Saint-Hyacinthe",
       "region": "Montérégie",
       "map": {
-        "x": 316,
-        "y": 519
+        "x": 308.6,
+        "y": 508.8
       },
       "reports": [
         {
@@ -1918,8 +2304,8 @@
       "name": "Shawinigan",
       "region": "Mauricie",
       "map": {
-        "x": 335,
-        "y": 477
+        "x": 307.1,
+        "y": 469.2
       },
       "reports": [
         {
@@ -2049,8 +2435,8 @@
       "name": "Châteauguay",
       "region": "Montérégie",
       "map": {
-        "x": 278,
-        "y": 518
+        "x": 287.4,
+        "y": 516.4
       },
       "reports": [
         {
@@ -2120,8 +2506,8 @@
       "name": "Lévis",
       "region": "Chaudière-Appalaches",
       "map": {
-        "x": 370,
-        "y": 466
+        "x": 341.8,
+        "y": 480.2
       },
       "reports": [
         {
@@ -2269,8 +2655,8 @@
       "name": "Saint-Jean-sur-Richelieu",
       "region": "Montérégie",
       "map": {
-        "x": 293,
-        "y": 530
+        "x": 306.8,
+        "y": 517.8
       },
       "reports": [
         {
