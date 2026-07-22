@@ -3871,6 +3871,395 @@
           "events": []
         }
       ]
+    },
+    {
+      "id": "sherbrooke",
+      "name": "Sherbrooke",
+      "region": "Estrie",
+      "map": {
+        "x": 341.5,
+        "y": 524.5
+      },
+      "reports": [
+        {
+          "id": "sherbrooke-jeanson-2025",
+          "network": "Réseau de distribution J.-M.-Jeanson",
+          "year": "2025",
+          "installation": "X0008188",
+          "population": "178 890",
+          "period": "1er janv. – 31 déc. 2025",
+          "publication": "31 mars 2026",
+          "responsible": "Ville de Sherbrooke",
+          "file": "2025 - Bilan de la qualité de l'eau potable - J.-M.-Jeanson.pdf",
+          "url": "https://www.sherbrooke.ca/Fichiers/3337a882-4a53-e611-80ea-00155d09650f/Sites/333dd3d3-915d-e611-80ea-00155d09650f/Documents/Bilans%20et%20rapports/2025/2025%20-%20Bilan%20de%20la%20qualit%C3%A9%20de%20l%27eau%20potable%20-%20J.-M.-Jeanson.pdf",
+          "exceedances": 26,
+          "thm": "51,4 µg/L",
+          "providerNote": "Le sommaire indique deux dépassements de coliformes totaux, tandis que le tableau détaillé en présente trois (11, > 200 et 16 UFC/100 mL); la fiche conserve les trois événements. Le détail comprend aussi 13 dépassements de bactéries atypiques et 10 dépassements initiaux de plomb, pour 26 événements dépassant leur valeur applicable. Cinq résultats ponctuels de THM de 81 à 91 µg/L ne constituent pas des dépassements réglementaires, puisque la moyenne annuelle calculée sur quatre trimestres est de 51,4 µg/L.",
+          "rows": [
+            {
+              "parameter": "Coliformes totaux",
+              "minimum": "1 284",
+              "analyzed": "1 445",
+              "exceedances": 3,
+              "note": "Sommaire : 2 · tableau détaillé : 3"
+            },
+            {
+              "parameter": "Coliformes fécaux / E. coli",
+              "minimum": "1 284",
+              "analyzed": "1 445",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Plomb",
+              "minimum": "50",
+              "analyzed": "250",
+              "exceedances": 10,
+              "note": "10 résultats initiaux > 0,005 mg/L"
+            },
+            {
+              "parameter": "Cuivre",
+              "minimum": "50",
+              "analyzed": "250",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Turbidité",
+              "minimum": "12",
+              "analyzed": "13",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Trihalométhanes totaux",
+              "minimum": "32",
+              "analyzed": "40",
+              "exceedances": 0,
+              "note": "Moy. 51,4 µg/L · 5 valeurs ponctuelles de 81 à 91 µg/L · norme annuelle 80 µg/L"
+            }
+          ],
+          "events": [
+            {
+              "date": "19 mars 2025",
+              "parameter": "Bactéries atypiques",
+              "place": "Rue Caron",
+              "standard": "200 UFC/100 mL maximum",
+              "result": "> 200 UFC/100 mL",
+              "action": "Contamination limitée à la plomberie interne; rinçage et retour à la conformité le 1er avril 2025."
+            },
+            {
+              "date": "2 mai 2025",
+              "parameter": "Bactéries atypiques",
+              "place": "Rue Godbout",
+              "standard": "200 UFC/100 mL maximum",
+              "result": "> 200 UFC/100 mL",
+              "action": "Rinçage dirigé de la vanne neuve; retour à la conformité le 13 mai 2025."
+            },
+            {
+              "date": "15 mai 2025",
+              "parameter": "Bactéries atypiques",
+              "place": "Rue College, site no 1",
+              "standard": "200 UFC/100 mL maximum",
+              "result": "> 200 UFC/100 mL",
+              "action": "Rinçage des conduites et de la plomberie interne; retour à la conformité le 29 mai 2025."
+            },
+            {
+              "date": "22 mai 2025",
+              "parameter": "Coliformes totaux",
+              "place": "Rue College, site no 1",
+              "standard": "10 UFC/100 mL maximum",
+              "result": "11 UFC/100 mL",
+              "action": "Rinçage des conduites extérieures et de la plomberie interne; retour à la conformité le 29 mai 2025."
+            },
+            {
+              "date": "26 juin 2025",
+              "parameter": "Bactéries atypiques",
+              "place": "12e Avenue Nord",
+              "standard": "200 UFC/100 mL maximum",
+              "result": "> 200 UFC/100 mL",
+              "action": "Deux rinçages de conduites; retour à la conformité le 25 août 2025."
+            },
+            {
+              "date": "2 juill. 2025",
+              "parameter": "Bactéries atypiques",
+              "place": "Rue College, site no 2",
+              "standard": "200 UFC/100 mL maximum",
+              "result": "> 200 UFC/100 mL",
+              "action": "Rinçage de la conduite; retour à la conformité le 15 août 2025."
+            },
+            {
+              "date": "3 juill. 2025",
+              "parameter": "Bactéries atypiques",
+              "place": "Rue College, site no 1",
+              "standard": "200 UFC/100 mL maximum",
+              "result": "> 200 UFC/100 mL",
+              "action": "Rinçage des conduites et de la plomberie interne; retour à la conformité le 14 juillet 2025."
+            },
+            {
+              "date": "14 juill. 2025",
+              "parameter": "Bactéries atypiques",
+              "place": "Rue Parent",
+              "standard": "200 UFC/100 mL maximum",
+              "result": "> 200 UFC/100 mL",
+              "action": "Rinçage de la conduite maintenue isolée; retour à la conformité le 15 août 2025."
+            },
+            {
+              "date": "15 juill. 2025",
+              "parameter": "Bactéries atypiques",
+              "place": "Rue Villeneuve",
+              "standard": "200 UFC/100 mL maximum",
+              "result": "> 200 UFC/100 mL",
+              "action": "Rinçage de la conduite; retour à la conformité le 31 juillet 2025."
+            },
+            {
+              "date": "16 juill. 2025",
+              "parameter": "Bactéries atypiques",
+              "place": "Rue du Cégep",
+              "standard": "200 UFC/100 mL maximum",
+              "result": "> 200 UFC/100 mL",
+              "action": "Rinçage de la conduite; retour à la conformité le 7 août 2025."
+            },
+            {
+              "date": "8 août 2025",
+              "parameter": "Coliformes totaux",
+              "place": "Rue College, site no 3",
+              "standard": "10 UFC/100 mL maximum",
+              "result": "> 200 UFC/100 mL",
+              "action": "Rinçage après une réparation d’aqueduc; retour à la conformité le 15 août 2025."
+            },
+            {
+              "date": "12 août 2025",
+              "parameter": "Bactéries atypiques",
+              "place": "Rue de l’Oiselet",
+              "standard": "200 UFC/100 mL maximum",
+              "result": "> 200 UFC/100 mL",
+              "action": "Rinçage après une réparation d’aqueduc; retour à la conformité le 25 août 2025."
+            },
+            {
+              "date": "14 août 2025",
+              "parameter": "Bactéries atypiques",
+              "place": "Rue Ponton",
+              "standard": "200 UFC/100 mL maximum",
+              "result": "> 200 UFC/100 mL",
+              "action": "Vérification des conduites temporaires et rinçage; retour à la conformité le 2 septembre 2025."
+            },
+            {
+              "date": "15 août 2025",
+              "parameter": "Bactéries atypiques",
+              "place": "Rue College, site no 1",
+              "standard": "200 UFC/100 mL maximum",
+              "result": "> 200 UFC/100 mL",
+              "action": "Rinçage des conduites et de la plomberie interne; retour à la conformité le 25 août 2025."
+            },
+            {
+              "date": "24 sept. 2025",
+              "parameter": "Coliformes totaux",
+              "place": "Rue de l’Élan",
+              "standard": "10 UFC/100 mL maximum",
+              "result": "16 UFC/100 mL",
+              "action": "Rinçage de la conduite; retour à la conformité le 2 octobre 2025."
+            },
+            {
+              "date": "25 oct. 2025",
+              "parameter": "Bactéries atypiques",
+              "place": "Chemin de Sainte-Catherine",
+              "standard": "200 UFC/100 mL maximum",
+              "result": "> 200 UFC/100 mL",
+              "action": "Dosage de chlore augmenté et nouvelle analyse conforme; protocole complété le 30 octobre 2025."
+            },
+            {
+              "date": "3 juill. 2025",
+              "parameter": "Plomb",
+              "place": "Rue de la Rivière-Magog",
+              "standard": "0,005 mg/L",
+              "result": "0,0150 mg/L",
+              "action": "Origine établie dans la tuyauterie de la résidence; plomberie interne remplacée et conformité rétablie le 5 septembre 2025."
+            },
+            {
+              "date": "8 juill. 2025",
+              "parameter": "Plomb",
+              "place": "Rue du Vermont",
+              "standard": "0,005 mg/L",
+              "result": "0,0160 mg/L",
+              "action": "Origine non déterminée; nouveaux prélèvements prévus durant les deux campagnes de suivi."
+            },
+            {
+              "date": "9 juill. 2025",
+              "parameter": "Plomb",
+              "place": "Rue de Dorval",
+              "standard": "0,005 mg/L",
+              "result": "0,0100 mg/L",
+              "action": "Moyenne de l’échantillonnage séquentiel conforme; retour à la conformité le 22 juillet 2025."
+            },
+            {
+              "date": "16 juill. 2025",
+              "parameter": "Plomb",
+              "place": "Rue William-Paige",
+              "standard": "0,005 mg/L",
+              "result": "0,0064 mg/L",
+              "action": "Moyenne de l’échantillonnage séquentiel conforme; retour à la conformité le 31 juillet 2025."
+            },
+            {
+              "date": "17 juill. 2025",
+              "parameter": "Plomb",
+              "place": "Rue Chalifoux",
+              "standard": "0,005 mg/L",
+              "result": "0,0100 mg/L",
+              "action": "Origine probable au robinet de la buanderie du sous-sol; aucun effet sur les six logements et conformité rétablie le 22 août 2025."
+            },
+            {
+              "date": "25 juill. 2025",
+              "parameter": "Plomb",
+              "place": "Rue St. Francis",
+              "standard": "0,005 mg/L",
+              "result": "0,0066 mg/L",
+              "action": "Moyenne de l’échantillonnage séquentiel conforme; retour à la conformité le 8 août 2025."
+            },
+            {
+              "date": "30 juill. 2025",
+              "parameter": "Plomb",
+              "place": "Rue de Moncton",
+              "standard": "0,005 mg/L",
+              "result": "0,0054 mg/L",
+              "action": "Profilage conforme; accumulation probable sur l’aérateur retiré et retour à la conformité le 11 août 2025."
+            },
+            {
+              "date": "8 août 2025",
+              "parameter": "Plomb",
+              "place": "Rue Academy",
+              "standard": "0,005 mg/L",
+              "result": "0,0110 mg/L",
+              "action": "Origine probablement dans la tuyauterie de la résidence; nouveaux prélèvements prévus."
+            },
+            {
+              "date": "16 sept. 2025",
+              "parameter": "Plomb",
+              "place": "Rue Lalemant",
+              "standard": "0,005 mg/L",
+              "result": "0,0160 mg/L",
+              "action": "Moyenne de l’échantillonnage séquentiel conforme; retour à la conformité le 24 septembre 2025."
+            },
+            {
+              "date": "24 sept. 2025",
+              "parameter": "Plomb",
+              "place": "Rue Saint-Pierre",
+              "standard": "0,005 mg/L",
+              "result": "0,0081 mg/L",
+              "action": "Moyenne des quatre premiers litres conforme; nouveaux prélèvements de suivi prévus."
+            },
+            {
+              "date": "7 juill. 2025",
+              "parameter": "Trihalométhanes totaux",
+              "place": "Rue Saint-Michel-Archange",
+              "standard": "80 µg/L (moyenne réglementaire)",
+              "result": "81 µg/L",
+              "action": "Valeur ponctuelle; la moyenne annuelle réglementaire est conforme à 51,4 µg/L. Un projet de modification du réservoir J.-M.-Jeanson vise à réduire la formation des THM."
+            },
+            {
+              "date": "1er déc. 2025",
+              "parameter": "Trihalométhanes totaux",
+              "place": "8285, boulevard Bourque",
+              "standard": "80 µg/L (moyenne réglementaire)",
+              "result": "85 µg/L",
+              "action": "Échantillonnage supplémentaire durant la chloration de Magog pour le contrôle des moules zébrées; résultat inclus au calcul, moyenne annuelle conforme."
+            },
+            {
+              "date": "2 déc. 2025",
+              "parameter": "Trihalométhanes totaux",
+              "place": "2300, rue du Fort-Chambly",
+              "standard": "80 µg/L (moyenne réglementaire)",
+              "result": "82 µg/L",
+              "action": "Échantillonnage supplémentaire durant la chloration de Magog pour le contrôle des moules zébrées; résultat inclus au calcul, moyenne annuelle conforme."
+            },
+            {
+              "date": "2 déc. 2025",
+              "parameter": "Trihalométhanes totaux",
+              "place": "Rue King Est près de sa jonction à l’autoroute 610",
+              "standard": "80 µg/L (moyenne réglementaire)",
+              "result": "83 µg/L",
+              "action": "Échantillonnage supplémentaire durant la chloration de Magog pour le contrôle des moules zébrées; résultat inclus au calcul, moyenne annuelle conforme."
+            },
+            {
+              "date": "2 déc. 2025",
+              "parameter": "Trihalométhanes totaux",
+              "place": "150, rue Winder",
+              "standard": "80 µg/L (moyenne réglementaire)",
+              "result": "91 µg/L",
+              "action": "Échantillonnage supplémentaire durant la chloration de Magog pour le contrôle des moules zébrées; résultat inclus au calcul, moyenne annuelle conforme."
+            }
+          ]
+        },
+        {
+          "id": "sherbrooke-aeroport-2025",
+          "network": "Établissement touristique : Aéroport",
+          "year": "2025",
+          "installation": "X2090451",
+          "population": "Moins de 500",
+          "period": "1er janv. – 31 déc. 2025",
+          "publication": "31 mars 2026",
+          "responsible": "Ville de Sherbrooke",
+          "file": "2025 - Bilan de la qualité de l'eau potable - aéroport de Sherbrooke.pdf",
+          "url": "https://www.sherbrooke.ca/Fichiers/3337a882-4a53-e611-80ea-00155d09650f/Sites/333dd3d3-915d-e611-80ea-00155d09650f/Documents/Bilans%20et%20rapports/2025/2025%20-%20Bilan%20de%20la%20qualit%C3%A9%20de%20l%27eau%20potable%20-%20a%C3%A9roport%20de%20Sherbrooke.pdf",
+          "exceedances": 1,
+          "thm": "Non applicable (réseau non chloré)",
+          "providerNote": "Un dépassement de coliformes totaux a été observé après la réparation d’une fuite à la sortie du puits. Le drainage des conduites a permis le retour à la conformité le 9 juillet 2025. Le réseau n’est pas chloré; le suivi des THM n’est donc pas applicable.",
+          "rows": [
+            {
+              "parameter": "Coliformes totaux",
+              "minimum": "24",
+              "analyzed": "25",
+              "exceedances": 1,
+              "note": "1 résultat à 29 UFC/100 mL · norme 10"
+            },
+            {
+              "parameter": "Coliformes fécaux / E. coli",
+              "minimum": "24",
+              "analyzed": "25",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Plomb",
+              "minimum": "1",
+              "analyzed": "1",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Cuivre",
+              "minimum": "1",
+              "analyzed": "1",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Turbidité",
+              "minimum": "12",
+              "analyzed": "12",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Trihalométhanes totaux",
+              "minimum": "0",
+              "analyzed": "0",
+              "exceedances": 0,
+              "note": "Réseau non chloré; exigence non applicable"
+            }
+          ],
+          "events": [
+            {
+              "date": "6 juin 2025",
+              "parameter": "Coliformes totaux",
+              "place": "900, chemin de l’Aéroport",
+              "standard": "10 UFC/100 mL maximum",
+              "result": "29 UFC/100 mL",
+              "action": "Drainage des conduites via les équipements sanitaires du site; retour à la conformité le 9 juillet 2025."
+            }
+          ]
+        }
+      ]
     }
   ]
 }
