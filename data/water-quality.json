@@ -241,6 +241,18 @@
           ],
           "events": []
         }
+      ],
+      "systems": [
+        {
+          "distribution": "X0010510",
+          "name": "Terrebonne + La Plaine",
+          "sourceReport": "terrebonne-2025"
+        },
+        {
+          "distribution": "X0008154",
+          "name": "Carrefour des Fleurs",
+          "sourceReport": "carrefour-2025"
+        }
       ]
     },
     {
@@ -487,6 +499,13 @@
             }
           ],
           "events": []
+        }
+      ],
+      "systems": [
+        {
+          "distribution": "114306000701",
+          "name": "Ville de Repentigny",
+          "sourceReport": "repentigny-2025"
         }
       ]
     },
@@ -758,6 +777,13 @@
               "action": "Citoyen appelé; second prélèvement 4 × 1 L conforme."
             }
           ]
+        }
+      ],
+      "systems": [
+        {
+          "distribution": "113 844 430 701",
+          "name": "Usine de production d’eau potable",
+          "sourceReport": "saint-eustache-2024"
         }
       ]
     },
@@ -1160,6 +1186,13 @@
               "action": "Second prélèvement conforme; propriétaire de l’immeuble avisé."
             }
           ]
+        }
+      ],
+      "systems": [
+        {
+          "distribution": "X0008894",
+          "name": "Réseau de Blainville",
+          "sourceReport": "blainville-2025"
         }
       ]
     },
@@ -2200,6 +2233,93 @@
             }
           ],
           "events": []
+        }
+      ],
+      "systems": [
+        {
+          "distribution": "X0009439",
+          "name": "Réseau Saint-Janvier",
+          "sourceReport": "mirabel-saint-janvier-2025"
+        },
+        {
+          "distribution": "X2124659",
+          "name": "Réseau Domaine-Vert Nord",
+          "sourceReport": "mirabel-domaine-vert-nord-2025"
+        },
+        {
+          "distribution": "X2123591",
+          "name": "Réseau Domaine-Vert Sud",
+          "sourceReport": "mirabel-domaine-vert-sud-2025"
+        },
+        {
+          "distribution": "X0009441",
+          "name": "Réseau Saint-Canut",
+          "sourceReport": "mirabel-saint-canut-2025"
+        },
+        {
+          "distribution": "X2103399",
+          "name": "Réseau Mirabel en Haut",
+          "sourceReport": "mirabel-mirabel-en-haut-2025"
+        },
+        {
+          "distribution": "X0009443",
+          "name": "Réseau Saint-Augustin",
+          "sourceReport": "mirabel-saint-augustin-2025"
+        },
+        {
+          "distribution": "X0009440",
+          "name": "Réseau Sainte-Scholastique",
+          "sourceReport": "mirabel-sainte-scholastique-2025"
+        },
+        {
+          "distribution": "X0009438",
+          "name": "Réseau Saint-Benoît",
+          "sourceReport": "mirabel-saint-benoit-2025"
+        },
+        {
+          "distribution": "X0009445",
+          "name": "Réseau Saint-Hermas",
+          "sourceReport": "mirabel-saint-hermas-2025"
+        },
+        {
+          "distribution": "X0009442",
+          "name": "Réseau Puits Richer no 1",
+          "sourceReport": "mirabel-puits-richer-1-2025"
+        },
+        {
+          "distribution": "X2007181",
+          "name": "Réseau Puits Mousseau no 2",
+          "sourceReport": "mirabel-puits-mousseau-2-2025"
+        },
+        {
+          "distribution": "X0009444",
+          "name": "Réseau Puits Allée-des-Pins no 3",
+          "sourceReport": "mirabel-puits-allee-des-pins-3-2025"
+        },
+        {
+          "distribution": "X2001596",
+          "name": "Réseau Saint-Antoine",
+          "sourceReport": "mirabel-saint-antoine-2025"
+        },
+        {
+          "distribution": "X2174258",
+          "name": "Réseau de la Chapelle",
+          "sourceReport": "mirabel-chapelle-2025"
+        },
+        {
+          "distribution": "X0009446",
+          "name": "Réseau Sainte-Monique",
+          "sourceReport": "mirabel-sainte-monique-2025"
+        },
+        {
+          "distribution": "X2173857",
+          "name": "Réseau Parc Charlebel",
+          "sourceReport": "mirabel-parc-charlebel-2025"
+        },
+        {
+          "distribution": "X2066888",
+          "name": "Réseau Bois de Belle-Rivière",
+          "sourceReport": "mirabel-bois-belle-riviere-2025"
         }
       ]
     },
@@ -6479,6 +6599,1431 @@
           "events": []
         }
       ]
+    },
+    {
+      "id": "boisbriand",
+      "name": "Boisbriand",
+      "region": "Laurentides",
+      "map": {
+        "x": 285.8,
+        "y": 500.7
+      },
+      "systems": [
+        {
+          "distribution": "X0008483",
+          "name": "Boisbriand",
+          "production": "X0008104",
+          "supplier": "Sainte-Thérèse",
+          "source": "Rivière"
+        }
+      ],
+      "reports": [
+        {
+          "id": "boisbriand-2025",
+          "network": "Boisbriand",
+          "year": "2025",
+          "installation": "13424403-07-01",
+          "population": "29 229",
+          "period": "1er janv. – 31 déc. 2025",
+          "publication": "24 mars 2026",
+          "responsible": "Ville de Boisbriand",
+          "file": "Bilan-annuel-eau-potable-2025.pdf",
+          "url": "https://www.ville.boisbriand.qc.ca/storage/app/media/services/organismes-et-entreprises/analyse-d-eau-potable/bilans-annuels/Bilan-annuel-eau-potable-2025.pdf",
+          "exceedances": 0,
+          "thm": "28,92 µg/L",
+          "providerNote": "Eau produite par la station de Sainte-Thérèse. Le bilan indique 11 analyses de turbidité pour un minimum réglementaire de 12, sans dépassement de la norme de qualité.",
+          "rows": [
+            {
+              "parameter": "Coliformes totaux",
+              "minimum": "336",
+              "analyzed": "371",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Coliformes fécaux / E. coli",
+              "minimum": "336",
+              "analyzed": "371",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Plomb",
+              "minimum": "20",
+              "analyzed": "20",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Cuivre",
+              "minimum": "20",
+              "analyzed": "20",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Turbidité",
+              "minimum": "12",
+              "analyzed": "11",
+              "exceedances": 0,
+              "note": "11 analyses pour un minimum de 12"
+            },
+            {
+              "parameter": "Trihalométhanes totaux",
+              "minimum": "16",
+              "analyzed": "16",
+              "exceedances": 0,
+              "note": "Moy. 28,92 µg/L · norme 80 µg/L"
+            }
+          ],
+          "events": []
+        }
+      ]
+    },
+    {
+      "id": "bois-des-filion",
+      "name": "Bois-des-Filion",
+      "region": "Laurentides",
+      "map": {
+        "x": 290.1,
+        "y": 500.3
+      },
+      "systems": [
+        {
+          "distribution": "X0008866",
+          "name": "Réseau résidentiel",
+          "production": "X0008485",
+          "supplier": "Rosemère",
+          "source": "Rivière"
+        },
+        {
+          "distribution": "X2012882",
+          "name": "Parc industriel",
+          "production": "24846859",
+          "supplier": "RAIM / Terrebonne",
+          "source": "Rivière"
+        }
+      ],
+      "reports": [
+        {
+          "id": "bois-des-filion-residentiel-2025",
+          "network": "Réseau résidentiel",
+          "year": "2025",
+          "installation": "X0008866",
+          "population": "10 120",
+          "period": "1er janv. – 31 déc. 2025",
+          "publication": "1er février 2026",
+          "responsible": "Ville de Bois-des-Filion",
+          "file": "Analyse_eau_potable_bilan_annuel_2025_Residentiel.pdf",
+          "url": "https://villebdf.ca/wp-content/uploads/2026/02/Analyse_eau_potable_bilan_annuel_2025_Residentiel.pdf",
+          "exceedances": 0,
+          "thm": "Non indiquée",
+          "providerNote": "Réseau alimenté par Rosemère. Trois échantillons microbiologiques du 23 décembre n’ont pas été analysés avant la fin de l’année et ont été reportés au 12 janvier 2026.",
+          "rows": [
+            {
+              "parameter": "Coliformes totaux",
+              "minimum": "132",
+              "analyzed": "129",
+              "exceedances": 0,
+              "note": "132 prélèvements; 3 analyses reportées en 2026"
+            },
+            {
+              "parameter": "Coliformes fécaux / E. coli",
+              "minimum": "132",
+              "analyzed": "129",
+              "exceedances": 0,
+              "note": "132 prélèvements; 3 analyses reportées en 2026"
+            },
+            {
+              "parameter": "Plomb",
+              "minimum": "10",
+              "analyzed": "10",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Cuivre",
+              "minimum": "10",
+              "analyzed": "10",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Turbidité",
+              "minimum": "12",
+              "analyzed": "12",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Trihalométhanes totaux",
+              "minimum": "16",
+              "analyzed": "16",
+              "exceedances": 0,
+              "note": "Moyenne annuelle non indiquée"
+            }
+          ],
+          "events": []
+        },
+        {
+          "id": "bois-des-filion-industriel-2025",
+          "network": "Parc industriel",
+          "year": "2025",
+          "installation": "X2012882",
+          "population": "10 120 (bilan); 900 (répertoire MELCCFP)",
+          "period": "1er janv. – 31 déc. 2025",
+          "publication": "1er février 2026",
+          "responsible": "Ville de Bois-des-Filion",
+          "file": "Analyse_eau_potable_bilan_annuel_2025_Industriel.pdf",
+          "url": "https://villebdf.ca/wp-content/uploads/2026/02/Analyse_eau_potable_bilan_annuel_2025_Industriel.pdf",
+          "exceedances": 1,
+          "thm": "Non indiquée",
+          "providerNote": "Réseau alimenté par Terrebonne. Le tableau compte un dépassement de coliformes totaux, tandis que la case narrative indique par erreur « Aucun dépassement ». La population de 10 120 inscrite au bilan semble copiée du réseau résidentiel; le répertoire ministériel indique 900 personnes.",
+          "rows": [
+            {
+              "parameter": "Coliformes totaux",
+              "minimum": "24",
+              "analyzed": "24",
+              "exceedances": 1,
+              "note": "80 UFC/100 mL le 15 juillet"
+            },
+            {
+              "parameter": "Coliformes fécaux / E. coli",
+              "minimum": "24",
+              "analyzed": "24",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Plomb",
+              "minimum": "1",
+              "analyzed": "1",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Cuivre",
+              "minimum": "1",
+              "analyzed": "1",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Turbidité",
+              "minimum": "12",
+              "analyzed": "12",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Trihalométhanes totaux",
+              "minimum": "4",
+              "analyzed": "4",
+              "exceedances": 0,
+              "note": "Moyenne annuelle non indiquée"
+            }
+          ],
+          "events": [
+            {
+              "parameter": "Coliformes totaux",
+              "date": "15 juillet 2025",
+              "place": "Garage municipal",
+              "standard": "10 UFC/100 mL",
+              "result": "80 UFC/100 mL",
+              "action": "Avis d’ébullition dans le secteur industriel, Ministère informé et 11 analyses réalisées pour confirmer l’absence de coliformes totaux."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "charlemagne",
+      "name": "Charlemagne",
+      "region": "Lanaudière",
+      "map": {
+        "x": 297.3,
+        "y": 504.7
+      },
+      "systems": [
+        {
+          "distribution": "13425442",
+          "name": "Charlemagne",
+          "production": "X0008086 / X0008085",
+          "supplier": "Montréal – Atwater et Charles-J.-Des Baillets",
+          "source": "Fleuve Saint-Laurent"
+        }
+      ],
+      "reports": [
+        {
+          "id": "charlemagne-2025",
+          "network": "Charlemagne (alimenté par Montréal)",
+          "year": "2025",
+          "installation": "134254420701",
+          "population": "6 357",
+          "period": "1er janv. – 31 déc. 2025",
+          "publication": "12 mars 2026",
+          "responsible": "Ville de Charlemagne",
+          "file": "bilan-annuel-qualite-de-leau2025.pdf",
+          "url": "https://www.charlemagne.ca/storage/app/media/uploaded-files/bilan-annuel-qualite-de-leau2025.pdf",
+          "exceedances": 0,
+          "thm": "Non indiquée",
+          "providerNote": "Eau fournie par les usines Atwater et Charles-J.-Des Baillets de Montréal. Le bilan couvre 2025, malgré un pied de page de modèle qui mentionne une autre année.",
+          "rows": [
+            {
+              "parameter": "Coliformes totaux",
+              "minimum": "96",
+              "analyzed": "104",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Coliformes fécaux / E. coli",
+              "minimum": "96",
+              "analyzed": "104",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Plomb",
+              "minimum": "10",
+              "analyzed": "10",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Cuivre",
+              "minimum": "10",
+              "analyzed": "10",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Turbidité",
+              "minimum": "12",
+              "analyzed": "12",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Trihalométhanes totaux",
+              "minimum": "16",
+              "analyzed": "16",
+              "exceedances": 0,
+              "note": "Moyenne annuelle non indiquée"
+            }
+          ],
+          "events": []
+        }
+      ]
+    },
+    {
+      "id": "deux-montagnes",
+      "name": "Deux-Montagnes",
+      "region": "Laurentides",
+      "map": {
+        "x": 281.9,
+        "y": 504.4
+      },
+      "systems": [
+        {
+          "distribution": "X0009543",
+          "name": "Deux-Montagnes",
+          "production": "X0010573",
+          "supplier": "Ville de Deux-Montagnes",
+          "source": "Lac des Deux Montagnes",
+          "treatment": "Chloration, filtration, ultraviolet et réduction de la corrosion"
+        }
+      ],
+      "coverageNote": "Réseau et station confirmés dans le répertoire du MELCCFP. Aucun bilan annuel chiffré n’était publié sur la page municipale de gestion de l’eau lors de la vérification du 1er août 2026; aucun résultat n’est imputé sans source.",
+      "coverageUrl": "https://www.environnement.gouv.qc.ca/eau/potable/distribution/index.asp",
+      "reports": []
+    },
+    {
+      "id": "lassomption",
+      "name": "L’Assomption",
+      "region": "Lanaudière",
+      "map": {
+        "x": 301.3,
+        "y": 498.4
+      },
+      "systems": [
+        {
+          "distribution": "X0008683",
+          "name": "Réseau municipal",
+          "production": "X0008686",
+          "supplier": "Centre de traitement Jean-Perreault",
+          "source": "Rivière"
+        },
+        {
+          "distribution": "X0008684",
+          "name": "Petit secteur alimenté par Repentigny / Le Gardeur",
+          "production": "11430600",
+          "supplier": "Repentigny",
+          "population": "63"
+        }
+      ],
+      "reports": [
+        {
+          "id": "lassomption-2025",
+          "network": "Centre de traitement d’eau Jean-Perreault",
+          "year": "2025",
+          "installation": "X0008683",
+          "population": "25 126",
+          "period": "1er janv. – 31 déc. 2025",
+          "publication": "10 mars 2026",
+          "responsible": "Ville de L’Assomption",
+          "file": "bilan-sur-la-qualtie-de-l-eau-2025-vf.pdf",
+          "url": "https://www.ville.lassomption.qc.ca/download.php?filename=bilan-sur-la-qualtie-de-l-eau-2025-vf.pdf",
+          "exceedances": 0,
+          "thm": "44,22 µg/L",
+          "providerNote": "Le bilan municipal couvre le réseau principal X0008683. Le répertoire ministériel recense aussi X0008684, un petit secteur de 63 personnes alimenté par Repentigny / Le Gardeur, pour lequel aucun bilan distinct n’a été trouvé.",
+          "rows": [
+            {
+              "parameter": "Coliformes totaux",
+              "minimum": "300",
+              "analyzed": "312",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Coliformes fécaux / E. coli",
+              "minimum": "300",
+              "analyzed": "312",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Plomb",
+              "minimum": "20",
+              "analyzed": "20",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Cuivre",
+              "minimum": "20",
+              "analyzed": "20",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Turbidité",
+              "minimum": "12",
+              "analyzed": "12",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Trihalométhanes totaux",
+              "minimum": "16",
+              "analyzed": "16",
+              "exceedances": 0,
+              "note": "Moy. 44,22 µg/L · norme 80 µg/L"
+            }
+          ],
+          "events": []
+        }
+      ]
+    },
+    {
+      "id": "lorraine",
+      "name": "Lorraine",
+      "region": "Laurentides",
+      "map": {
+        "x": 288.6,
+        "y": 498.7
+      },
+      "systems": [
+        {
+          "distribution": "X0008856",
+          "name": "Lorraine",
+          "production": "X0008485",
+          "supplier": "Rosemère",
+          "source": "Rivière"
+        }
+      ],
+      "reports": [
+        {
+          "id": "lorraine-2025",
+          "network": "Lorraine",
+          "year": "2025",
+          "installation": "X0008856",
+          "population": "9 462",
+          "period": "1er janv. – 31 déc. 2025",
+          "publication": "janvier 2026",
+          "responsible": "Louis Dumas, Ville de Lorraine",
+          "file": "Ville_Lorraine_bilan_annuel_2025.pdf",
+          "url": "https://lorraine.ca/storage/app/media/habiter/services/aqueduc-et-eau-potable/Ville_Lorraine_bilan_annuel_2025.pdf",
+          "exceedances": 0,
+          "thm": "54,56 µg/L",
+          "providerNote": "Réseau alimenté par l’usine de Rosemère. Le fichier et la page de garde portent sur 2025, mais le pied de page du modèle indique encore 2021.",
+          "rows": [
+            {
+              "parameter": "Coliformes totaux",
+              "minimum": "120",
+              "analyzed": "120",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Coliformes fécaux / E. coli",
+              "minimum": "120",
+              "analyzed": "120",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Plomb",
+              "minimum": "10",
+              "analyzed": "10",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Cuivre",
+              "minimum": "10",
+              "analyzed": "10",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Turbidité",
+              "minimum": "12",
+              "analyzed": "12",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Trihalométhanes totaux",
+              "minimum": "16",
+              "analyzed": "16",
+              "exceedances": 0,
+              "note": "Moy. 54,56 µg/L · norme 80 µg/L"
+            }
+          ],
+          "events": []
+        }
+      ]
+    },
+    {
+      "id": "mascouche",
+      "name": "Mascouche",
+      "region": "Lanaudière",
+      "map": {
+        "x": 295.1,
+        "y": 497.8
+      },
+      "systems": [
+        {
+          "distribution": "X0008612",
+          "name": "Mascouche",
+          "production": "24846859",
+          "supplier": "RAIM / Terrebonne",
+          "source": "Rivière"
+        }
+      ],
+      "reports": [
+        {
+          "id": "mascouche-2025",
+          "network": "Mascouche",
+          "year": "2025",
+          "installation": "X0008612",
+          "population": "48 592",
+          "period": "1er janv. – 31 déc. 2025",
+          "publication": "6 février 2026",
+          "responsible": "Ville de Mascouche",
+          "file": "bilan-eau-potable2025.pdf",
+          "url": "https://mascouche.ca/storage/app/media/services/securite-et-sante-publique/eau-potable-et-eaux-usees/bilan-eau-potable2025.pdf",
+          "exceedances": 6,
+          "thm": "Non indiquée",
+          "providerNote": "Eau fournie par la RAIM / Terrebonne. Le tableau numérique déclare cinq dépassements de coliformes totaux et aucun d’E. coli, mais le registre des événements qualifie celui du 7 octobre de « coliformes fécaux » et le texte coche aussi « Aucun dépassement ». PurLys conserve les totaux numériques publiés et signale la contradiction.",
+          "rows": [
+            {
+              "parameter": "Coliformes totaux",
+              "minimum": "576",
+              "analyzed": "690",
+              "exceedances": 5,
+              "note": "Le registre contient une étiquette contradictoire le 7 octobre"
+            },
+            {
+              "parameter": "Coliformes fécaux / E. coli",
+              "minimum": "576",
+              "analyzed": "690",
+              "exceedances": 0,
+              "note": "Le tableau indique 0; voir la contradiction signalée"
+            },
+            {
+              "parameter": "Plomb",
+              "minimum": "20",
+              "analyzed": "21",
+              "exceedances": 1,
+              "note": "0,006 mg/L le 26 août"
+            },
+            {
+              "parameter": "Cuivre",
+              "minimum": "20",
+              "analyzed": "21",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Turbidité",
+              "minimum": "12",
+              "analyzed": "17",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Trihalométhanes totaux",
+              "minimum": "4",
+              "analyzed": "19",
+              "exceedances": 0,
+              "note": "Moyenne annuelle non indiquée"
+            }
+          ],
+          "events": [
+            {
+              "parameter": "Coliformes totaux",
+              "date": "11 février 2025",
+              "place": "577, rue Dorset",
+              "standard": "Absence",
+              "result": "Présence",
+              "action": "Drainage de borne-fontaine."
+            },
+            {
+              "parameter": "Coliformes totaux",
+              "date": "25 février 2025",
+              "place": "1242, rue Saint-Henri",
+              "standard": "Absence",
+              "result": "1",
+              "action": "Drainage de borne-fontaine."
+            },
+            {
+              "parameter": "Coliformes totaux",
+              "date": "14 avril 2025",
+              "place": "1507, rue Boissonneault",
+              "standard": "Absence",
+              "result": "Présence",
+              "action": "Drainage de borne-fontaine."
+            },
+            {
+              "parameter": "Coliformes totaux",
+              "date": "4 août 2025",
+              "place": "1300, croissant Louise",
+              "standard": "Absence",
+              "result": "Présence",
+              "action": "Drainage de borne-fontaine."
+            },
+            {
+              "parameter": "Coliformes totaux (registre : « coliformes fécaux »)",
+              "date": "7 octobre 2025",
+              "place": "2929, rue Dupras",
+              "standard": "0",
+              "result": "1",
+              "action": "Drainage de borne-fontaine; classement contradictoire avec le sommaire."
+            },
+            {
+              "parameter": "Plomb",
+              "date": "26 août 2025",
+              "place": "3394, chemin Sainte-Marie",
+              "standard": "0,005 mg/L",
+              "result": "0,006 mg/L",
+              "action": "Reprise d’échantillon pour localiser la source."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "oka",
+      "name": "Oka",
+      "region": "Laurentides",
+      "map": {
+        "x": 276.5,
+        "y": 502.2
+      },
+      "systems": [
+        {
+          "distribution": "X0009428",
+          "name": "Réseau des Puits",
+          "production": "X2092909",
+          "supplier": "Municipalité d’Oka",
+          "source": "Eau souterraine"
+        },
+        {
+          "distribution": "X0009427",
+          "name": "Réseau du Village",
+          "production": "X0009429",
+          "supplier": "Municipalité d’Oka",
+          "source": "Lac"
+        }
+      ],
+      "reports": [
+        {
+          "id": "oka-puits-2023",
+          "network": "Réseau des Puits",
+          "year": "2023",
+          "installation": "X0009428",
+          "population": "3 000",
+          "period": "1er janv. – 31 déc. 2023",
+          "publication": "22 avril 2024 (le bilan inscrit 2023)",
+          "responsible": "Gabriel Réboul, Municipalité d’Oka",
+          "file": "Bilan-annuel-2023-Qualite-de-leau-potable-reseau-des-Puits.pdf",
+          "url": "https://municipalite.oka.qc.ca/wp-content/uploads/2024/05/Bilan-annuel-2023-Qualite-de-leau-potable-reseau-des-Puits.pdf",
+          "exceedances": 0,
+          "thm": "6 µg/L",
+          "providerNote": "Dernier bilan chiffré affiché sur la page municipale lors de la vérification du 1er août 2026. La date de publication inscrite « 22 avril 2023 » est antérieure à la fin de la période et semble devoir être 2024.",
+          "rows": [
+            {
+              "parameter": "Coliformes totaux",
+              "minimum": "96",
+              "analyzed": "105",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Coliformes fécaux / E. coli",
+              "minimum": "96",
+              "analyzed": "105",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Plomb",
+              "minimum": "5",
+              "analyzed": "5",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Cuivre",
+              "minimum": "5",
+              "analyzed": "5",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Turbidité",
+              "minimum": "12",
+              "analyzed": "12",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Trihalométhanes totaux",
+              "minimum": "4",
+              "analyzed": "4",
+              "exceedances": 0,
+              "note": "Moy. 6 µg/L · norme 80 µg/L"
+            }
+          ],
+          "events": []
+        },
+        {
+          "id": "oka-village-2023",
+          "network": "Réseau du Village",
+          "year": "2023",
+          "installation": "X0009427",
+          "population": "2 000",
+          "period": "1er janv. – 31 déc. 2023",
+          "publication": "22 avril 2024",
+          "responsible": "Gabriel Réboul, Municipalité d’Oka",
+          "file": "Bilan-annuel-2023-Qualite-de-leau-potable-reseau-du-Village.pdf",
+          "url": "https://municipalite.oka.qc.ca/wp-content/uploads/2024/05/Bilan-annuel-2023-Qualite-de-leau-potable-reseau-du-Village.pdf",
+          "exceedances": 2,
+          "thm": "34 µg/L",
+          "providerNote": "Dernier bilan chiffré affiché sur la page municipale lors de la vérification du 1er août 2026. Le texte indique à tort « Aucun dépassement », alors que les tableaux comptent un dépassement de coliformes totaux et un d’E. coli le 27 février.",
+          "rows": [
+            {
+              "parameter": "Coliformes totaux",
+              "minimum": "96",
+              "analyzed": "105",
+              "exceedances": 1,
+              "note": "Événement du 27 février"
+            },
+            {
+              "parameter": "Coliformes fécaux / E. coli",
+              "minimum": "96",
+              "analyzed": "105",
+              "exceedances": 1,
+              "note": "2 UFC/100 mL le 27 février"
+            },
+            {
+              "parameter": "Plomb",
+              "minimum": "5",
+              "analyzed": "5",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Cuivre",
+              "minimum": "5",
+              "analyzed": "5",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Turbidité",
+              "minimum": "12",
+              "analyzed": "12",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Trihalométhanes totaux",
+              "minimum": "4",
+              "analyzed": "4",
+              "exceedances": 0,
+              "note": "Moy. 34 µg/L · norme 80 µg/L"
+            }
+          ],
+          "events": [
+            {
+              "parameter": "E. coli et coliformes totaux",
+              "date": "27 février 2023",
+              "place": "1, rue Notre-Dame",
+              "standard": "0 UFC/100 mL pour E. coli",
+              "result": "2 UFC/100 mL",
+              "action": "Quatre échantillons supplémentaires et suivi."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pointe-calumet",
+      "name": "Pointe-Calumet",
+      "region": "Laurentides",
+      "map": {
+        "x": 279.7,
+        "y": 503.7
+      },
+      "systems": [
+        {
+          "distribution": "X0009510",
+          "name": "Pointe-Calumet",
+          "production": "X2045657",
+          "supplier": "Saint-Joseph-du-Lac – puits du parc d’Oka",
+          "source": "Eau souterraine"
+        }
+      ],
+      "reports": [
+        {
+          "id": "pointe-calumet-reseau-partage-2025",
+          "network": "Réseau alimenté par Saint-Joseph-du-Lac",
+          "year": "2025",
+          "installation": "X0009510 (distribution) / X2045657 (production partagée)",
+          "population": "13 530 dans le bilan de l’installation partagée; 6 308 au répertoire pour Pointe-Calumet",
+          "period": "1er janv. – 31 déc. 2025",
+          "publication": "janvier 2026 (rapport signé; en-tête erroné « avril 2025 »)",
+          "responsible": "Municipalité de Saint-Joseph-du-Lac",
+          "file": "bilan_annuel_de_la_qualite_de_leau_2025.pdf",
+          "url": "https://www.sjdl.qc.ca/static/media/uploads/bilan_annuel_de_la_qualit%C3%A9_de_leau_2025.pdf",
+          "exceedances": 1,
+          "thm": "30,39 µg/L",
+          "providerNote": "Pointe-Calumet ne publie pas de bilan local distinct. Ces résultats sont ceux du bilan de l’installation partagée de Saint-Joseph-du-Lac, qui produit aussi l’eau du réseau X0009510; ils ne doivent pas être interprétés comme des prélèvements exclusivement réalisés à Pointe-Calumet.",
+          "rows": [
+            {
+              "parameter": "Coliformes totaux",
+              "minimum": "96",
+              "analyzed": "114",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Coliformes fécaux / E. coli",
+              "minimum": "96",
+              "analyzed": "114",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Plomb",
+              "minimum": "10",
+              "analyzed": "18",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Cuivre",
+              "minimum": "10",
+              "analyzed": "18",
+              "exceedances": 1,
+              "note": "Reprises sous 1 mg/L"
+            },
+            {
+              "parameter": "Turbidité",
+              "minimum": "12",
+              "analyzed": "12",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Trihalométhanes totaux",
+              "minimum": "4",
+              "analyzed": "4",
+              "exceedances": 0,
+              "note": "Moy. 30,39 µg/L · norme 80 µg/L"
+            }
+          ],
+          "events": [
+            {
+              "parameter": "Cuivre",
+              "date": "2025 (date non précisée)",
+              "place": "Non précisé",
+              "standard": "1 mg/L",
+              "result": "Non précisé",
+              "action": "Analyses reprises deux jours consécutifs; tous les résultats étaient sous 1 mg/L."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "rosemere",
+      "name": "Rosemère",
+      "region": "Laurentides",
+      "map": {
+        "x": 287.1,
+        "y": 501.5
+      },
+      "systems": [
+        {
+          "distribution": "X0008484",
+          "name": "Rosemère",
+          "production": "X0008485",
+          "supplier": "Ville de Rosemère",
+          "source": "Rivière"
+        },
+        {
+          "distribution": "X2020904",
+          "name": "Secteur Lauréanne",
+          "production": "X0008104",
+          "supplier": "Sainte-Thérèse",
+          "source": "Rivière"
+        }
+      ],
+      "reports": [
+        {
+          "id": "rosemere-2025",
+          "network": "Rosemère",
+          "year": "2025",
+          "installation": "X0008484",
+          "population": "13 958",
+          "period": "1er janv. – 31 déc. 2025",
+          "publication": "26 mars 2026",
+          "responsible": "M. Simon Coulombe, ing.",
+          "file": "Rosemere_bilan_annuel_de_la_qualite_2025.pdf",
+          "url": "https://www.ville.rosemere.qc.ca/download.php?filename=Rosemere_bilan_annuel_de_la_qualite_2025.pdf",
+          "exceedances": 1,
+          "thm": "46,2 µg/L",
+          "providerNote": "Le bilan décrit deux détections au même point les 7 et 21 octobre et compte une occasion de dépassement. Il inscrit 2026 pour ces prélèvements, une date incompatible avec la période 2025; PurLys les classe en 2025 et conserve l’erreur en note.",
+          "rows": [
+            {
+              "parameter": "Coliformes totaux",
+              "minimum": "168",
+              "analyzed": "168",
+              "exceedances": 1,
+              "note": "Deux détections au même point durant un mois"
+            },
+            {
+              "parameter": "Coliformes fécaux / E. coli",
+              "minimum": "168",
+              "analyzed": "168",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Plomb",
+              "minimum": "10",
+              "analyzed": "10",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Cuivre",
+              "minimum": "10",
+              "analyzed": "10",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Turbidité",
+              "minimum": "12",
+              "analyzed": "12",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Trihalométhanes totaux",
+              "minimum": "16",
+              "analyzed": "16",
+              "exceedances": 0,
+              "note": "Moy. 46,2 µg/L · norme 80 µg/L"
+            }
+          ],
+          "events": [
+            {
+              "parameter": "Coliformes totaux",
+              "date": "7 et 21 octobre 2025 (le bilan inscrit 2026)",
+              "place": "Même point d’échantillonnage (non précisé)",
+              "standard": "Deux détections au même point durant un mois",
+              "result": "1 coliforme total à chaque prélèvement",
+              "action": "Analyses de retour à la conformité réalisées avec succès."
+            }
+          ]
+        },
+        {
+          "id": "rosemere-laureanne-2025",
+          "network": "Secteur Lauréanne",
+          "year": "2025",
+          "installation": "X2020904",
+          "population": "390",
+          "period": "1er janv. – 31 déc. 2025",
+          "publication": "26 mars 2026",
+          "responsible": "M. Simon Coulombre, ing. (orthographe du bilan)",
+          "file": "Rosemere_(Laureanne)_bilan_annuel_de_la_qualite_2025.pdf",
+          "url": "https://www.ville.rosemere.qc.ca/download.php?filename=Rosemere_(Laureanne)_bilan_annuel_de_la_qualite_2025.pdf",
+          "exceedances": 0,
+          "thm": "36,6 µg/L",
+          "providerNote": "Petit secteur alimenté par l’usine de Sainte-Thérèse.",
+          "rows": [
+            {
+              "parameter": "Coliformes totaux",
+              "minimum": "24",
+              "analyzed": "25",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Coliformes fécaux / E. coli",
+              "minimum": "24",
+              "analyzed": "25",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Plomb",
+              "minimum": "2",
+              "analyzed": "2",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Cuivre",
+              "minimum": "2",
+              "analyzed": "2",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Turbidité",
+              "minimum": "12",
+              "analyzed": "12",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Trihalométhanes totaux",
+              "minimum": "4",
+              "analyzed": "4",
+              "exceedances": 0,
+              "note": "Moy. 36,6 µg/L · norme 80 µg/L"
+            }
+          ],
+          "events": []
+        }
+      ]
+    },
+    {
+      "id": "sainte-anne-des-plaines",
+      "name": "Sainte-Anne-des-Plaines",
+      "region": "Laurentides",
+      "map": {
+        "x": 287.5,
+        "y": 493.4
+      },
+      "systems": [
+        {
+          "distribution": "X0008797",
+          "name": "Sainte-Anne-des-Plaines",
+          "production": "X0008799",
+          "supplier": "Ville de Sainte-Anne-des-Plaines",
+          "source": "Eau souterraine"
+        }
+      ],
+      "reports": [
+        {
+          "id": "sainte-anne-des-plaines-2025",
+          "network": "Sainte-Anne-des-Plaines",
+          "year": "2025",
+          "installation": "X0008797",
+          "population": "14 461",
+          "period": "1er janv. – 31 déc. 2025",
+          "publication": "19 janvier 2026",
+          "responsible": "Ville de Sainte-Anne-des-Plaines",
+          "file": "bilan-annuel-qualite-eau-potable-2025.pdf",
+          "url": "https://www.villesadp.ca/storage/app/media/eau-potable-et-eaux-usees/bilan-annuel-qualite-eau-potable-2025.pdf",
+          "exceedances": 0,
+          "thm": "4,6 µg/L",
+          "providerNote": "Aucun dépassement réglementaire. Les analyses volontaires du 29 juillet indiquent une dureté de 241 mg/L CaCO₃ et une alcalinité de 412 mg/L CaCO₃ : l’eau est très dure, ce qui est un enjeu d’usage et non un dépassement de potabilité.",
+          "rows": [
+            {
+              "parameter": "Coliformes totaux",
+              "minimum": "180",
+              "analyzed": "214",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Coliformes fécaux / E. coli",
+              "minimum": "180",
+              "analyzed": "214",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Plomb",
+              "minimum": "10",
+              "analyzed": "14",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Cuivre",
+              "minimum": "10",
+              "analyzed": "14",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Turbidité",
+              "minimum": "12",
+              "analyzed": "12",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Trihalométhanes totaux",
+              "minimum": "16",
+              "analyzed": "16",
+              "exceedances": 0,
+              "note": "Moy. 4,6 µg/L · norme 80 µg/L"
+            }
+          ],
+          "events": []
+        }
+      ]
+    },
+    {
+      "id": "sainte-marthe-sur-le-lac",
+      "name": "Sainte-Marthe-sur-le-Lac",
+      "region": "Laurentides",
+      "map": {
+        "x": 281.1,
+        "y": 501.2
+      },
+      "systems": [
+        {
+          "distribution": "X0009506",
+          "name": "Sainte-Marthe-sur-le-Lac",
+          "production": "X2122415",
+          "supplier": "Ville de Sainte-Marthe-sur-le-Lac",
+          "source": "Eau souterraine"
+        }
+      ],
+      "reports": [
+        {
+          "id": "sainte-marthe-sur-le-lac-2025",
+          "network": "Réseau d’aqueduc municipal",
+          "year": "2025",
+          "installation": "X0009506",
+          "population": "20 000",
+          "period": "1er janv. – 31 déc. 2025",
+          "publication": "26 mars 2026",
+          "responsible": "Jérémie Bouchard-Couture",
+          "file": "bilan-eau-potable_2025.pdf",
+          "url": "https://vsmsll.ca/storage/app/media/services/environnement-et-voirie/eau-potable-et-eaux-usees/2025/bilan-eau-potable_2025.pdf",
+          "exceedances": 2,
+          "thm": "Non indiquée",
+          "providerNote": "Deux dépassements microbiologiques liés au même prélèvement du 16 décembre ont mené à un avis d’ébullition du 16 au 22 décembre. La Ville consigne aussi 43 plaintes esthétiques pour eau colorée ou particules en 2025.",
+          "rows": [
+            {
+              "parameter": "Coliformes totaux",
+              "minimum": "252",
+              "analyzed": "258",
+              "exceedances": 1,
+              "note": "TNI le 16 décembre"
+            },
+            {
+              "parameter": "Coliformes fécaux / E. coli",
+              "minimum": "252",
+              "analyzed": "258",
+              "exceedances": 1,
+              "note": "TNI le 16 décembre"
+            },
+            {
+              "parameter": "Plomb",
+              "minimum": "21",
+              "analyzed": "22",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Cuivre",
+              "minimum": "21",
+              "analyzed": "22",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Turbidité",
+              "minimum": "12",
+              "analyzed": "123",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Trihalométhanes totaux",
+              "minimum": "4",
+              "analyzed": "16",
+              "exceedances": 0,
+              "note": "Moyenne annuelle non indiquée"
+            }
+          ],
+          "events": [
+            {
+              "parameter": "Coliformes totaux et E. coli",
+              "date": "16 décembre 2025",
+              "place": "Hôtel de ville, 3000, chemin d’Oka",
+              "standard": "≤ 10 coliformes totaux et 0 E. coli / 100 mL",
+              "result": "TNI – trop nombreux pour identifier",
+              "action": "Quarante échantillons prélevés sur deux jours dans les 72 heures et avis d’ébullition pour tout le territoire du 16 au 22 décembre."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sainte-therese",
+      "name": "Sainte-Thérèse",
+      "region": "Laurentides",
+      "map": {
+        "x": 286.1,
+        "y": 499.2
+      },
+      "systems": [
+        {
+          "distribution": "X0008103",
+          "name": "Sainte-Thérèse",
+          "production": "X0008104",
+          "supplier": "Ville de Sainte-Thérèse",
+          "source": "Rivière"
+        }
+      ],
+      "reports": [
+        {
+          "id": "sainte-therese-2025",
+          "network": "Station de purification Sainte-Thérèse",
+          "year": "2025",
+          "installation": "11325909-07-01",
+          "population": "27 288",
+          "period": "1er janv. – 31 déc. 2025",
+          "publication": "21 janvier 2026",
+          "responsible": "Simon Hubert, Ville de Sainte-Thérèse",
+          "file": "Bilan-annuel-eau-potable-2025.pdf",
+          "url": "https://www.sainte-therese.ca/storage/app/media/services/citoyens/arrosage-eau-potable/Bilan-annuel-eau-potable-2025.pdf",
+          "exceedances": 0,
+          "thm": "24,3 µg/L",
+          "providerNote": "La station alimente aussi Boisbriand et le secteur Lauréanne de Rosemère. Le bilan affiche le minimum microbiologique mensuel de 27; PurLys le normalise à 324 pour l’année (27 × 12).",
+          "rows": [
+            {
+              "parameter": "Coliformes totaux",
+              "minimum": "324 (27 × 12)",
+              "analyzed": "365",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Coliformes fécaux / E. coli",
+              "minimum": "324 (27 × 12)",
+              "analyzed": "365",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Plomb",
+              "minimum": "20",
+              "analyzed": "20",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Cuivre",
+              "minimum": "20",
+              "analyzed": "20",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Turbidité",
+              "minimum": "12",
+              "analyzed": "13",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Trihalométhanes totaux",
+              "minimum": "20",
+              "analyzed": "20",
+              "exceedances": 0,
+              "note": "Moy. 24,3 µg/L · norme 80 µg/L"
+            }
+          ],
+          "events": []
+        }
+      ]
+    },
+    {
+      "id": "saint-joseph-du-lac",
+      "name": "Saint-Joseph-du-Lac",
+      "region": "Laurentides",
+      "map": {
+        "x": 278.9,
+        "y": 500.2
+      },
+      "systems": [
+        {
+          "distribution": "X0009507",
+          "name": "Saint-Joseph-du-Lac",
+          "production": "X2045657",
+          "supplier": "Municipalité de Saint-Joseph-du-Lac",
+          "source": "Eau souterraine – puits du parc d’Oka"
+        }
+      ],
+      "reports": [
+        {
+          "id": "saint-joseph-du-lac-2025",
+          "network": "Saint-Joseph-du-Lac / installation partagée",
+          "year": "2025",
+          "installation": "X0009507 (distribution) / X2045657 (production partagée)",
+          "population": "13 530",
+          "period": "1er janv. – 31 déc. 2025",
+          "publication": "janvier 2026 (rapport signé; en-tête erroné « avril 2025 »)",
+          "responsible": "Municipalité de Saint-Joseph-du-Lac",
+          "file": "bilan_annuel_de_la_qualite_de_leau_2025.pdf",
+          "url": "https://www.sjdl.qc.ca/static/media/uploads/bilan_annuel_de_la_qualit%C3%A9_de_leau_2025.pdf",
+          "exceedances": 1,
+          "thm": "30,39 µg/L",
+          "providerNote": "Le bilan de l’installation partagée contient plusieurs erreurs de modèle : publication « avril 2025 » malgré une signature en janvier 2026 et pied de page 2023. Il mentionne aussi des plaintes d’eau brune ou jaune, deux avis d’ébullition en décembre et un suivi mensuel du manganèse demeuré sous la norme.",
+          "rows": [
+            {
+              "parameter": "Coliformes totaux",
+              "minimum": "96",
+              "analyzed": "114",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Coliformes fécaux / E. coli",
+              "minimum": "96",
+              "analyzed": "114",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Plomb",
+              "minimum": "10",
+              "analyzed": "18",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Cuivre",
+              "minimum": "10",
+              "analyzed": "18",
+              "exceedances": 1,
+              "note": "Reprises sous 1 mg/L"
+            },
+            {
+              "parameter": "Turbidité",
+              "minimum": "12",
+              "analyzed": "12",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Trihalométhanes totaux",
+              "minimum": "4",
+              "analyzed": "4",
+              "exceedances": 0,
+              "note": "Moy. 30,39 µg/L · norme 80 µg/L"
+            }
+          ],
+          "events": [
+            {
+              "parameter": "Cuivre",
+              "date": "2025 (date non précisée)",
+              "place": "Non précisé",
+              "standard": "1 mg/L",
+              "result": "Non précisé",
+              "action": "Analyses reprises deux jours consécutifs; tous les résultats étaient sous 1 mg/L."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "saint-sulpice",
+      "name": "Saint-Sulpice",
+      "region": "Lanaudière",
+      "map": {
+        "x": 304,
+        "y": 500.7
+      },
+      "systems": [
+        {
+          "distribution": "X0008645",
+          "name": "Saint-Sulpice",
+          "production": "X0008647 / X0008686",
+          "supplier": "Municipalité de Saint-Sulpice et L’Assomption",
+          "source": "Source / drain, puits de surface et rivière"
+        }
+      ],
+      "coverageNote": "Le réseau X0008645 et ses deux alimentations sont confirmés au répertoire du MELCCFP. Le nouveau site municipal consulté le 1er août 2026 ne publiait pas de bilan annuel chiffré; aucun résultat n’est imputé sans source. Les procès-verbaux confirment un achat d’eau à L’Assomption du 8 octobre au 9 décembre 2025.",
+      "coverageUrl": "https://www.environnement.gouv.qc.ca/eau/potable/distribution/index.asp",
+      "reports": []
     }
-  ]
+  ],
+  "coverage": {
+    "scope": "Couronne Nord de la Communauté métropolitaine de Montréal",
+    "scopeUrl": "https://cmm.qc.ca/a-propos/territoires-et-municipalites/",
+    "auditedAt": "2026-08-01",
+    "municipalities": 20,
+    "distributionSystems": 41,
+    "detailedLatestPublicReports": 38,
+    "reportYears": {
+      "2023": 2,
+      "2024": 1,
+      "2025": 35
+    },
+    "directoryOnlySystems": [
+      {
+        "municipality": "Deux-Montagnes",
+        "distribution": "X0009543",
+        "reason": "Aucun bilan annuel chiffré publié sur la page municipale vérifiée."
+      },
+      {
+        "municipality": "L’Assomption",
+        "distribution": "X0008684",
+        "reason": "Petit secteur alimenté par Repentigny; aucun bilan distinct trouvé."
+      },
+      {
+        "municipality": "Saint-Sulpice",
+        "distribution": "X0008645",
+        "reason": "Aucun bilan annuel chiffré publié sur le site municipal vérifié."
+      }
+    ],
+    "sharedReportNote": "Le réseau X0009510 de Pointe-Calumet est représenté par le bilan de l’installation de production X2045657 partagé avec Saint-Joseph-du-Lac; ce n’est pas un bilan local distinct."
+  }
 }
