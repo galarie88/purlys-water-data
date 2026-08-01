@@ -6026,6 +6026,459 @@
           ]
         }
       ]
+    },
+    {
+      "id": "saint-lin-laurentides",
+      "name": "Saint-Lin–Laurentides",
+      "region": "Lanaudière",
+      "map": {
+        "x": 292.1,
+        "y": 496.2
+      },
+      "reports": [
+        {
+          "id": "saint-lin-laurentides-reseau-municipal-2024",
+          "network": "Réseau municipal",
+          "year": "2024",
+          "installation": "X1402344",
+          "population": "6 555",
+          "period": "1er janv. – 31 déc. 2024",
+          "publication": "18 févr. 2025",
+          "responsible": "Ville de Saint-Lin–Laurentides",
+          "file": "Bilan-annuel-qualite-eau-potable-St-Lin-Laurentides-reseau-municipal-2024.pdf",
+          "url": "https://www.saint-lin-laurentides.com/storage/app/media/servir/voirie/eau-et-egouts/bilans-qualite-eau-2025/Bilan-annuel-qualite-eau-potable-St-Lin-Laurentides-reseau-municipal-2024.pdf",
+          "exceedances": 1,
+          "thm": "36,2 µg/L",
+          "providerNote": "Un dépassement de cuivre (1,76 mg/L; norme 1,0 mg/L) a concerné une seule adresse; la non-conformité a été levée après deux contrôles conformes. Seulement 6 échantillons de plomb et de cuivre sur 10 ont pu être prélevés, et le contrôle de turbidité d’octobre a été omis.",
+          "rows": [
+            {
+              "parameter": "Coliformes totaux",
+              "minimum": "96",
+              "analyzed": "104",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Coliformes fécaux / E. coli",
+              "minimum": "96",
+              "analyzed": "104",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Plomb",
+              "minimum": "10",
+              "analyzed": "6",
+              "exceedances": 0,
+              "note": "6 prélèvements seulement; 10 exigés"
+            },
+            {
+              "parameter": "Cuivre",
+              "minimum": "10",
+              "analyzed": "6",
+              "exceedances": 1,
+              "note": "1 dépassement; 6 prélèvements seulement"
+            },
+            {
+              "parameter": "Turbidité",
+              "minimum": "12",
+              "analyzed": "11",
+              "exceedances": 0,
+              "note": "Prélèvement d’octobre omis"
+            },
+            {
+              "parameter": "Trihalométhanes totaux",
+              "minimum": "16",
+              "analyzed": "19",
+              "exceedances": 0,
+              "note": "Moy. 36,2 µg/L · norme 80 µg/L"
+            }
+          ],
+          "events": [
+            {
+              "date": "17 sept. 2024",
+              "parameter": "Cuivre",
+              "place": "550, rue du Parc",
+              "standard": "1,0 mg/L",
+              "result": "1,76 mg/L",
+              "action": "Non-conformité émise le 3 octobre et levée le 20 novembre 2024 après des résultats conformes les 5 et 6 novembre. MELCCFP et DSP avisés; situation limitée à cette adresse."
+            }
+          ]
+        },
+        {
+          "id": "saint-lin-laurentides-domaine-des-reves-2024",
+          "network": "Réseau Domaine des Rêves",
+          "year": "2024",
+          "installation": "X1402521",
+          "population": "60",
+          "period": "1er janv. – 31 déc. 2024",
+          "publication": "19 févr. 2025",
+          "responsible": "Ville de Saint-Lin–Laurentides",
+          "file": "Bilan-annuel-qualite-eau-potable-St-Lin-Laurentides-Domaine-des-Rêves-2024.pdf",
+          "url": "https://www.saint-lin-laurentides.com/storage/app/media/servir/voirie/eau-et-egouts/bilans-qualite-eau-2025/Bilan-annuel-qualite-eau-potable-St-Lin-Laurentides-Domaine-des-R%C3%AAves-2024.pdf",
+          "exceedances": 13,
+          "thm": "12,8 µg/L",
+          "providerNote": "Le tableau inscrit 2 dépassements de coliformes totaux, 2 d’E. coli et 9 de turbidité. Toutefois, la case « Aucun dépassement de norme » est cochée pour les analyses microbiologiques et aucun événement microbiologique n’est détaillé. PurLys conserve les valeurs numériques du tableau et signale cette contradiction; les neuf épisodes de turbidité sont explicitement documentés.",
+          "rows": [
+            {
+              "parameter": "Coliformes totaux",
+              "minimum": "24",
+              "analyzed": "25",
+              "exceedances": 2,
+              "note": "Le tableau indique 2; la case « Aucun dépassement » est pourtant cochée"
+            },
+            {
+              "parameter": "Coliformes fécaux / E. coli",
+              "minimum": "24",
+              "analyzed": "25",
+              "exceedances": 2,
+              "note": "Le tableau indique 2; la case « Aucun dépassement » est pourtant cochée"
+            },
+            {
+              "parameter": "Plomb",
+              "minimum": "2",
+              "analyzed": "2",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Cuivre",
+              "minimum": "2",
+              "analyzed": "2",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Turbidité",
+              "minimum": "12",
+              "analyzed": "14",
+              "exceedances": 9,
+              "note": "9 dépassements de 5,6 à 21 UTN"
+            },
+            {
+              "parameter": "Trihalométhanes totaux",
+              "minimum": "4",
+              "analyzed": "4",
+              "exceedances": 0,
+              "note": "Moy. 12,8 µg/L · norme 80 µg/L"
+            }
+          ],
+          "events": [
+            {
+              "date": "2 avr. 2024",
+              "parameter": "Turbidité",
+              "place": "Station Domaine des Rêves",
+              "standard": "5,0 UTN",
+              "result": "6,1 UTN",
+              "action": "Avis d’ébullition préventif en vigueur durant toute l’année en raison de la mauvaise qualité de l’eau; étude de raccordement au réseau municipal en cours."
+            },
+            {
+              "date": "7 mai 2024",
+              "parameter": "Turbidité",
+              "place": "Station Domaine des Rêves",
+              "standard": "5,0 UTN",
+              "result": "6,1 UTN",
+              "action": "Avis d’ébullition préventif en vigueur durant toute l’année en raison de la mauvaise qualité de l’eau; étude de raccordement au réseau municipal en cours."
+            },
+            {
+              "date": "4 juin 2024",
+              "parameter": "Turbidité",
+              "place": "Station Domaine des Rêves",
+              "standard": "5,0 UTN",
+              "result": "6,8 UTN",
+              "action": "Avis d’ébullition préventif en vigueur durant toute l’année en raison de la mauvaise qualité de l’eau; étude de raccordement au réseau municipal en cours."
+            },
+            {
+              "date": "2 juill. 2024",
+              "parameter": "Turbidité",
+              "place": "Station Domaine des Rêves",
+              "standard": "5,0 UTN",
+              "result": "9,6 UTN",
+              "action": "Avis d’ébullition préventif en vigueur durant toute l’année en raison de la mauvaise qualité de l’eau; étude de raccordement au réseau municipal en cours."
+            },
+            {
+              "date": "23 juill. 2024",
+              "parameter": "Turbidité",
+              "place": "Station Domaine des Rêves",
+              "standard": "5,0 UTN",
+              "result": "6,2 UTN",
+              "action": "Avis d’ébullition préventif en vigueur durant toute l’année en raison de la mauvaise qualité de l’eau; étude de raccordement au réseau municipal en cours."
+            },
+            {
+              "date": "3 sept. 2024",
+              "parameter": "Turbidité",
+              "place": "Station Domaine des Rêves",
+              "standard": "5,0 UTN",
+              "result": "5,6 UTN",
+              "action": "Avis d’ébullition préventif en vigueur durant toute l’année en raison de la mauvaise qualité de l’eau; étude de raccordement au réseau municipal en cours."
+            },
+            {
+              "date": "8 oct. 2024",
+              "parameter": "Turbidité",
+              "place": "Station Domaine des Rêves",
+              "standard": "5,0 UTN",
+              "result": "6,6 UTN",
+              "action": "Avis d’ébullition préventif en vigueur durant toute l’année en raison de la mauvaise qualité de l’eau; étude de raccordement au réseau municipal en cours."
+            },
+            {
+              "date": "5 nov. 2024",
+              "parameter": "Turbidité",
+              "place": "Station Domaine des Rêves",
+              "standard": "5,0 UTN",
+              "result": "21 UTN",
+              "action": "Avis d’ébullition préventif en vigueur durant toute l’année en raison de la mauvaise qualité de l’eau; étude de raccordement au réseau municipal en cours."
+            },
+            {
+              "date": "4 déc. 2024",
+              "parameter": "Turbidité",
+              "place": "Station Domaine des Rêves",
+              "standard": "5,0 UTN",
+              "result": "13 UTN",
+              "action": "Avis d’ébullition préventif en vigueur durant toute l’année en raison de la mauvaise qualité de l’eau; étude de raccordement au réseau municipal en cours."
+            }
+          ]
+        },
+        {
+          "id": "saint-lin-laurentides-eden-1-2024",
+          "network": "Réseau Éden #1",
+          "year": "2024",
+          "installation": "X2062828",
+          "population": "80",
+          "period": "1er janv. – 31 déc. 2024",
+          "publication": "19 févr. 2025",
+          "responsible": "Ville de Saint-Lin–Laurentides",
+          "file": "Bilan-annuel-qualite-eau-potable-St-Lin-Laurentides-Eden-1-2024.pdf",
+          "url": "https://www.saint-lin-laurentides.com/storage/app/media/servir/voirie/eau-et-egouts/bilans-qualite-eau-2025/Bilan-annuel-qualite-eau-potable-St-Lin-Laurentides-Eden-1-2024.pdf",
+          "exceedances": 0,
+          "thm": "Non applicable",
+          "providerNote": "Aucun dépassement de norme déclaré. Réseau non chloré : le suivi des trihalométhanes n’est pas applicable.",
+          "rows": [
+            {
+              "parameter": "Coliformes totaux",
+              "minimum": "24",
+              "analyzed": "24",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Coliformes fécaux / E. coli",
+              "minimum": "24",
+              "analyzed": "24",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Plomb",
+              "minimum": "2",
+              "analyzed": "2",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Cuivre",
+              "minimum": "2",
+              "analyzed": "2",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Turbidité",
+              "minimum": "12",
+              "analyzed": "12",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Trihalométhanes totaux",
+              "minimum": "Non applicable",
+              "analyzed": "Non applicable",
+              "exceedances": 0,
+              "note": "Réseau non chloré; exigence non applicable"
+            }
+          ],
+          "events": []
+        },
+        {
+          "id": "saint-lin-laurentides-eden-2-2024",
+          "network": "Réseau Éden #2",
+          "year": "2024",
+          "installation": "X2062956",
+          "population": "80",
+          "period": "1er janv. – 31 déc. 2024",
+          "publication": "19 févr. 2025",
+          "responsible": "Ville de Saint-Lin–Laurentides",
+          "file": "Bilan-annuel-qualite-eau-potable-St-Lin-Laurentides-Eden-2-2024.pdf",
+          "url": "https://www.saint-lin-laurentides.com/storage/app/media/servir/voirie/eau-et-egouts/bilans-qualite-eau-2025/Bilan-annuel-qualite-eau-potable-St-Lin-Laurentides-Eden-2-2024.pdf",
+          "exceedances": 0,
+          "thm": "Non applicable",
+          "providerNote": "Aucun dépassement de norme déclaré. Réseau non chloré : le suivi des trihalométhanes n’est pas applicable.",
+          "rows": [
+            {
+              "parameter": "Coliformes totaux",
+              "minimum": "24",
+              "analyzed": "25",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Coliformes fécaux / E. coli",
+              "minimum": "24",
+              "analyzed": "25",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Plomb",
+              "minimum": "2",
+              "analyzed": "2",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Cuivre",
+              "minimum": "2",
+              "analyzed": "2",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Turbidité",
+              "minimum": "12",
+              "analyzed": "13",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Trihalométhanes totaux",
+              "minimum": "Non applicable",
+              "analyzed": "Non applicable",
+              "exceedances": 0,
+              "note": "Réseau non chloré; exigence non applicable"
+            }
+          ],
+          "events": []
+        },
+        {
+          "id": "saint-lin-laurentides-eden-3-2024",
+          "network": "Réseau Éden #3",
+          "year": "2024",
+          "installation": "X2095588",
+          "population": "80",
+          "period": "1er janv. – 31 déc. 2024",
+          "publication": "19 févr. 2025",
+          "responsible": "Ville de Saint-Lin–Laurentides",
+          "file": "Bilan-annuel-qualite-eau-potable-St-Lin-Laurentides-Eden-3-2024.pdf",
+          "url": "https://www.saint-lin-laurentides.com/storage/app/media/servir/voirie/eau-et-egouts/bilans-qualite-eau-2025/Bilan-annuel-qualite-eau-potable-St-Lin-Laurentides-Eden-3-2024.pdf",
+          "exceedances": 0,
+          "thm": "Non applicable",
+          "providerNote": "Aucun dépassement de norme déclaré. Réseau non chloré : le suivi des trihalométhanes n’est pas applicable.",
+          "rows": [
+            {
+              "parameter": "Coliformes totaux",
+              "minimum": "24",
+              "analyzed": "24",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Coliformes fécaux / E. coli",
+              "minimum": "24",
+              "analyzed": "24",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Plomb",
+              "minimum": "2",
+              "analyzed": "2",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Cuivre",
+              "minimum": "2",
+              "analyzed": "2",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Turbidité",
+              "minimum": "12",
+              "analyzed": "12",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Trihalométhanes totaux",
+              "minimum": "Non applicable",
+              "analyzed": "Non applicable",
+              "exceedances": 0,
+              "note": "Réseau non chloré; exigence non applicable"
+            }
+          ],
+          "events": []
+        },
+        {
+          "id": "saint-lin-laurentides-eden-4-2024",
+          "network": "Réseau Éden #4",
+          "year": "2024",
+          "installation": "X2095590",
+          "population": "80",
+          "period": "1er janv. – 31 déc. 2024",
+          "publication": "19 févr. 2025",
+          "responsible": "Ville de Saint-Lin–Laurentides",
+          "file": "Bilan-annuel-qualite-eau-potable-St-Lin-Laurentides-Eden-4-20242024.pdf",
+          "url": "https://www.saint-lin-laurentides.com/storage/app/media/servir/voirie/eau-et-egouts/bilans-qualite-eau-2025/Bilan-annuel-qualite-eau-potable-St-Lin-Laurentides-Eden-4-20242024.pdf",
+          "exceedances": 0,
+          "thm": "Non applicable",
+          "providerNote": "Aucun dépassement de norme déclaré. Un seul prélèvement de plomb et de cuivre a été réalisé sur les deux exigés; le bilan indique qu’une attention particulière serait apportée à cette exigence en 2025. Réseau non chloré : le suivi des trihalométhanes n’est pas applicable.",
+          "rows": [
+            {
+              "parameter": "Coliformes totaux",
+              "minimum": "24",
+              "analyzed": "25",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Coliformes fécaux / E. coli",
+              "minimum": "24",
+              "analyzed": "25",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Plomb",
+              "minimum": "2",
+              "analyzed": "1",
+              "exceedances": 0,
+              "note": "1 prélèvement seulement; 2 exigés"
+            },
+            {
+              "parameter": "Cuivre",
+              "minimum": "2",
+              "analyzed": "1",
+              "exceedances": 0,
+              "note": "1 prélèvement seulement; 2 exigés"
+            },
+            {
+              "parameter": "Turbidité",
+              "minimum": "12",
+              "analyzed": "13",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Trihalométhanes totaux",
+              "minimum": "Non applicable",
+              "analyzed": "Non applicable",
+              "exceedances": 0,
+              "note": "Réseau non chloré; exigence non applicable"
+            }
+          ],
+          "events": []
+        }
+      ]
     }
   ]
 }
