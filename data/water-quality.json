@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-07-22",
+  "updatedAt": "2026-08-01",
   "municipalities": [
     {
       "id": "terrebonne",
@@ -5331,6 +5331,697 @@
               "standard": "0,005 mg/L",
               "result": "2 dépassements (valeurs non publiées)",
               "action": "Résidents informés."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "montreal",
+      "name": "Montréal",
+      "region": "Montréal",
+      "map": {
+        "x": 290.8,
+        "y": 510.2
+      },
+      "reports": [
+        {
+          "id": "montreal-principal-2025",
+          "network": "Réseau Montréal — usines Atwater et Charles-J.-Des Baillets",
+          "year": "2025",
+          "installation": "X0008084",
+          "population": "1 806 067",
+          "period": "1er janv. – 31 déc. 2025",
+          "publication": "30 janv. 2026",
+          "responsible": "Ville de Montréal",
+          "file": "2025_Bilan_annuel_Montréal.pdf",
+          "url": "https://mtl.ged.montreal.ca/constellio/?collection=mtlca&portal=REPDOCVDM#!displayDocument/00000139477",
+          "exceedances": 40,
+          "thm": "60,0 µg/L",
+          "providerNote": "Les 40 dépassements de plomb proviennent d’une campagne comprenant de nombreux prélèvements dans des secteurs potentiellement problématiques; les occupants ont été informés. Vingt présences de coliformes totaux ont été relevées, mais le critère réglementaire mensuel a été respecté. Une mesure ponctuelle de THM a atteint 90,4 µg/L; la moyenne annuelle était de 60,0 µg/L et la moyenne cumulative de quatre trimestres demeurait sous 80 µg/L.",
+          "rows": [
+            {
+              "parameter": "Coliformes totaux",
+              "minimum": "3 252",
+              "analyzed": "3 982",
+              "exceedances": 0,
+              "note": "20 présences; aucun dépassement réglementaire mensuel"
+            },
+            {
+              "parameter": "Coliformes fécaux / E. coli",
+              "minimum": "3 252",
+              "analyzed": "3 982",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Plomb",
+              "minimum": "50",
+              "analyzed": "53",
+              "exceedances": 40,
+              "note": "40 résultats · campagne ciblée · norme 0,005 mg/L"
+            },
+            {
+              "parameter": "Cuivre",
+              "minimum": "50",
+              "analyzed": "53",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Turbidité",
+              "minimum": "12",
+              "analyzed": "24",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Trihalométhanes totaux",
+              "minimum": "32",
+              "analyzed": "40",
+              "exceedances": 0,
+              "note": "Moy. 60,0 µg/L · norme annuelle 80 µg/L"
+            }
+          ],
+          "events": [
+            {
+              "date": "15 juillet 2025",
+              "parameter": "Plomb",
+              "place": "Avenue des Érables H2G 2M2",
+              "standard": "0,005 mg/L",
+              "result": "0,00776 mg/L",
+              "action": "Occupant informé par lettre. La Ville poursuit la caractérisation du réseau et son plan de remplacement de la partie publique des entrées de service en plomb."
+            },
+            {
+              "date": "15 juillet 2025",
+              "parameter": "Plomb",
+              "place": "Avenue des Érables H2G 2M1",
+              "standard": "0,005 mg/L",
+              "result": "0,00584 mg/L",
+              "action": "Occupant informé par lettre. La Ville poursuit la caractérisation du réseau et son plan de remplacement de la partie publique des entrées de service en plomb."
+            },
+            {
+              "date": "16 juillet 2025",
+              "parameter": "Plomb",
+              "place": "Rue Fabre H2E 2B1",
+              "standard": "0,005 mg/L",
+              "result": "0,00975 mg/L",
+              "action": "Occupant informé par lettre. La Ville poursuit la caractérisation du réseau et son plan de remplacement de la partie publique des entrées de service en plomb."
+            },
+            {
+              "date": "16 juillet 2025",
+              "parameter": "Plomb",
+              "place": "Rue Parthenais H2H 2G6",
+              "standard": "0,005 mg/L",
+              "result": "0,00623 mg/L",
+              "action": "Occupant informé par lettre. La Ville poursuit la caractérisation du réseau et son plan de remplacement de la partie publique des entrées de service en plomb."
+            },
+            {
+              "date": "17 juillet 2025",
+              "parameter": "Plomb",
+              "place": "Av. de Lorimier H2B 2H9",
+              "standard": "0,005 mg/L",
+              "result": "0,00635 mg/L",
+              "action": "Occupant informé par lettre. La Ville poursuit la caractérisation du réseau et son plan de remplacement de la partie publique des entrées de service en plomb."
+            },
+            {
+              "date": "18 juillet 2025",
+              "parameter": "Plomb",
+              "place": "Rue Saint-André H2L 3T6",
+              "standard": "0,005 mg/L",
+              "result": "0,00803 mg/L",
+              "action": "Occupant informé par lettre. La Ville poursuit la caractérisation du réseau et son plan de remplacement de la partie publique des entrées de service en plomb."
+            },
+            {
+              "date": "21 juillet 2025",
+              "parameter": "Plomb",
+              "place": "Rue Fabre H2E 2B2",
+              "standard": "0,005 mg/L",
+              "result": "0,0126 mg/L",
+              "action": "Occupant informé par lettre. La Ville poursuit la caractérisation du réseau et son plan de remplacement de la partie publique des entrées de service en plomb."
+            },
+            {
+              "date": "21 juillet 2025",
+              "parameter": "Plomb",
+              "place": "Rue Everett H2E 1P6",
+              "standard": "0,005 mg/L",
+              "result": "0,00505 mg/L",
+              "action": "Occupant informé par lettre. La Ville poursuit la caractérisation du réseau et son plan de remplacement de la partie publique des entrées de service en plomb."
+            },
+            {
+              "date": "7 juillet 2025",
+              "parameter": "Plomb",
+              "place": "Rue Notre-Dame O H4C 1S9",
+              "standard": "0,005 mg/L",
+              "result": "0,00758 mg/L",
+              "action": "Occupant informé par lettre. La Ville poursuit la caractérisation du réseau et son plan de remplacement de la partie publique des entrées de service en plomb."
+            },
+            {
+              "date": "8 juillet 2025",
+              "parameter": "Plomb",
+              "place": "Rue Foucher H2R 2K8",
+              "standard": "0,005 mg/L",
+              "result": "0,00987 mg/L",
+              "action": "Occupant informé par lettre. La Ville poursuit la caractérisation du réseau et son plan de remplacement de la partie publique des entrées de service en plomb."
+            },
+            {
+              "date": "8 juillet 2025",
+              "parameter": "Plomb",
+              "place": "Rue Foucher H2R 2K9",
+              "standard": "0,005 mg/L",
+              "result": "0,00625 mg/L",
+              "action": "Occupant informé par lettre. La Ville poursuit la caractérisation du réseau et son plan de remplacement de la partie publique des entrées de service en plomb."
+            },
+            {
+              "date": "8 juillet 2025",
+              "parameter": "Plomb",
+              "place": "Rue Foucher H2R 2K9",
+              "standard": "0,005 mg/L",
+              "result": "0,0107 mg/L",
+              "action": "Occupant informé par lettre. La Ville poursuit la caractérisation du réseau et son plan de remplacement de la partie publique des entrées de service en plomb."
+            },
+            {
+              "date": "21 juillet 2025",
+              "parameter": "Plomb",
+              "place": "Rue Everett H2E 1R2",
+              "standard": "0,005 mg/L",
+              "result": "0,00729 mg/L",
+              "action": "Occupant informé par lettre. La Ville poursuit la caractérisation du réseau et son plan de remplacement de la partie publique des entrées de service en plomb."
+            },
+            {
+              "date": "16 juillet 2025",
+              "parameter": "Plomb",
+              "place": "Ave. des Érables H2G 2M2",
+              "standard": "0,005 mg/L",
+              "result": "0,0151 mg/L",
+              "action": "Occupant informé par lettre. La Ville poursuit la caractérisation du réseau et son plan de remplacement de la partie publique des entrées de service en plomb."
+            },
+            {
+              "date": "10 juillet 2025",
+              "parameter": "Plomb",
+              "place": "Rue Cartier H2K 4G1",
+              "standard": "0,005 mg/L",
+              "result": "0,0126 mg/L",
+              "action": "Occupant informé par lettre. La Ville poursuit la caractérisation du réseau et son plan de remplacement de la partie publique des entrées de service en plomb."
+            },
+            {
+              "date": "11 juillet 2025",
+              "parameter": "Plomb",
+              "place": "Rue de Mentana H2J 3C3",
+              "standard": "0,005 mg/L",
+              "result": "0,00926 mg/L",
+              "action": "Occupant informé par lettre. La Ville poursuit la caractérisation du réseau et son plan de remplacement de la partie publique des entrées de service en plomb."
+            },
+            {
+              "date": "9 juillet 2025",
+              "parameter": "Plomb",
+              "place": "Rue Dufresne H2K 3K5",
+              "standard": "0,005 mg/L",
+              "result": "0,00628 mg/L",
+              "action": "Occupant informé par lettre. La Ville poursuit la caractérisation du réseau et son plan de remplacement de la partie publique des entrées de service en plomb."
+            },
+            {
+              "date": "10 juillet 2025",
+              "parameter": "Plomb",
+              "place": "Av. de l'Esplanade H2W 1T1",
+              "standard": "0,005 mg/L",
+              "result": "0,0155 mg/L",
+              "action": "Occupant informé par lettre. La Ville poursuit la caractérisation du réseau et son plan de remplacement de la partie publique des entrées de service en plomb."
+            },
+            {
+              "date": "10 juillet 2025",
+              "parameter": "Plomb",
+              "place": "Av. Willowdale H3T 1H5",
+              "standard": "0,005 mg/L",
+              "result": "0,00542 mg/L",
+              "action": "Occupant informé par lettre. La Ville poursuit la caractérisation du réseau et son plan de remplacement de la partie publique des entrées de service en plomb."
+            },
+            {
+              "date": "14 juillet 2025",
+              "parameter": "Plomb",
+              "place": "Rue Filion H4J 1T4",
+              "standard": "0,005 mg/L",
+              "result": "0,0117 mg/L",
+              "action": "Occupant informé par lettre. La Ville poursuit la caractérisation du réseau et son plan de remplacement de la partie publique des entrées de service en plomb."
+            },
+            {
+              "date": "14 juillet 2025",
+              "parameter": "Plomb",
+              "place": "Rue Filion H4J 1T3",
+              "standard": "0,005 mg/L",
+              "result": "0,00996 mg/L",
+              "action": "Occupant informé par lettre. La Ville poursuit la caractérisation du réseau et son plan de remplacement de la partie publique des entrées de service en plomb."
+            },
+            {
+              "date": "15 juillet 2025",
+              "parameter": "Plomb",
+              "place": "Rue Mullins H3K 1N5",
+              "standard": "0,005 mg/L",
+              "result": "0,0152 mg/L",
+              "action": "Occupant informé par lettre. La Ville poursuit la caractérisation du réseau et son plan de remplacement de la partie publique des entrées de service en plomb."
+            },
+            {
+              "date": "16 juillet 2025",
+              "parameter": "Plomb",
+              "place": "Rue Beaubien E H2S 1R3",
+              "standard": "0,005 mg/L",
+              "result": "0,0162 mg/L",
+              "action": "Occupant informé par lettre. La Ville poursuit la caractérisation du réseau et son plan de remplacement de la partie publique des entrées de service en plomb."
+            },
+            {
+              "date": "16 juillet 2025",
+              "parameter": "Plomb",
+              "place": "Av. des Érables H2G 2M1",
+              "standard": "0,005 mg/L",
+              "result": "0,00518 mg/L",
+              "action": "Occupant informé par lettre. La Ville poursuit la caractérisation du réseau et son plan de remplacement de la partie publique des entrées de service en plomb."
+            },
+            {
+              "date": "16 juillet 2025",
+              "parameter": "Plomb",
+              "place": "Av. de l'Esplanade H2T 2Y5",
+              "standard": "0,005 mg/L",
+              "result": "0,0224 mg/L",
+              "action": "Occupant informé par lettre. La Ville poursuit la caractérisation du réseau et son plan de remplacement de la partie publique des entrées de service en plomb."
+            },
+            {
+              "date": "15 juillet 2025",
+              "parameter": "Plomb",
+              "place": "Rue Jolicoeur H4E 1Z5",
+              "standard": "0,005 mg/L",
+              "result": "0,00561 mg/L",
+              "action": "Occupant informé par lettre. La Ville poursuit la caractérisation du réseau et son plan de remplacement de la partie publique des entrées de service en plomb."
+            },
+            {
+              "date": "22 juillet 2025",
+              "parameter": "Plomb",
+              "place": "Rue Ferland H2R 1N9",
+              "standard": "0,005 mg/L",
+              "result": "0,00668 mg/L",
+              "action": "Occupant informé par lettre. La Ville poursuit la caractérisation du réseau et son plan de remplacement de la partie publique des entrées de service en plomb."
+            },
+            {
+              "date": "14 juillet 2025",
+              "parameter": "Plomb",
+              "place": "Av. de l'Esplanade H3L 2X7",
+              "standard": "0,005 mg/L",
+              "result": "0,00679 mg/L",
+              "action": "Occupant informé par lettre. La Ville poursuit la caractérisation du réseau et son plan de remplacement de la partie publique des entrées de service en plomb."
+            },
+            {
+              "date": "14 juillet 2025",
+              "parameter": "Plomb",
+              "place": "Av. Rancourt H2B 2N7",
+              "standard": "0,005 mg/L",
+              "result": "0,011 mg/L",
+              "action": "Occupant informé par lettre. La Ville poursuit la caractérisation du réseau et son plan de remplacement de la partie publique des entrées de service en plomb."
+            },
+            {
+              "date": "19 août 2025",
+              "parameter": "Plomb",
+              "place": "Av. Filion H4J 1T4",
+              "standard": "0,005 mg/L",
+              "result": "0,0161 mg/L",
+              "action": "Occupant informé par lettre. La Ville poursuit la caractérisation du réseau et son plan de remplacement de la partie publique des entrées de service en plomb."
+            },
+            {
+              "date": "23 juillet 2025",
+              "parameter": "Plomb",
+              "place": "Rue Forsyth H1A 1H6",
+              "standard": "0,005 mg/L",
+              "result": "0,012 mg/L",
+              "action": "Occupant informé par lettre. La Ville poursuit la caractérisation du réseau et son plan de remplacement de la partie publique des entrées de service en plomb."
+            },
+            {
+              "date": "17 juillet 2025",
+              "parameter": "Plomb",
+              "place": "Av. Ernest Lavigne H1M 1C4",
+              "standard": "0,005 mg/L",
+              "result": "0,00732 mg/L",
+              "action": "Occupant informé par lettre. La Ville poursuit la caractérisation du réseau et son plan de remplacement de la partie publique des entrées de service en plomb."
+            },
+            {
+              "date": "17 juillet 2025",
+              "parameter": "Plomb",
+              "place": "Av. Ernest Lavigne H1M 1C4",
+              "standard": "0,005 mg/L",
+              "result": "0,0115 mg/L",
+              "action": "Occupant informé par lettre. La Ville poursuit la caractérisation du réseau et son plan de remplacement de la partie publique des entrées de service en plomb."
+            },
+            {
+              "date": "21 juillet 2025",
+              "parameter": "Plomb",
+              "place": "Rue Victoria H1A 1P4",
+              "standard": "0,005 mg/L",
+              "result": "0,00962 mg/L",
+              "action": "Occupant informé par lettre. La Ville poursuit la caractérisation du réseau et son plan de remplacement de la partie publique des entrées de service en plomb."
+            },
+            {
+              "date": "21 juillet 2025",
+              "parameter": "Plomb",
+              "place": "Rue Ernest Lavigne H1M 1C5",
+              "standard": "0,005 mg/L",
+              "result": "0,00911 mg/L",
+              "action": "Occupant informé par lettre. La Ville poursuit la caractérisation du réseau et son plan de remplacement de la partie publique des entrées de service en plomb."
+            },
+            {
+              "date": "31 juillet 2025",
+              "parameter": "Plomb",
+              "place": "Rue Chabot H2G 2T7",
+              "standard": "0,005 mg/L",
+              "result": "0,00867 mg/L",
+              "action": "Occupant informé par lettre. La Ville poursuit la caractérisation du réseau et son plan de remplacement de la partie publique des entrées de service en plomb."
+            },
+            {
+              "date": "13 août 2025",
+              "parameter": "Plomb",
+              "place": "Av. Lacombe H3T 1L5",
+              "standard": "0,005 mg/L",
+              "result": "0,00639 mg/L",
+              "action": "Occupant informé par lettre. La Ville poursuit la caractérisation du réseau et son plan de remplacement de la partie publique des entrées de service en plomb."
+            },
+            {
+              "date": "10 septembre 2025",
+              "parameter": "Plomb",
+              "place": "Rue Beaudoin H4C 2Y3",
+              "standard": "0,005 mg/L",
+              "result": "0,0221 mg/L",
+              "action": "Occupant informé par lettre. La Ville poursuit la caractérisation du réseau et son plan de remplacement de la partie publique des entrées de service en plomb."
+            },
+            {
+              "date": "4 septembre 2025",
+              "parameter": "Plomb",
+              "place": "Av. Alexandre-DeSève H2L 2W4",
+              "standard": "0,005 mg/L",
+              "result": "0,0109 mg/L",
+              "action": "Occupant informé par lettre. La Ville poursuit la caractérisation du réseau et son plan de remplacement de la partie publique des entrées de service en plomb."
+            },
+            {
+              "date": "4 septembre 2025",
+              "parameter": "Plomb",
+              "place": "Rue Ottawa H3C 1S6",
+              "standard": "0,005 mg/L",
+              "result": "0,0124 mg/L",
+              "action": "Occupant informé par lettre. La Ville poursuit la caractérisation du réseau et son plan de remplacement de la partie publique des entrées de service en plomb."
+            }
+          ]
+        },
+        {
+          "id": "montreal-lachine-2025",
+          "network": "Réseau Lachine — usine de Lachine",
+          "year": "2025",
+          "installation": "X0008089",
+          "population": "46 172",
+          "period": "1er janv. – 31 déc. 2025",
+          "publication": "30 janv. 2026",
+          "responsible": "Ville de Montréal",
+          "file": "2025_Bilan_annuel_Lachine.pdf",
+          "url": "https://mtl.ged.montreal.ca/constellio/?collection=mtlca&portal=REPDOCVDM#!displayDocument/00000139473",
+          "exceedances": 4,
+          "thm": "65,9 µg/L",
+          "providerNote": "Quatre résultats de plomb ont dépassé 0,005 mg/L et les occupants ont été informés. Deux présences de coliformes totaux ont été relevées sans dépasser le critère réglementaire mensuel. Une mesure ponctuelle de THM a atteint 85,1 µg/L; la moyenne annuelle était de 65,9 µg/L et la moyenne cumulative de quatre trimestres demeurait sous 80 µg/L.",
+          "rows": [
+            {
+              "parameter": "Coliformes totaux",
+              "minimum": "564",
+              "analyzed": "611",
+              "exceedances": 0,
+              "note": "2 présences; aucun dépassement réglementaire mensuel"
+            },
+            {
+              "parameter": "Coliformes fécaux / E. coli",
+              "minimum": "564",
+              "analyzed": "611",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Plomb",
+              "minimum": "20",
+              "analyzed": "21",
+              "exceedances": 4,
+              "note": "Norme : 0,005 mg/L"
+            },
+            {
+              "parameter": "Cuivre",
+              "minimum": "20",
+              "analyzed": "21",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Turbidité",
+              "minimum": "12",
+              "analyzed": "12",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Trihalométhanes totaux",
+              "minimum": "16",
+              "analyzed": "16",
+              "exceedances": 0,
+              "note": "Moy. 65,9 µg/L · norme annuelle 80 µg/L"
+            }
+          ],
+          "events": [
+            {
+              "date": "29 juillet 2025",
+              "parameter": "Plomb",
+              "place": "Avenue Duranceau H8R 1M5",
+              "standard": "0,005 mg/L",
+              "result": "0,0110 mg/L",
+              "action": "Occupant informé par lettre. La Ville poursuit la caractérisation du réseau et son plan de remplacement de la partie publique des entrées de service en plomb."
+            },
+            {
+              "date": "29 juillet 2025",
+              "parameter": "Plomb",
+              "place": "Avenue Duranceau H8R 1M5",
+              "standard": "0,005 mg/L",
+              "result": "0,0133 mg/L",
+              "action": "Occupant informé par lettre. La Ville poursuit la caractérisation du réseau et son plan de remplacement de la partie publique des entrées de service en plomb."
+            },
+            {
+              "date": "29 septembre 2025",
+              "parameter": "Plomb",
+              "place": "Avenue Ouellette H8R 1L6",
+              "standard": "0,005 mg/L",
+              "result": "0,00733 mg/L",
+              "action": "Occupant informé par lettre. La Ville poursuit la caractérisation du réseau et son plan de remplacement de la partie publique des entrées de service en plomb."
+            },
+            {
+              "date": "29 septembre 2025",
+              "parameter": "Plomb",
+              "place": "Avenue Ouellette H8R 1L6",
+              "standard": "0,005 mg/L",
+              "result": "0,00787 mg/L",
+              "action": "Occupant informé par lettre. La Ville poursuit la caractérisation du réseau et son plan de remplacement de la partie publique des entrées de service en plomb."
+            }
+          ]
+        },
+        {
+          "id": "montreal-dorval-2025",
+          "network": "Réseau Dorval — usine de Dorval",
+          "year": "2025",
+          "installation": "X0008923",
+          "population": "20 765",
+          "period": "1er janv. – 31 déc. 2025",
+          "publication": "30 janv. 2026",
+          "responsible": "Cité de Dorval",
+          "file": "2025_Bilan_annuel_Dorval.pdf",
+          "url": "https://mtl.ged.montreal.ca/constellio/?collection=mtlca&portal=REPDOCVDM#!displayDocument/00000139450",
+          "exceedances": 0,
+          "thm": "67,9 µg/L",
+          "providerNote": "Une présence de coliformes totaux a été relevée; la reprise était négative et le critère réglementaire mensuel a été respecté. Aucun dépassement de plomb, de turbidité ou de la moyenne annuelle des THM n’a été déclaré.",
+          "rows": [
+            {
+              "parameter": "Coliformes totaux",
+              "minimum": "252",
+              "analyzed": "273",
+              "exceedances": 0,
+              "note": "1 présence; aucun dépassement réglementaire mensuel"
+            },
+            {
+              "parameter": "Coliformes fécaux / E. coli",
+              "minimum": "252",
+              "analyzed": "273",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Plomb",
+              "minimum": "20",
+              "analyzed": "20",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Cuivre",
+              "minimum": "20",
+              "analyzed": "20",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Turbidité",
+              "minimum": "12",
+              "analyzed": "12",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Trihalométhanes totaux",
+              "minimum": "16",
+              "analyzed": "16",
+              "exceedances": 0,
+              "note": "Moy. 67,9 µg/L · norme annuelle 80 µg/L"
+            }
+          ],
+          "events": []
+        },
+        {
+          "id": "montreal-pierrefonds-roxboro-2025",
+          "network": "Réseau Pierrefonds-Roxboro — usine de Pierrefonds",
+          "year": "2025",
+          "installation": "X0009131",
+          "population": "94 663",
+          "period": "1er janv. – 31 déc. 2025",
+          "publication": "30 janv. 2026",
+          "responsible": "Ville de Montréal",
+          "file": "2025_Bilan_annuel_Pierrefonds-Roxboro.pdf",
+          "url": "https://mtl.ged.montreal.ca/constellio/?collection=mtlca&portal=REPDOCVDM#!displayDocument/00000139503",
+          "exceedances": 2,
+          "thm": "58,2 µg/L",
+          "providerNote": "Deux résultats de plomb ont dépassé 0,005 mg/L et les occupants ont été informés. Une présence de coliformes totaux a été relevée sans dépasser le critère réglementaire mensuel. Deux mesures ponctuelles de THM ont atteint 82,1 et 81,2 µg/L; la moyenne annuelle était de 58,2 µg/L et la moyenne cumulative de quatre trimestres demeurait sous 80 µg/L.",
+          "rows": [
+            {
+              "parameter": "Coliformes totaux",
+              "minimum": "1 140",
+              "analyzed": "1 172",
+              "exceedances": 0,
+              "note": "1 présence; aucun dépassement réglementaire mensuel"
+            },
+            {
+              "parameter": "Coliformes fécaux / E. coli",
+              "minimum": "1 140",
+              "analyzed": "1 172",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Plomb",
+              "minimum": "30",
+              "analyzed": "32",
+              "exceedances": 2,
+              "note": "Norme : 0,005 mg/L"
+            },
+            {
+              "parameter": "Cuivre",
+              "minimum": "30",
+              "analyzed": "32",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Turbidité",
+              "minimum": "12",
+              "analyzed": "12",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Trihalométhanes totaux",
+              "minimum": "16",
+              "analyzed": "16",
+              "exceedances": 0,
+              "note": "Moy. 58,2 µg/L · norme annuelle 80 µg/L"
+            }
+          ],
+          "events": [
+            {
+              "date": "26 septembre 2025",
+              "parameter": "Plomb",
+              "place": "Rue AppleBlossom H9J 1J2",
+              "standard": "0,005 mg/L",
+              "result": "0,00964 mg/L",
+              "action": "Occupant informé par lettre. La Ville poursuit la caractérisation du réseau et son plan de remplacement de la partie publique des entrées de service en plomb."
+            },
+            {
+              "date": "29 septembre 2025",
+              "parameter": "Plomb",
+              "place": "Boulevard Gouin Ouest H9K 1C1",
+              "standard": "0,005 mg/L",
+              "result": "0,02091 mg/L",
+              "action": "Occupant informé par lettre. La Ville poursuit la caractérisation du réseau et son plan de remplacement de la partie publique des entrées de service en plomb."
+            }
+          ]
+        },
+        {
+          "id": "montreal-pointe-claire-2025",
+          "network": "Réseau Pointe-Claire — usine de Pointe-Claire",
+          "year": "2025",
+          "installation": "X0008942",
+          "population": "36 255",
+          "period": "1er janv. – 31 déc. 2025",
+          "publication": "30 janv. 2026",
+          "responsible": "Ville de Pointe-Claire",
+          "file": "2025-Bilan_annuel_Pointe-Claire.pdf",
+          "url": "https://mtl.ged.montreal.ca/constellio/?collection=mtlca&portal=REPDOCVDM#!displayDocument/00000139513",
+          "exceedances": 1,
+          "thm": "51,9 µg/L",
+          "providerNote": "Aucun dépassement de plomb n’a été déclaré. Une mesure d’acides haloacétiques (AHA) de 74,8 µg/L a entraîné un plan d’action; la moyenne cumulative de quatre trimestres était de 60,3 µg/L au 2e trimestre et de 58,4 µg/L au 4e trimestre. Deux présences de coliformes totaux ont été relevées sans dépasser le critère réglementaire mensuel.",
+          "rows": [
+            {
+              "parameter": "Coliformes totaux",
+              "minimum": "444",
+              "analyzed": "465",
+              "exceedances": 0,
+              "note": "2 présences; aucun dépassement réglementaire mensuel"
+            },
+            {
+              "parameter": "Coliformes fécaux / E. coli",
+              "minimum": "444",
+              "analyzed": "465",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Plomb",
+              "minimum": "20",
+              "analyzed": "21",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Cuivre",
+              "minimum": "20",
+              "analyzed": "21",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Turbidité",
+              "minimum": "12",
+              "analyzed": "12",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Trihalométhanes totaux",
+              "minimum": "16",
+              "analyzed": "16",
+              "exceedances": 0,
+              "note": "Moy. 51,9 µg/L · norme annuelle 80 µg/L"
+            }
+          ],
+          "events": [
+            {
+              "date": "27 mai 2025",
+              "parameter": "Acides haloacétiques (AHA)",
+              "place": "Avenue Duke of Kent",
+              "standard": "60 µg/L",
+              "result": "74,8 µg/L",
+              "action": "Plan d’action transmis au Ministère. La moyenne cumulative de quatre trimestres était de 60,3 µg/L au 2e trimestre, puis de 58,4 µg/L au 4e trimestre; un essai de potentiel de formation a donné 43,7 µg/L."
             }
           ]
         }
