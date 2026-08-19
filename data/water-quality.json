@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-01",
+  "updatedAt": "2026-08-19",
   "municipalities": [
     {
       "id": "terrebonne",
@@ -7993,19 +7993,1957 @@
       "coverageNote": "Le réseau X0008645 et ses deux alimentations sont confirmés au répertoire du MELCCFP. Le nouveau site municipal consulté le 1er août 2026 ne publiait pas de bilan annuel chiffré; aucun résultat n’est imputé sans source. Les procès-verbaux confirment un achat d’eau à L’Assomption du 8 octobre au 9 décembre 2025.",
       "coverageUrl": "https://www.environnement.gouv.qc.ca/eau/potable/distribution/index.asp",
       "reports": []
+    },
+    {
+      "id": "vaudreuil-dorion",
+      "name": "Vaudreuil-Dorion",
+      "region": "Montérégie",
+      "map": {
+        "x": 283,
+        "y": 506.1
+      },
+      "reports": [
+        {
+          "id": "vaudreuil-bleu-2025",
+          "network": "Secteur Bleu (Vaudreuil)",
+          "year": "2025",
+          "installation": "X0010755",
+          "population": "38 797",
+          "period": "1er janv. – 31 déc. 2025",
+          "publication": "28 janv. 2026",
+          "responsible": "Ville de Vaudreuil-Dorion",
+          "file": "2025_Bilan_annuel_Vaudreuil_Publique.pdf",
+          "url": "https://www.ville.vaudreuil-dorion.qc.ca/uploads/sections/Services/Routes_egouts_aqueduc/Alimentation_eau_egouts/Bilans_annuels/2025_Bilan_annuel_Vaudreuil_Publique.pdf",
+          "exceedances": 3,
+          "thm": "Moyenne annuelle non publiée",
+          "providerNote": "Le tableau dénombre deux occasions pour les coliformes totaux et une pour le plomb, tout en cochant « Aucun dépassement de norme » dans les sections explicatives. Les valeurs et les mesures détaillées du bilan sont conservées telles que publiées.",
+          "rows": [
+            {
+              "parameter": "Coliformes totaux",
+              "minimum": "468",
+              "analyzed": "513",
+              "exceedances": 2,
+              "note": "66 UFC/100 mL le 28 avril; bactéries atypiques > 200 UFC/100 mL le 25 novembre"
+            },
+            {
+              "parameter": "Coliformes fécaux / E. coli",
+              "minimum": "468",
+              "analyzed": "514",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Plomb",
+              "minimum": "20",
+              "analyzed": "21",
+              "exceedances": 1,
+              "note": "Norme : 0,005 mg/L"
+            },
+            {
+              "parameter": "Cuivre",
+              "minimum": "20",
+              "analyzed": "19",
+              "exceedances": 0,
+              "note": "19 analyses pour un minimum indiqué de 20"
+            },
+            {
+              "parameter": "Turbidité",
+              "minimum": "12",
+              "analyzed": "12",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Trihalométhanes totaux",
+              "minimum": "16",
+              "analyzed": "16",
+              "exceedances": 0,
+              "note": "Norme annuelle : 80 µg/L; moyenne non indiquée"
+            }
+          ],
+          "events": [
+            {
+              "date": "28 avril 2025",
+              "parameter": "Coliformes totaux",
+              "place": "22, rue des Pommiers",
+              "standard": "< 10 UFC/100 mL",
+              "result": "66 UFC/100 mL",
+              "action": "Avis d’ébullition, vérification des registres d’exploitation et prélèvements de retour à la conformité."
+            },
+            {
+              "date": "25 novembre 2025",
+              "parameter": "Bactéries atypiques (coliformes totaux)",
+              "place": "3501, rue Jean-Lesage",
+              "standard": "< 200 UFC/100 mL",
+              "result": "> 200 UFC/100 mL",
+              "action": "Vérification des registres d’exploitation et prélèvements de retour à la conformité."
+            },
+            {
+              "date": "21 juillet 2025",
+              "parameter": "Plomb",
+              "place": "11, rue Sainte-Madeleine",
+              "standard": "0,005 mg/L",
+              "result": "0,007 mg/L",
+              "action": "Lettre de sensibilisation; reprise conforme à 0,001 mg/L. Investigation par hydroexcavation prévue au printemps 2026."
+            }
+          ]
+        },
+        {
+          "id": "vaudreuil-rouge-2025",
+          "network": "Secteur Rouge (Dorion)",
+          "year": "2025",
+          "installation": "X0010756",
+          "population": "5 018",
+          "period": "1er janv. – 31 déc. 2025",
+          "publication": "28 janv. 2026",
+          "responsible": "Ville de Vaudreuil-Dorion",
+          "file": "2025_Bilan_annuel_Dorion_Publique.pdf",
+          "url": "https://www.ville.vaudreuil-dorion.qc.ca/uploads/sections/Services/Routes_egouts_aqueduc/Alimentation_eau_egouts/Bilans_annuels/2025_Bilan_annuel_Dorion_Publique.pdf",
+          "exceedances": 2,
+          "thm": "Moyenne annuelle non publiée",
+          "providerNote": "Le bilan compte deux dépassements de plomb. Le second résultat est publié à 0,005 mg/L, soit la valeur de la norme affichée; ce décompte est conservé sans réinterprétation.",
+          "rows": [
+            {
+              "parameter": "Coliformes totaux",
+              "minimum": "96",
+              "analyzed": "96",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Coliformes fécaux / E. coli",
+              "minimum": "96",
+              "analyzed": "96",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Plomb",
+              "minimum": "10",
+              "analyzed": "11",
+              "exceedances": 2,
+              "note": "Deux occasions comptées par la Ville; norme affichée : 0,005 mg/L"
+            },
+            {
+              "parameter": "Cuivre",
+              "minimum": "10",
+              "analyzed": "10",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Turbidité",
+              "minimum": "12",
+              "analyzed": "12",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Trihalométhanes totaux",
+              "minimum": "4",
+              "analyzed": "4",
+              "exceedances": 0,
+              "note": "Moyenne annuelle non indiquée"
+            }
+          ],
+          "events": [
+            {
+              "date": "23 juillet 2025",
+              "parameter": "Plomb",
+              "place": "216, rue Galt",
+              "standard": "0,005 mg/L",
+              "result": "0,008 mg/L",
+              "action": "Lettre de sensibilisation; reprise conforme à 0,001 mg/L. Investigation prévue au printemps 2026."
+            },
+            {
+              "date": "7 août 2025",
+              "parameter": "Plomb",
+              "place": "216, rue Galt",
+              "standard": "0,005 mg/L",
+              "result": "0,005 mg/L (moyenne de quatre prélèvements)",
+              "action": "Résultat compté comme dépassement dans le bilan municipal; suivi de l’adresse maintenu."
+            }
+          ]
+        },
+        {
+          "id": "vaudreuil-harwood-2025",
+          "network": "Secteur Harwood",
+          "year": "2025",
+          "installation": "X0010759",
+          "population": "379",
+          "period": "1er janv. – 31 déc. 2025",
+          "publication": "28 janv. 2026",
+          "responsible": "Ville de Vaudreuil-Dorion",
+          "file": "2025_Bilan_annuel_Harwood_Publique.pdf",
+          "url": "https://www.ville.vaudreuil-dorion.qc.ca/uploads/sections/Services/Routes_egouts_aqueduc/Alimentation_eau_egouts/Bilans_annuels/2025_Bilan_annuel_Harwood_Publique.pdf",
+          "exceedances": 0,
+          "thm": "Moyenne annuelle non publiée",
+          "providerNote": "Le bilan indique que les analyses de substances prévues à l’annexe 2 en juillet 2025 n’ont pas été réalisées. Aucun dépassement n’est déclaré dans les paramètres affichés ici.",
+          "rows": [
+            {
+              "parameter": "Coliformes totaux",
+              "minimum": "24",
+              "analyzed": "25",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Coliformes fécaux / E. coli",
+              "minimum": "24",
+              "analyzed": "25",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Plomb",
+              "minimum": "2",
+              "analyzed": "2",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Cuivre",
+              "minimum": "2",
+              "analyzed": "2",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Turbidité",
+              "minimum": "12",
+              "analyzed": "12",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Trihalométhanes totaux",
+              "minimum": "4",
+              "analyzed": "4",
+              "exceedances": 0,
+              "note": "Moyenne annuelle non indiquée"
+            }
+          ],
+          "events": []
+        },
+        {
+          "id": "vaudreuil-haute-rive-2025",
+          "network": "Secteur Haute-Rive / Summerlea",
+          "year": "2025",
+          "installation": "X2047013",
+          "population": "90",
+          "period": "1er janv. – 31 déc. 2025",
+          "publication": "28 janv. 2026",
+          "responsible": "Ville de Vaudreuil-Dorion",
+          "file": "2025_Bilan_annuel_Haute-rive_Summerlea_Publique.pdf",
+          "url": "https://www.ville.vaudreuil-dorion.qc.ca/uploads/sections/Services/Routes_egouts_aqueduc/Alimentation_eau_egouts/Bilans_annuels/2025_Bilan_annuel_Haute-rive_Summerlea_Publique.pdf",
+          "exceedances": 0,
+          "thm": "Moyenne annuelle non publiée",
+          "providerNote": "Réseau alimenté par la municipalité de Pointe-des-Cascades.",
+          "rows": [
+            {
+              "parameter": "Coliformes totaux",
+              "minimum": "24",
+              "analyzed": "25",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Coliformes fécaux / E. coli",
+              "minimum": "24",
+              "analyzed": "25",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Plomb",
+              "minimum": "2",
+              "analyzed": "2",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Cuivre",
+              "minimum": "2",
+              "analyzed": "2",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Turbidité",
+              "minimum": "12",
+              "analyzed": "12",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Trihalométhanes totaux",
+              "minimum": "4",
+              "analyzed": "4",
+              "exceedances": 0,
+              "note": "Moyenne annuelle non indiquée"
+            }
+          ],
+          "events": []
+        },
+        {
+          "id": "vaudreuil-murphy-2025",
+          "network": "Secteur Murphy",
+          "year": "2025",
+          "installation": "X2047014",
+          "population": "20",
+          "period": "1er janv. – 31 déc. 2025",
+          "publication": "28 janv. 2026",
+          "responsible": "Ville de Vaudreuil-Dorion",
+          "file": "2025_Bilan_annuel_Murphy_Publique.pdf",
+          "url": "https://www.ville.vaudreuil-dorion.qc.ca/uploads/sections/Services/Routes_egouts_aqueduc/Alimentation_eau_egouts/Bilans_annuels/2025_Bilan_annuel_Murphy_Publique.pdf",
+          "exceedances": 0,
+          "thm": "Moyenne annuelle non publiée",
+          "providerNote": "Réseau alimenté par la Ville de Hudson.",
+          "rows": [
+            {
+              "parameter": "Coliformes totaux",
+              "minimum": "24",
+              "analyzed": "24",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Coliformes fécaux / E. coli",
+              "minimum": "24",
+              "analyzed": "24",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Plomb",
+              "minimum": "2",
+              "analyzed": "2",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Cuivre",
+              "minimum": "2",
+              "analyzed": "2",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Turbidité",
+              "minimum": "12",
+              "analyzed": "12",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Trihalométhanes totaux",
+              "minimum": "4",
+              "analyzed": "4",
+              "exceedances": 0,
+              "note": "Moyenne annuelle non indiquée"
+            }
+          ],
+          "events": []
+        }
+      ],
+      "systems": [
+        {
+          "distribution": "X0010755",
+          "name": "Secteur Bleu (Vaudreuil)",
+          "source": "Lac des Deux Montagnes",
+          "sourceReport": "vaudreuil-bleu-2025"
+        },
+        {
+          "distribution": "X0010756",
+          "name": "Secteur Rouge (Dorion)",
+          "source": "Sept puits souterrains",
+          "sourceReport": "vaudreuil-rouge-2025"
+        },
+        {
+          "distribution": "X0010759",
+          "name": "Secteur Harwood",
+          "sourceReport": "vaudreuil-harwood-2025"
+        },
+        {
+          "distribution": "X2047013",
+          "name": "Haute-Rive / Summerlea",
+          "supplier": "Municipalité de Pointe-des-Cascades",
+          "sourceReport": "vaudreuil-haute-rive-2025"
+        },
+        {
+          "distribution": "X2047014",
+          "name": "Murphy",
+          "supplier": "Ville de Hudson",
+          "sourceReport": "vaudreuil-murphy-2025"
+        }
+      ]
+    },
+    {
+      "id": "sorel-tracy",
+      "name": "Sorel-Tracy",
+      "region": "Montérégie",
+      "map": {
+        "x": 300.3,
+        "y": 490.2
+      },
+      "reports": [
+        {
+          "id": "sorel-tracy-sorel-2025",
+          "network": "Secteur Sorel",
+          "year": "2025",
+          "installation": "X0010713",
+          "population": "23 021",
+          "period": "1er janv. – 31 déc. 2025",
+          "publication": "9 févr. 2026",
+          "responsible": "Ville de Sorel-Tracy",
+          "file": "Bilan-annuel_2025_secteur_Sorel.pdf",
+          "url": "https://www.ville.sorel-tracy.qc.ca/storage/app/media/services/environnement/traitement-eau/Bilan-annuel_2025_secteur_Sorel.pdf",
+          "exceedances": 0,
+          "thm": "Moyenne annuelle non publiée",
+          "providerNote": "",
+          "rows": [
+            {
+              "parameter": "Coliformes totaux",
+              "minimum": "324",
+              "analyzed": "329",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Coliformes fécaux / E. coli",
+              "minimum": "324",
+              "analyzed": "329",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Plomb",
+              "minimum": "20",
+              "analyzed": "20",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Cuivre",
+              "minimum": "20",
+              "analyzed": "20",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Turbidité",
+              "minimum": "12",
+              "analyzed": "12",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Trihalométhanes totaux",
+              "minimum": "16",
+              "analyzed": "16",
+              "exceedances": 0,
+              "note": "Moyenne annuelle non indiquée"
+            }
+          ],
+          "events": []
+        },
+        {
+          "id": "sorel-tracy-tracy-2025",
+          "network": "Secteur Tracy",
+          "year": "2025",
+          "installation": "X0010714",
+          "population": "13 365",
+          "period": "1er janv. – 31 déc. 2025",
+          "publication": "9 févr. 2026",
+          "responsible": "Ville de Sorel-Tracy",
+          "file": "Bilan-annuel_2025_secteur_Tracy.pdf",
+          "url": "https://www.ville.sorel-tracy.qc.ca/storage/app/media/services/environnement/traitement-eau/Bilan-annuel_2025_secteur_Tracy.pdf",
+          "exceedances": 1,
+          "thm": "Moyenne annuelle non publiée",
+          "providerNote": "Un résultat de plomb a dépassé 0,005 mg/L. Le propriétaire a été informé des mesures de rinçage et du remplacement recommandé de la conduite.",
+          "rows": [
+            {
+              "parameter": "Coliformes totaux",
+              "minimum": "208",
+              "analyzed": "212",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Coliformes fécaux / E. coli",
+              "minimum": "208",
+              "analyzed": "212",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Plomb",
+              "minimum": "20",
+              "analyzed": "20",
+              "exceedances": 1,
+              "note": "Norme : 0,005 mg/L"
+            },
+            {
+              "parameter": "Cuivre",
+              "minimum": "20",
+              "analyzed": "20",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Turbidité",
+              "minimum": "12",
+              "analyzed": "12",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Trihalométhanes totaux",
+              "minimum": "16",
+              "analyzed": "16",
+              "exceedances": 0,
+              "note": "Moyenne annuelle non indiquée"
+            }
+          ],
+          "events": [
+            {
+              "date": "24 juillet 2025",
+              "parameter": "Plomb",
+              "place": "1222, rue Rivard",
+              "standard": "0,005 mg/L",
+              "result": "0,029 mg/L",
+              "action": "Le propriétaire a été avisé de laisser couler l’eau au moins dix minutes et de remplacer la conduite d’alimentation."
+            }
+          ]
+        }
+      ],
+      "systems": [
+        {
+          "distribution": "X0010713",
+          "name": "Secteur Sorel",
+          "sourceReport": "sorel-tracy-sorel-2025"
+        },
+        {
+          "distribution": "X0010714",
+          "name": "Secteur Tracy",
+          "supplier": "Régie intermunicipale d’aqueduc Richelieu–Yamaska",
+          "sourceReport": "sorel-tracy-tracy-2025"
+        }
+      ]
+    },
+    {
+      "id": "sainte-julie",
+      "name": "Sainte-Julie",
+      "region": "Montérégie",
+      "map": {
+        "x": 299.2,
+        "y": 505.3
+      },
+      "reports": [
+        {
+          "id": "sainte-julie-2025",
+          "network": "Réseau de distribution de Sainte-Julie",
+          "year": "2025",
+          "installation": "X0008586",
+          "population": "30 917",
+          "period": "1er janv. – 31 déc. 2025",
+          "publication": "26 mars 2026",
+          "responsible": "Ville de Sainte-Julie",
+          "file": "bilan-annuel_2025_md.pdf",
+          "url": "https://saintejulie.ca/uploads/html_content/Environnement/RIEP/bilan-annuel_2025_md.pdf",
+          "exceedances": 0,
+          "thm": "28,3 µg/L",
+          "providerNote": "Aucun dépassement analytique. Le bilan recense trois avis préventifs d’ébullition liés à des interventions ponctuelles; les prélèvements de contrôle ont confirmé l’absence de coliformes totaux et d’E. coli.",
+          "rows": [
+            {
+              "parameter": "Coliformes totaux",
+              "minimum": "360",
+              "analyzed": "423",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Coliformes fécaux / E. coli",
+              "minimum": "360",
+              "analyzed": "422",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Plomb",
+              "minimum": "20",
+              "analyzed": "20",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Cuivre",
+              "minimum": "20",
+              "analyzed": "20",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Turbidité",
+              "minimum": "12",
+              "analyzed": "12",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Trihalométhanes totaux",
+              "minimum": "16",
+              "analyzed": "16",
+              "exceedances": 0,
+              "note": "Moy. 28,3 µg/L · norme annuelle 80 µg/L"
+            }
+          ],
+          "events": []
+        }
+      ],
+      "systems": [
+        {
+          "distribution": "X0008586",
+          "name": "Sainte-Julie",
+          "production": "X2151670",
+          "supplier": "Régie intermunicipale de l’eau potable Varennes, Sainte-Julie et Saint-Amable",
+          "sourceReport": "sainte-julie-2025"
+        }
+      ]
+    },
+    {
+      "id": "saint-georges",
+      "name": "Saint-Georges",
+      "region": "Chaudière-Appalaches",
+      "map": {
+        "x": 363.5,
+        "y": 508.4
+      },
+      "reports": [
+        {
+          "id": "saint-georges-2025",
+          "network": "Réseau de distribution de Saint-Georges",
+          "year": "2025",
+          "installation": "X0010685",
+          "population": "29 920",
+          "period": "1er janv. – 31 déc. 2025",
+          "publication": "5 févr. 2026",
+          "responsible": "Ville de Saint-Georges",
+          "file": "RQEP-art-53.3-bilan-annuel-saint-georges-2025.pdf",
+          "url": "https://www.saint-georges.ca/storage/app/media/services/environnement/eau-potable-et-eaux-usees/RQEP-art-53.3-bilan-annuel-saint-georges-2025.pdf",
+          "exceedances": 0,
+          "thm": "39,38 µg/L",
+          "providerNote": "Aucun dépassement déclaré dans le bilan annuel.",
+          "rows": [
+            {
+              "parameter": "Coliformes totaux",
+              "minimum": "360",
+              "analyzed": "384",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Coliformes fécaux / E. coli",
+              "minimum": "360",
+              "analyzed": "384",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Plomb",
+              "minimum": "20",
+              "analyzed": "21",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Cuivre",
+              "minimum": "20",
+              "analyzed": "21",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Turbidité",
+              "minimum": "12",
+              "analyzed": "12",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Trihalométhanes totaux",
+              "minimum": "16",
+              "analyzed": "24",
+              "exceedances": 0,
+              "note": "Moy. 39,38 µg/L · norme annuelle 80 µg/L"
+            }
+          ],
+          "events": []
+        }
+      ],
+      "systems": [
+        {
+          "distribution": "X0010685",
+          "name": "Saint-Georges",
+          "source": "Rivière Chaudière",
+          "treatment": "Usine de traitement de l’eau potable",
+          "sourceReport": "saint-georges-2025"
+        }
+      ]
+    },
+    {
+      "id": "mont-tremblant",
+      "name": "Mont-Tremblant",
+      "region": "Laurentides",
+      "map": {
+        "x": 260.6,
+        "y": 474.6
+      },
+      "reports": [
+        {
+          "id": "mont-tremblant-riviere-la-diable-2025",
+          "network": "Rivière La Diable / Saint-Jovite",
+          "year": "2025",
+          "installation": "X0008870",
+          "population": "5 867",
+          "period": "1er janv. – 31 déc. 2025",
+          "publication": "31 mars 2026",
+          "responsible": "Ville de Mont-Tremblant",
+          "file": "bilan-annuel-st-jovite-2025.pdf",
+          "url": "https://vdmt.ca/storage/app/media/services/propriete-et-animaux/aqueduc-et-egouts/bilan-eau-potable/2025/bilan-annuel-st-jovite-2025.pdf",
+          "exceedances": 0,
+          "thm": "Moyenne annuelle non publiée",
+          "providerNote": "Aucun dépassement déclaré dans le bilan annuel.",
+          "rows": [
+            {
+              "parameter": "Coliformes totaux",
+              "minimum": "96",
+              "analyzed": "103",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Coliformes fécaux / E. coli",
+              "minimum": "96",
+              "analyzed": "103",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Plomb",
+              "minimum": "10",
+              "analyzed": "10",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Cuivre",
+              "minimum": "10",
+              "analyzed": "10",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Turbidité",
+              "minimum": "12",
+              "analyzed": "12",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Trihalométhanes totaux",
+              "minimum": "16",
+              "analyzed": "16",
+              "exceedances": 0,
+              "note": "Moyenne annuelle non indiquée"
+            }
+          ],
+          "events": []
+        },
+        {
+          "id": "mont-tremblant-lac-tremblant-2025",
+          "network": "Lac Tremblant",
+          "year": "2025",
+          "installation": "X0008872",
+          "population": "3 471",
+          "period": "1er janv. – 31 déc. 2025",
+          "publication": "31 mars 2026",
+          "responsible": "Ville de Mont-Tremblant",
+          "file": "bilan-annuel-lac-tremblant-2025.pdf",
+          "url": "https://vdmt.ca/storage/app/media/services/propriete-et-animaux/aqueduc-et-egouts/bilan-eau-potable/2025/bilan-annuel-lac-tremblant-2025.pdf",
+          "exceedances": 1,
+          "thm": "Moyenne annuelle non publiée",
+          "providerNote": "Un résultat de plomb a dépassé 0,005 mg/L. La Ville indique avoir communiqué avec le Ministère et préparé un plan d’action.",
+          "rows": [
+            {
+              "parameter": "Coliformes totaux",
+              "minimum": "96",
+              "analyzed": "99",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Coliformes fécaux / E. coli",
+              "minimum": "96",
+              "analyzed": "99",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Plomb",
+              "minimum": "5",
+              "analyzed": "5",
+              "exceedances": 1,
+              "note": "Norme : 0,005 mg/L"
+            },
+            {
+              "parameter": "Cuivre",
+              "minimum": "5",
+              "analyzed": "5",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Turbidité",
+              "minimum": "12",
+              "analyzed": "12",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Trihalométhanes totaux",
+              "minimum": "4",
+              "analyzed": "4",
+              "exceedances": 0,
+              "note": "Moyenne annuelle non indiquée"
+            }
+          ],
+          "events": [
+            {
+              "date": "29 juillet 2025",
+              "parameter": "Plomb",
+              "place": "1885, chemin du Village",
+              "standard": "0,005 mg/L",
+              "result": "0,0127 mg/L",
+              "action": "Communication avec le Ministère et préparation d’un plan d’action par la Ville."
+            }
+          ]
+        },
+        {
+          "id": "mont-tremblant-mont-du-daim-2025",
+          "network": "Mont du Daim",
+          "year": "2025",
+          "installation": "X0011418",
+          "population": "49",
+          "period": "1er janv. – 31 déc. 2025",
+          "publication": "31 mars 2026",
+          "responsible": "Ville de Mont-Tremblant",
+          "file": "bilan-annuel-Mont-Daim-2025.pdf",
+          "url": "https://vdmt.ca/storage/app/media/services/propriete-et-animaux/aqueduc-et-egouts/bilan-eau-potable/2025/bilan-annuel-Mont-Daim-2025.pdf",
+          "exceedances": 0,
+          "thm": "Non publié",
+          "providerNote": "La Ville a pris en charge ce petit réseau par ordonnance du MELCCFP en 2025. Un prélèvement microbiologique de mars n’a pas été réalisé; une seule des deux campagnes plomb/cuivre, neuf des douze turbidités et deux des quatre analyses de nitrates prévues sont indiquées. Aucun dépassement analytique n’est déclaré.",
+          "rows": [
+            {
+              "parameter": "Coliformes totaux",
+              "minimum": "24",
+              "analyzed": "23",
+              "exceedances": 0,
+              "note": "Un prélèvement mensuel manquant en mars"
+            },
+            {
+              "parameter": "Coliformes fécaux / E. coli",
+              "minimum": "24",
+              "analyzed": "23",
+              "exceedances": 0,
+              "note": "Un prélèvement mensuel manquant en mars"
+            },
+            {
+              "parameter": "Plomb",
+              "minimum": "2",
+              "analyzed": "1",
+              "exceedances": 0,
+              "note": "1 analyse sur 2 indiquées"
+            },
+            {
+              "parameter": "Cuivre",
+              "minimum": "2",
+              "analyzed": "1",
+              "exceedances": 0,
+              "note": "1 analyse sur 2 indiquées"
+            },
+            {
+              "parameter": "Turbidité",
+              "minimum": "12",
+              "analyzed": "9",
+              "exceedances": 0,
+              "note": "9 analyses sur 12"
+            },
+            {
+              "parameter": "Trihalométhanes totaux",
+              "minimum": "Non publié",
+              "analyzed": "Non publié",
+              "exceedances": 0,
+              "note": "Section non publiée dans le bilan"
+            }
+          ],
+          "events": []
+        }
+      ],
+      "systems": [
+        {
+          "distribution": "X0008870",
+          "name": "Rivière La Diable / Saint-Jovite",
+          "source": "Rivière La Diable",
+          "sourceReport": "mont-tremblant-riviere-la-diable-2025"
+        },
+        {
+          "distribution": "X0008872",
+          "name": "Lac Tremblant",
+          "source": "Lac Tremblant",
+          "sourceReport": "mont-tremblant-lac-tremblant-2025"
+        },
+        {
+          "distribution": "X0011418",
+          "name": "Mont du Daim",
+          "sourceReport": "mont-tremblant-mont-du-daim-2025"
+        }
+      ]
+    },
+    {
+      "id": "alma",
+      "name": "Alma",
+      "region": "Saguenay–Lac-Saint-Jean",
+      "map": {
+        "x": 312.8,
+        "y": 410
+      },
+      "reports": [
+        {
+          "id": "alma-2024",
+          "network": "Usine de filtration d’Alma",
+          "year": "2024",
+          "installation": "151978820701",
+          "population": "30 831",
+          "period": "1er janv. – 31 déc. 2024",
+          "publication": "31 mars 2025",
+          "responsible": "Ville d’Alma",
+          "file": "Bilan-eau-potable-2024.pdf",
+          "url": "https://www.ville.alma.qc.ca/wp-content/uploads/2025/03/Bilan-eau-potable-2024.pdf",
+          "exceedances": 2,
+          "thm": "Moyenne annuelle non publiée",
+          "providerNote": "Le bilan 2024 est le plus récent document public repéré. Il compte une occasion pour E. coli et une mesure individuelle de THM au-dessus de 80 µg/L; pour les THM, le rapport précise que la norme annuelle demeure respectée.",
+          "rows": [
+            {
+              "parameter": "Coliformes totaux",
+              "minimum": "384",
+              "analyzed": "409",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Coliformes fécaux / E. coli",
+              "minimum": "384",
+              "analyzed": "409",
+              "exceedances": 1,
+              "note": "1 résultat positif; retour à la conformité après avis d’ébullition"
+            },
+            {
+              "parameter": "Plomb",
+              "minimum": "20",
+              "analyzed": "20",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Cuivre",
+              "minimum": "20",
+              "analyzed": "20",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Turbidité",
+              "minimum": "12",
+              "analyzed": "12",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Trihalométhanes totaux",
+              "minimum": "16",
+              "analyzed": "16",
+              "exceedances": 1,
+              "note": "1 valeur individuelle à 92,6 µg/L; norme annuelle indiquée comme respectée"
+            }
+          ],
+          "events": [
+            {
+              "date": "31 juillet 2024",
+              "parameter": "E. coli",
+              "place": "Station des Agates",
+              "standard": "Absence",
+              "result": "1 UFC/100 mL",
+              "action": "Avis d’ébullition, augmentation de la chloration et campagne d’échantillonnage; retour à la normale confirmé."
+            },
+            {
+              "date": "21 février 2024",
+              "parameter": "Trihalométhanes totaux",
+              "place": "Centre communautaire",
+              "standard": "80 µg/L (moyenne annuelle)",
+              "result": "92,6 µg/L (valeur individuelle)",
+              "action": "Aucune mesure corrective indiquée, puisque le bilan précise que la norme annuelle était respectée."
+            }
+          ]
+        }
+      ],
+      "systems": [
+        {
+          "distribution": "151978820701",
+          "name": "Usine de filtration d’Alma",
+          "sourceReport": "alma-2024"
+        }
+      ]
+    },
+    {
+      "id": "magog",
+      "name": "Magog",
+      "region": "Estrie",
+      "map": {
+        "x": 333.5,
+        "y": 527.2
+      },
+      "reports": [
+        {
+          "id": "magog-2024",
+          "network": "Usine d’eau potable de Magog",
+          "year": "2024",
+          "installation": "X000895",
+          "population": "30 825",
+          "period": "1er janv. – 31 déc. 2024",
+          "publication": "16 janv. 2025",
+          "responsible": "Ville de Magog",
+          "file": "2024-Bilan-annuel-eau-potable-Magog.pdf",
+          "url": "https://www.ville.magog.qc.ca/wp-content/uploads/2025/01/2024-Bilan-annuel-eau-potable-Magog.pdf",
+          "exceedances": 1,
+          "thm": "Moyenne annuelle non publiée",
+          "providerNote": "Le bilan 2024 est le plus récent document public repéré. Le tableau compte une occasion pour le cuivre, mais la case « Aucun dépassement de norme » est cochée et aucun événement détaillé n’est fourni; le décompte du tableau est conservé.",
+          "rows": [
+            {
+              "parameter": "Coliformes totaux",
+              "minimum": "372",
+              "analyzed": "372",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Coliformes fécaux / E. coli",
+              "minimum": "372",
+              "analyzed": "372",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Plomb",
+              "minimum": "20",
+              "analyzed": "20",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Cuivre",
+              "minimum": "20",
+              "analyzed": "20",
+              "exceedances": 1,
+              "note": "1 occasion comptée dans le tableau; aucun détail publié"
+            },
+            {
+              "parameter": "Turbidité",
+              "minimum": "12",
+              "analyzed": "12",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Trihalométhanes totaux",
+              "minimum": "12",
+              "analyzed": "12",
+              "exceedances": 0,
+              "note": "Moyenne annuelle non indiquée"
+            }
+          ],
+          "events": []
+        }
+      ],
+      "systems": [
+        {
+          "distribution": "X000895",
+          "name": "Usine d’eau potable de Magog",
+          "sourceReport": "magog-2024"
+        }
+      ]
+    },
+    {
+      "id": "val-dor",
+      "name": "Val-d’Or",
+      "region": "Abitibi-Témiscamingue",
+      "map": {
+        "x": 156.3,
+        "y": 373.5
+      },
+      "reports": [
+        {
+          "id": "val-dor-principal-2025",
+          "network": "Val-d’Or",
+          "year": "2025",
+          "installation": "X0008256",
+          "population": "27 797",
+          "period": "1er janv. – 31 déc. 2025",
+          "publication": "2026",
+          "responsible": "Ville de Val-d’Or",
+          "file": "VAL-D_OR_2025.pdf",
+          "url": "https://www.ville.valdor.qc.ca/uploads/2_Services%20aux%20citoyens/Municipaux/Eau_potable/Documents/VAL-D_OR_2025.pdf",
+          "exceedances": 1,
+          "thm": "Non applicable (réseau non chloré)",
+          "providerNote": "Le document est identifié comme le bilan 2025, mais le libellé d’en-tête du modèle mentionne encore 2023; les dates de prélèvement et le fichier publié correspondent bien à 2025. Un résultat de cuivre a dépassé 1 mg/L. La page municipale sur les PFAS indique une eau potable conforme à la recommandation actuelle de Santé Canada, mais légèrement au-dessus d’un objectif futur proposé; le puits auxiliaire concerné a été arrêté et le puits principal alimente le réseau.",
+          "rows": [
+            {
+              "parameter": "Coliformes totaux",
+              "minimum": "324",
+              "analyzed": "388",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Coliformes fécaux / E. coli",
+              "minimum": "324",
+              "analyzed": "388",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Plomb",
+              "minimum": "20",
+              "analyzed": "20",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Cuivre",
+              "minimum": "20",
+              "analyzed": "20",
+              "exceedances": 1,
+              "note": "Norme : 1 mg/L"
+            },
+            {
+              "parameter": "Turbidité",
+              "minimum": "12",
+              "analyzed": "12",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Trihalométhanes totaux",
+              "minimum": "Non applicable",
+              "analyzed": "Non applicable",
+              "exceedances": 0,
+              "note": "Réseau non chloré"
+            }
+          ],
+          "events": [
+            {
+              "date": "9 juillet 2025",
+              "parameter": "Cuivre",
+              "place": "970, rue Lévis",
+              "standard": "1 mg/L",
+              "result": "1,132 mg/L",
+              "action": "Vérification de la situation et rinçage indiqués dans le bilan."
+            }
+          ]
+        },
+        {
+          "id": "val-dor-dubuisson-2025",
+          "network": "Dubuisson",
+          "year": "2025",
+          "installation": "X2057599",
+          "population": "Jusqu’à 250",
+          "period": "1er janv. – 31 déc. 2025",
+          "publication": "2026",
+          "responsible": "Ville de Val-d’Or",
+          "file": "DUBUISSON_2025.pdf",
+          "url": "https://www.ville.valdor.qc.ca/uploads/2_Services%20aux%20citoyens/Municipaux/Eau_potable/Documents/DUBUISSON_2025.pdf",
+          "exceedances": 0,
+          "thm": "Non applicable (réseau non chloré)",
+          "providerNote": "Le document est identifié comme le bilan 2025, mais le libellé d’en-tête du modèle mentionne encore 2023; les dates de prélèvement et le fichier publié correspondent bien à 2025. Aucun dépassement déclaré.",
+          "rows": [
+            {
+              "parameter": "Coliformes totaux",
+              "minimum": "24",
+              "analyzed": "25",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Coliformes fécaux / E. coli",
+              "minimum": "24",
+              "analyzed": "25",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Plomb",
+              "minimum": "2",
+              "analyzed": "2",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Cuivre",
+              "minimum": "2",
+              "analyzed": "2",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Turbidité",
+              "minimum": "12",
+              "analyzed": "12",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Trihalométhanes totaux",
+              "minimum": "Non applicable",
+              "analyzed": "Non applicable",
+              "exceedances": 0,
+              "note": "Réseau non chloré"
+            }
+          ],
+          "events": []
+        },
+        {
+          "id": "val-dor-vassan-2025",
+          "network": "Vassan",
+          "year": "2025",
+          "installation": "X0011486",
+          "population": "42",
+          "period": "1er janv. – 31 déc. 2025",
+          "publication": "2026",
+          "responsible": "Ville de Val-d’Or",
+          "file": "VASSAN_2025.pdf",
+          "url": "https://www.ville.valdor.qc.ca/uploads/2_Services%20aux%20citoyens/Municipaux/Eau_potable/Documents/VASSAN_2025.pdf",
+          "exceedances": 2,
+          "thm": "7,48 µg/L",
+          "providerNote": "Le document est identifié comme le bilan 2025, mais le libellé d’en-tête du modèle mentionne encore 2023; les dates de prélèvement et le fichier publié correspondent bien à 2025. Le tableau compte deux occasions pour les coliformes totaux, tandis que la case « Aucun dépassement » est cochée. Les deux événements détaillés sont conservés.",
+          "rows": [
+            {
+              "parameter": "Coliformes totaux",
+              "minimum": "24",
+              "analyzed": "56",
+              "exceedances": 2,
+              "note": "Deux résultats de bactéries atypiques > 200 UFC/100 mL"
+            },
+            {
+              "parameter": "Coliformes fécaux / E. coli",
+              "minimum": "24",
+              "analyzed": "56",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Plomb",
+              "minimum": "2",
+              "analyzed": "2",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Cuivre",
+              "minimum": "2",
+              "analyzed": "2",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Turbidité",
+              "minimum": "12",
+              "analyzed": "12",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Trihalométhanes totaux",
+              "minimum": "4",
+              "analyzed": "4",
+              "exceedances": 0,
+              "note": "Moy. 7,48 µg/L · norme annuelle 80 µg/L"
+            }
+          ],
+          "events": [
+            {
+              "date": "28 octobre 2025",
+              "parameter": "Bactéries atypiques (coliformes totaux)",
+              "place": "Centre communautaire de Vassan",
+              "standard": "< 200 UFC/100 mL",
+              "result": "> 200 UFC/100 mL",
+              "action": "Rinçage du réseau et prélèvements de contrôle."
+            },
+            {
+              "date": "3 novembre 2025",
+              "parameter": "Bactéries atypiques (coliformes totaux)",
+              "place": "Centre communautaire de Vassan",
+              "standard": "< 200 UFC/100 mL",
+              "result": "> 200 UFC/100 mL",
+              "action": "Rinçage du réseau et prélèvements de contrôle."
+            }
+          ]
+        },
+        {
+          "id": "val-dor-val-senneville-2025",
+          "network": "Val-Senneville",
+          "year": "2025",
+          "installation": "X0009906",
+          "population": "226",
+          "period": "1er janv. – 31 déc. 2025",
+          "publication": "2026",
+          "responsible": "Ville de Val-d’Or",
+          "file": "VAL-SENNEVILLE_2025.pdf",
+          "url": "https://www.ville.valdor.qc.ca/uploads/2_Services%20aux%20citoyens/Municipaux/Eau_potable/Documents/VAL-SENNEVILLE_2025.pdf",
+          "exceedances": 0,
+          "thm": "Non applicable (réseau non chloré)",
+          "providerNote": "Le document est identifié comme le bilan 2025, mais le libellé d’en-tête du modèle mentionne encore 2023; les dates de prélèvement et le fichier publié correspondent bien à 2025. Aucun dépassement déclaré.",
+          "rows": [
+            {
+              "parameter": "Coliformes totaux",
+              "minimum": "24",
+              "analyzed": "45",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Coliformes fécaux / E. coli",
+              "minimum": "24",
+              "analyzed": "45",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Plomb",
+              "minimum": "2",
+              "analyzed": "2",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Cuivre",
+              "minimum": "2",
+              "analyzed": "2",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Turbidité",
+              "minimum": "12",
+              "analyzed": "12",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Trihalométhanes totaux",
+              "minimum": "Non applicable",
+              "analyzed": "Non applicable",
+              "exceedances": 0,
+              "note": "Réseau non chloré"
+            }
+          ],
+          "events": []
+        }
+      ],
+      "systems": [
+        {
+          "distribution": "X0008256",
+          "name": "Val-d’Or",
+          "sourceReport": "val-dor-principal-2025"
+        },
+        {
+          "distribution": "X2057599",
+          "name": "Dubuisson",
+          "sourceReport": "val-dor-dubuisson-2025"
+        },
+        {
+          "distribution": "X0011486",
+          "name": "Vassan",
+          "sourceReport": "val-dor-vassan-2025"
+        },
+        {
+          "distribution": "X0009906",
+          "name": "Val-Senneville",
+          "sourceReport": "val-dor-val-senneville-2025"
+        }
+      ]
+    },
+    {
+      "id": "sept-iles",
+      "name": "Sept-Îles",
+      "region": "Côte-Nord",
+      "map": {
+        "x": 433.8,
+        "y": 393.7
+      },
+      "reports": [
+        {
+          "id": "sept-iles-principal-2025",
+          "network": "Centrale de traitement d’eau potable de Sept-Îles",
+          "year": "2025",
+          "installation": "X0008227",
+          "population": "24 456 + 1 687 à Uashat",
+          "period": "1er janv. – 31 déc. 2025",
+          "publication": "mars 2026",
+          "responsible": "Ville de Sept-Îles",
+          "file": "2025septilesbilanannuel.pdf",
+          "url": "https://septiles.ca/CLIENTS/1-villesi/docs/upload/sys_docs/2025septilesbilanannuel.pdf",
+          "exceedances": 0,
+          "thm": "69,35 µg/L",
+          "providerNote": "Une mesure individuelle de THM à 87,8 µg/L est publiée, mais la moyenne annuelle de 69,35 µg/L demeure sous la norme de 80 µg/L. Le bilan présente aussi plusieurs valeurs individuelles d’acides haloacétiques au-dessus de 60 µg/L; le projet de conversion du chlore à la monochloramine est cité comme mesure d’amélioration.",
+          "rows": [
+            {
+              "parameter": "Coliformes totaux",
+              "minimum": "312",
+              "analyzed": "336",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Coliformes fécaux / E. coli",
+              "minimum": "312",
+              "analyzed": "336",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Plomb",
+              "minimum": "20",
+              "analyzed": "21",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Cuivre",
+              "minimum": "20",
+              "analyzed": "21",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Turbidité",
+              "minimum": "12",
+              "analyzed": "24",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Trihalométhanes totaux",
+              "minimum": "16",
+              "analyzed": "16",
+              "exceedances": 0,
+              "note": "Moy. 69,35 µg/L · une valeur individuelle à 87,8 µg/L"
+            }
+          ],
+          "events": [
+            {
+              "date": "15 octobre 2025",
+              "parameter": "Trihalométhanes totaux",
+              "place": "Plage Ferguson",
+              "standard": "80 µg/L (moyenne annuelle)",
+              "result": "87,8 µg/L (valeur individuelle)",
+              "action": "Projet de conversion du chlore à la monochloramine à la centrale de traitement."
+            }
+          ]
+        },
+        {
+          "id": "sept-iles-gallix-2025",
+          "network": "Gallix",
+          "year": "2025",
+          "installation": "X0009661",
+          "population": "616",
+          "period": "1er janv. – 31 déc. 2025",
+          "publication": "mars 2026",
+          "responsible": "Ville de Sept-Îles",
+          "file": "2025Gallixbilanannuel.pdf",
+          "url": "https://septiles.ca/CLIENTS/1-villesi/docs/upload/sys_docs/2025Gallixbilanannuel.pdf",
+          "exceedances": 1,
+          "thm": "20,8 µg/L",
+          "providerNote": "Le tableau compte une occasion pour le cuivre, mais la case « Aucun dépassement » est cochée et aucun événement détaillé n’est publié; le décompte du tableau est conservé.",
+          "rows": [
+            {
+              "parameter": "Coliformes totaux",
+              "minimum": "24",
+              "analyzed": "24",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Coliformes fécaux / E. coli",
+              "minimum": "24",
+              "analyzed": "24",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Plomb",
+              "minimum": "5",
+              "analyzed": "5",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Cuivre",
+              "minimum": "5",
+              "analyzed": "5",
+              "exceedances": 1,
+              "note": "1 occasion comptée dans le tableau; aucun détail publié"
+            },
+            {
+              "parameter": "Turbidité",
+              "minimum": "12",
+              "analyzed": "12",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Trihalométhanes totaux",
+              "minimum": "4",
+              "analyzed": "4",
+              "exceedances": 0,
+              "note": "Moy. 20,8 µg/L · norme annuelle 80 µg/L"
+            }
+          ],
+          "events": []
+        },
+        {
+          "id": "sept-iles-pigou-2025",
+          "network": "Pigou",
+          "year": "2025",
+          "installation": "X2026940",
+          "population": "20",
+          "period": "1er janv. – 31 déc. 2025",
+          "publication": "mars 2026",
+          "responsible": "Ville de Sept-Îles",
+          "file": "2025pigoubilanannuel.pdf",
+          "url": "https://septiles.ca/CLIENTS/1-villesi/docs/upload/sys_docs/2025pigoubilanannuel.pdf",
+          "exceedances": 0,
+          "thm": "Non applicable (réseau non chloré)",
+          "providerNote": "Petit réseau non chloré; les suivis plomb, cuivre, turbidité et THM sont indiqués comme non applicables dans le bilan.",
+          "rows": [
+            {
+              "parameter": "Coliformes totaux",
+              "minimum": "12",
+              "analyzed": "12",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Coliformes fécaux / E. coli",
+              "minimum": "12",
+              "analyzed": "12",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Plomb",
+              "minimum": "Non applicable",
+              "analyzed": "Non applicable",
+              "exceedances": 0,
+              "note": "Exigence non applicable"
+            },
+            {
+              "parameter": "Cuivre",
+              "minimum": "Non applicable",
+              "analyzed": "Non applicable",
+              "exceedances": 0,
+              "note": "Exigence non applicable"
+            },
+            {
+              "parameter": "Turbidité",
+              "minimum": "Non applicable",
+              "analyzed": "Non applicable",
+              "exceedances": 0,
+              "note": "Exigence non applicable"
+            },
+            {
+              "parameter": "Trihalométhanes totaux",
+              "minimum": "Non applicable",
+              "analyzed": "Non applicable",
+              "exceedances": 0,
+              "note": "Réseau non chloré"
+            }
+          ],
+          "events": []
+        },
+        {
+          "id": "sept-iles-villegiature-2025",
+          "network": "Villégiature",
+          "year": "2025",
+          "installation": "X0009909",
+          "population": "170",
+          "period": "1er janv. – 31 déc. 2025",
+          "publication": "mars 2026",
+          "responsible": "Ville de Sept-Îles",
+          "file": "2025villegiaturebilanannuel.pdf",
+          "url": "https://septiles.ca/CLIENTS/1-villesi/docs/upload/sys_docs/2025villegiaturebilanannuel.pdf",
+          "exceedances": 0,
+          "thm": "8,7 µg/L",
+          "providerNote": "Aucun dépassement déclaré dans le bilan annuel.",
+          "rows": [
+            {
+              "parameter": "Coliformes totaux",
+              "minimum": "24",
+              "analyzed": "24",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Coliformes fécaux / E. coli",
+              "minimum": "24",
+              "analyzed": "24",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Plomb",
+              "minimum": "2",
+              "analyzed": "2",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Cuivre",
+              "minimum": "2",
+              "analyzed": "3",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Turbidité",
+              "minimum": "12",
+              "analyzed": "12",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Trihalométhanes totaux",
+              "minimum": "4",
+              "analyzed": "4",
+              "exceedances": 0,
+              "note": "Moy. 8,7 µg/L · norme annuelle 80 µg/L"
+            }
+          ],
+          "events": []
+        },
+        {
+          "id": "sept-iles-place-la-boule-2025",
+          "network": "Place La Boule",
+          "year": "2025",
+          "installation": "X0009910",
+          "population": "595",
+          "period": "1er janv. – 31 déc. 2025",
+          "publication": "mars 2026",
+          "responsible": "Ville de Sept-Îles",
+          "file": "2025Laboulebilanannuel.pdf",
+          "url": "https://septiles.ca/CLIENTS/1-villesi/docs/upload/sys_docs/2025Laboulebilanannuel.pdf",
+          "exceedances": 0,
+          "thm": "0,2 µg/L",
+          "providerNote": "Aucun dépassement déclaré dans le bilan annuel.",
+          "rows": [
+            {
+              "parameter": "Coliformes totaux",
+              "minimum": "24",
+              "analyzed": "25",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Coliformes fécaux / E. coli",
+              "minimum": "24",
+              "analyzed": "25",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Plomb",
+              "minimum": "5",
+              "analyzed": "16",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Cuivre",
+              "minimum": "5",
+              "analyzed": "5",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Turbidité",
+              "minimum": "12",
+              "analyzed": "12",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Trihalométhanes totaux",
+              "minimum": "4",
+              "analyzed": "4",
+              "exceedances": 0,
+              "note": "Moy. 0,2 µg/L · norme annuelle 80 µg/L"
+            }
+          ],
+          "events": []
+        }
+      ],
+      "systems": [
+        {
+          "distribution": "X0008227",
+          "name": "Sept-Îles",
+          "source": "Lac des Rapides",
+          "sourceReport": "sept-iles-principal-2025"
+        },
+        {
+          "distribution": "X0009661",
+          "name": "Gallix",
+          "sourceReport": "sept-iles-gallix-2025"
+        },
+        {
+          "distribution": "X2026940",
+          "name": "Pigou",
+          "sourceReport": "sept-iles-pigou-2025"
+        },
+        {
+          "distribution": "X0009909",
+          "name": "Villégiature",
+          "sourceReport": "sept-iles-villegiature-2025"
+        },
+        {
+          "distribution": "X0009910",
+          "name": "Place La Boule",
+          "sourceReport": "sept-iles-place-la-boule-2025"
+        }
+      ]
+    },
+    {
+      "id": "baie-comeau",
+      "name": "Baie-Comeau",
+      "region": "Côte-Nord",
+      "map": {
+        "x": 397.7,
+        "y": 415.4
+      },
+      "reports": [
+        {
+          "id": "baie-comeau-principal-2025",
+          "network": "Usine de traitement de l’eau de Baie-Comeau",
+          "year": "2025",
+          "installation": "X0010420",
+          "population": "21 536",
+          "period": "1er janv. – 31 déc. 2025",
+          "publication": "12 janv. 2026",
+          "responsible": "Ville de Baie-Comeau",
+          "file": "UTE-2025.pdf",
+          "url": "https://www.ville.baie-comeau.qc.ca/wp-content/uploads/2026/01/UTE-2025.pdf",
+          "exceedances": 0,
+          "thm": "75,4 µg/L",
+          "providerNote": "Sept mesures individuelles de THM ont dépassé 80 µg/L en juillet et octobre. La norme réglementaire s’applique à la moyenne de quatre trimestres; la moyenne annuelle publiée est de 75,4 µg/L et aucun dépassement annuel n’est déclaré. La Ville indique avoir effectué du rinçage unidirectionnel.",
+          "rows": [
+            {
+              "parameter": "Coliformes totaux",
+              "minimum": "264",
+              "analyzed": "312",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Coliformes fécaux / E. coli",
+              "minimum": "264",
+              "analyzed": "312",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Plomb",
+              "minimum": "20",
+              "analyzed": "20",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Cuivre",
+              "minimum": "20",
+              "analyzed": "20",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Turbidité",
+              "minimum": "12",
+              "analyzed": "12",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Trihalométhanes totaux",
+              "minimum": "16",
+              "analyzed": "16",
+              "exceedances": 0,
+              "note": "Moy. 75,4 µg/L · 7 valeurs individuelles entre 85,2 et 96,3 µg/L"
+            }
+          ],
+          "events": [
+            {
+              "date": "15 juillet 2025",
+              "parameter": "Trihalométhanes totaux",
+              "place": "287, rue Rouleau",
+              "standard": "80 µg/L (moyenne annuelle)",
+              "result": "92,6 µg/L (valeur individuelle)",
+              "action": "Rinçage unidirectionnel du réseau."
+            },
+            {
+              "date": "15 juillet 2025",
+              "parameter": "Trihalométhanes totaux",
+              "place": "Secteur McCormick",
+              "standard": "80 µg/L (moyenne annuelle)",
+              "result": "94,1 µg/L (valeur individuelle)",
+              "action": "Rinçage unidirectionnel du réseau."
+            },
+            {
+              "date": "15 juillet 2025",
+              "parameter": "Trihalométhanes totaux",
+              "place": "59, avenue Maisonneuve",
+              "standard": "80 µg/L (moyenne annuelle)",
+              "result": "96,3 µg/L (valeur individuelle)",
+              "action": "Rinçage unidirectionnel du réseau."
+            },
+            {
+              "date": "21 octobre 2025",
+              "parameter": "Trihalométhanes totaux",
+              "place": "70, avenue Mance",
+              "standard": "80 µg/L (moyenne annuelle)",
+              "result": "86,2 µg/L (valeur individuelle)",
+              "action": "Rinçage unidirectionnel du réseau."
+            },
+            {
+              "date": "21 octobre 2025",
+              "parameter": "Trihalométhanes totaux",
+              "place": "287, rue Rouleau",
+              "standard": "80 µg/L (moyenne annuelle)",
+              "result": "85,2 µg/L (valeur individuelle)",
+              "action": "Rinçage unidirectionnel du réseau."
+            },
+            {
+              "date": "21 octobre 2025",
+              "parameter": "Trihalométhanes totaux",
+              "place": "Secteur McCormick",
+              "standard": "80 µg/L (moyenne annuelle)",
+              "result": "88,8 µg/L (valeur individuelle)",
+              "action": "Rinçage unidirectionnel du réseau."
+            },
+            {
+              "date": "21 octobre 2025",
+              "parameter": "Trihalométhanes totaux",
+              "place": "59, avenue Maisonneuve",
+              "standard": "80 µg/L (moyenne annuelle)",
+              "result": "93,8 µg/L (valeur individuelle)",
+              "action": "Rinçage unidirectionnel du réseau."
+            }
+          ]
+        },
+        {
+          "id": "baie-comeau-mont-tibasse-2025",
+          "network": "Mont Tibasse",
+          "year": "2025",
+          "installation": "X0010261",
+          "population": "348",
+          "period": "1er janv. – 31 déc. 2025",
+          "publication": "12 janv. 2026",
+          "responsible": "Ville de Baie-Comeau",
+          "file": "Mont-Tibasse-2025.pdf",
+          "url": "https://www.ville.baie-comeau.qc.ca/wp-content/uploads/2026/01/Mont-Tibasse-2025.pdf",
+          "exceedances": 0,
+          "thm": "Non applicable (réseau non chloré)",
+          "providerNote": "Aucun dépassement analytique. Un avis préventif d’ébullition a été émis du 19 au 22 mai lors du remplacement d’une extrémité de conduite pour l’installation d’un débitmètre.",
+          "rows": [
+            {
+              "parameter": "Coliformes totaux",
+              "minimum": "24",
+              "analyzed": "24",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Coliformes fécaux / E. coli",
+              "minimum": "24",
+              "analyzed": "24",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Plomb",
+              "minimum": "1",
+              "analyzed": "1",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Cuivre",
+              "minimum": "1",
+              "analyzed": "1",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Turbidité",
+              "minimum": "12",
+              "analyzed": "12",
+              "exceedances": 0,
+              "note": "—"
+            },
+            {
+              "parameter": "Trihalométhanes totaux",
+              "minimum": "Non applicable",
+              "analyzed": "Non applicable",
+              "exceedances": 0,
+              "note": "Réseau non chloré"
+            }
+          ],
+          "events": []
+        }
+      ],
+      "systems": [
+        {
+          "distribution": "X0010420",
+          "name": "Baie-Comeau",
+          "source": "Rivière Manicouagan",
+          "treatment": "Usine de traitement de l’eau",
+          "sourceReport": "baie-comeau-principal-2025"
+        },
+        {
+          "distribution": "X0010261",
+          "name": "Mont Tibasse",
+          "sourceReport": "baie-comeau-mont-tibasse-2025"
+        }
+      ]
     }
   ],
   "coverage": {
-    "scope": "Couronne Nord de la Communauté métropolitaine de Montréal",
-    "scopeUrl": "https://cmm.qc.ca/a-propos/territoires-et-municipalites/",
-    "auditedAt": "2026-08-01",
-    "municipalities": 20,
-    "distributionSystems": 41,
-    "detailedLatestPublicReports": 38,
+    "scope": "Québec — 50 municipalités documentées",
+    "scopeUrl": "https://www.environnement.gouv.qc.ca/eau/potable/distribution/index.asp",
+    "auditedAt": "2026-08-19",
+    "municipalities": 50,
+    "distributionSystems": 121,
+    "detailedLatestPublicReports": 118,
     "reportYears": {
       "2023": 2,
-      "2024": 1,
-      "2025": 35
+      "2024": 10,
+      "2025": 106
     },
     "directoryOnlySystems": [
       {
@@ -8024,6 +9962,7 @@
         "reason": "Aucun bilan annuel chiffré publié sur le site municipal vérifié."
       }
     ],
-    "sharedReportNote": "Le réseau X0009510 de Pointe-Calumet est représenté par le bilan de l’installation de production X2045657 partagé avec Saint-Joseph-du-Lac; ce n’est pas un bilan local distinct."
+    "sharedReportNote": "Le réseau X0009510 de Pointe-Calumet est représenté par le bilan de l’installation de production X2045657 partagé avec Saint-Joseph-du-Lac; ce n’est pas un bilan local distinct.",
+    "methodologyNote": "Chaque fiche renvoie au bilan annuel officiel de la municipalité ou du responsable du réseau. Les résultats ponctuels sont distingués des normes fondées sur une moyenne annuelle; les contradictions internes des bilans sont signalées sans réinterprétation."
   }
 }
