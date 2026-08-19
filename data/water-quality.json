@@ -253,7 +253,15 @@
           "name": "Carrefour des Fleurs",
           "sourceReport": "carrefour-2025"
         }
-      ]
+      ],
+      "location": {
+        "latitude": 45.691538,
+        "longitude": -73.634302,
+        "label": "Centre municipal",
+        "precision": "municipal-centre",
+        "source": "Base de données toponymiques du Canada (Ressources naturelles Canada)",
+        "sourceUrl": "https://geonames.nrcan.gc.ca/search-place-names/search"
+      }
     },
     {
       "id": "saint-jerome",
@@ -341,7 +349,15 @@
             }
           ]
         }
-      ]
+      ],
+      "location": {
+        "latitude": 45.775252,
+        "longitude": -74.003708,
+        "label": "Centre municipal",
+        "precision": "municipal-centre",
+        "source": "Base de données toponymiques du Canada (Ressources naturelles Canada)",
+        "sourceUrl": "https://geonames.nrcan.gc.ca/search-place-names/search"
+      }
     },
     {
       "id": "drummondville",
@@ -429,7 +445,15 @@
             }
           ]
         }
-      ]
+      ],
+      "location": {
+        "latitude": 45.880577,
+        "longitude": -72.484058,
+        "label": "Centre municipal",
+        "precision": "municipal-centre",
+        "source": "Base de données toponymiques du Canada (Ressources naturelles Canada)",
+        "sourceUrl": "https://geonames.nrcan.gc.ca/search-place-names/search"
+      }
     },
     {
       "id": "repentigny",
@@ -507,7 +531,15 @@
           "name": "Ville de Repentigny",
           "sourceReport": "repentigny-2025"
         }
-      ]
+      ],
+      "location": {
+        "latitude": 45.741966,
+        "longitude": -73.451286,
+        "label": "Centre municipal",
+        "precision": "municipal-centre",
+        "source": "Base de données toponymiques du Canada (Ressources naturelles Canada)",
+        "sourceUrl": "https://geonames.nrcan.gc.ca/search-place-names/search"
+      }
     },
     {
       "id": "brossard",
@@ -578,7 +610,15 @@
           ],
           "events": []
         }
-      ]
+      ],
+      "location": {
+        "latitude": 45.437174,
+        "longitude": -73.432218,
+        "label": "Centre municipal",
+        "precision": "municipal-centre",
+        "source": "Base de données toponymiques du Canada (Ressources naturelles Canada)",
+        "sourceUrl": "https://geonames.nrcan.gc.ca/search-place-names/search"
+      }
     },
     {
       "id": "rimouski",
@@ -690,7 +730,15 @@
             }
           ]
         }
-      ]
+      ],
+      "location": {
+        "latitude": 48.449138,
+        "longitude": -68.525096,
+        "label": "Centre municipal",
+        "precision": "municipal-centre",
+        "source": "Base de données toponymiques du Canada (Ressources naturelles Canada)",
+        "sourceUrl": "https://geonames.nrcan.gc.ca/search-place-names/search"
+      }
     },
     {
       "id": "saint-eustache",
@@ -785,7 +833,15 @@
           "name": "Usine de production d’eau potable",
           "sourceReport": "saint-eustache-2024"
         }
-      ]
+      ],
+      "location": {
+        "latitude": 45.557622,
+        "longitude": -73.888638,
+        "label": "Centre municipal",
+        "precision": "municipal-centre",
+        "source": "Base de données toponymiques du Canada (Ressources naturelles Canada)",
+        "sourceUrl": "https://geonames.nrcan.gc.ca/search-place-names/search"
+      }
     },
     {
       "id": "victoriaville",
@@ -976,7 +1032,15 @@
           ],
           "events": []
         }
-      ]
+      ],
+      "location": {
+        "latitude": 46.055183,
+        "longitude": -71.959997,
+        "label": "Centre municipal",
+        "precision": "municipal-centre",
+        "source": "Base de données toponymiques du Canada (Ressources naturelles Canada)",
+        "sourceUrl": "https://geonames.nrcan.gc.ca/search-place-names/search"
+      }
     },
     {
       "id": "granby",
@@ -1107,7 +1171,15 @@
           ],
           "events": []
         }
-      ]
+      ],
+      "location": {
+        "latitude": 45.398555,
+        "longitude": -72.722249,
+        "label": "Centre municipal",
+        "precision": "municipal-centre",
+        "source": "Base de données toponymiques du Canada (Ressources naturelles Canada)",
+        "sourceUrl": "https://geonames.nrcan.gc.ca/search-place-names/search"
+      }
     },
     {
       "id": "blainville",
@@ -1194,7 +1266,15 @@
           "name": "Réseau de Blainville",
           "sourceReport": "blainville-2025"
         }
-      ]
+      ],
+      "location": {
+        "latitude": 45.679627,
+        "longitude": -73.873874,
+        "label": "Centre municipal",
+        "precision": "municipal-centre",
+        "source": "Base de données toponymiques du Canada (Ressources naturelles Canada)",
+        "sourceUrl": "https://geonames.nrcan.gc.ca/search-place-names/search"
+      }
     },
     {
       "id": "mirabel",
@@ -2321,7 +2401,15 @@
           "name": "Réseau Bois de Belle-Rivière",
           "sourceReport": "mirabel-bois-belle-riviere-2025"
         }
-      ]
+      ],
+      "location": {
+        "latitude": 45.663608,
+        "longitude": -74.002069,
+        "label": "Centre municipal",
+        "precision": "municipal-centre",
+        "source": "Base de données toponymiques du Canada (Ressources naturelles Canada)",
+        "sourceUrl": "https://geonames.nrcan.gc.ca/search-place-names/search"
+      }
     },
     {
       "id": "saint-hyacinthe",
@@ -2417,7 +2505,15 @@
             }
           ]
         }
-      ]
+      ],
+      "location": {
+        "latitude": 45.625902,
+        "longitude": -72.946463,
+        "label": "Centre municipal",
+        "precision": "municipal-centre",
+        "source": "Base de données toponymiques du Canada (Ressources naturelles Canada)",
+        "sourceUrl": "https://geonames.nrcan.gc.ca/search-place-names/search"
+      }
     },
     {
       "id": "shawinigan",
@@ -2548,7 +2644,15 @@
           ],
           "events": []
         }
-      ]
+      ],
+      "location": {
+        "latitude": 46.541088,
+        "longitude": -72.74521,
+        "label": "Centre municipal",
+        "precision": "municipal-centre",
+        "source": "Base de données toponymiques du Canada (Ressources naturelles Canada)",
+        "sourceUrl": "https://geonames.nrcan.gc.ca/search-place-names/search"
+      }
     },
     {
       "id": "chateauguay",
@@ -2619,7 +2723,15 @@
           ],
           "events": []
         }
-      ]
+      ],
+      "location": {
+        "latitude": 45.360927,
+        "longitude": -73.75018,
+        "label": "Centre municipal",
+        "precision": "municipal-centre",
+        "source": "Base de données toponymiques du Canada (Ressources naturelles Canada)",
+        "sourceUrl": "https://geonames.nrcan.gc.ca/search-place-names/search"
+      }
     },
     {
       "id": "levis",
@@ -2768,7 +2880,15 @@
             }
           ]
         }
-      ]
+      ],
+      "location": {
+        "latitude": 46.758172,
+        "longitude": -71.240366,
+        "label": "Centre municipal",
+        "precision": "municipal-centre",
+        "source": "Base de données toponymiques du Canada (Ressources naturelles Canada)",
+        "sourceUrl": "https://geonames.nrcan.gc.ca/search-place-names/search"
+      }
     },
     {
       "id": "saint-jean-sur-richelieu",
@@ -2908,7 +3028,15 @@
             }
           ]
         }
-      ]
+      ],
+      "location": {
+        "latitude": 45.305672,
+        "longitude": -73.253813,
+        "label": "Centre municipal",
+        "precision": "municipal-centre",
+        "source": "Base de données toponymiques du Canada (Ressources naturelles Canada)",
+        "sourceUrl": "https://geonames.nrcan.gc.ca/search-place-names/search"
+      }
     },
     {
       "id": "trois-rivieres",
@@ -3279,7 +3407,15 @@
             }
           ]
         }
-      ]
+      ],
+      "location": {
+        "latitude": 46.343077,
+        "longitude": -72.543383,
+        "label": "Centre municipal",
+        "precision": "municipal-centre",
+        "source": "Base de données toponymiques du Canada (Ressources naturelles Canada)",
+        "sourceUrl": "https://geonames.nrcan.gc.ca/search-place-names/search"
+      }
     },
     {
       "id": "saguenay",
@@ -3990,7 +4126,15 @@
           ],
           "events": []
         }
-      ]
+      ],
+      "location": {
+        "latitude": 48.428221,
+        "longitude": -71.062202,
+        "label": "Centre municipal",
+        "precision": "municipal-centre",
+        "source": "Base de données toponymiques du Canada (Ressources naturelles Canada)",
+        "sourceUrl": "https://geonames.nrcan.gc.ca/search-place-names/search"
+      }
     },
     {
       "id": "sherbrooke",
@@ -4379,7 +4523,15 @@
             }
           ]
         }
-      ]
+      ],
+      "location": {
+        "latitude": 45.404047,
+        "longitude": -71.893171,
+        "label": "Centre municipal",
+        "precision": "municipal-centre",
+        "source": "Base de données toponymiques du Canada (Ressources naturelles Canada)",
+        "sourceUrl": "https://geonames.nrcan.gc.ca/search-place-names/search"
+      }
     },
     {
       "id": "quebec",
@@ -4543,7 +4695,15 @@
           ],
           "events": []
         }
-      ]
+      ],
+      "location": {
+        "latitude": 46.813819,
+        "longitude": -71.207997,
+        "label": "Centre municipal",
+        "precision": "municipal-centre",
+        "source": "Base de données toponymiques du Canada (Ressources naturelles Canada)",
+        "sourceUrl": "https://geonames.nrcan.gc.ca/search-place-names/search"
+      }
     },
     {
       "id": "laval",
@@ -4623,7 +4783,15 @@
             }
           ]
         }
-      ]
+      ],
+      "location": {
+        "latitude": 45.551538,
+        "longitude": -73.744616,
+        "label": "Centre municipal",
+        "precision": "municipal-centre",
+        "source": "Base de données toponymiques du Canada (Ressources naturelles Canada)",
+        "sourceUrl": "https://geonames.nrcan.gc.ca/search-place-names/search"
+      }
     },
     {
       "id": "gatineau",
@@ -5165,7 +5333,15 @@
             }
           ]
         }
-      ]
+      ],
+      "location": {
+        "latitude": 45.427929,
+        "longitude": -75.710938,
+        "label": "Centre municipal",
+        "precision": "municipal-centre",
+        "source": "Base de données toponymiques du Canada (Ressources naturelles Canada)",
+        "sourceUrl": "https://geonames.nrcan.gc.ca/search-place-names/search"
+      }
     },
     {
       "id": "longueuil",
@@ -5454,7 +5630,15 @@
             }
           ]
         }
-      ]
+      ],
+      "location": {
+        "latitude": 45.513947,
+        "longitude": -73.431493,
+        "label": "Centre municipal",
+        "precision": "municipal-centre",
+        "source": "Base de données toponymiques du Canada (Ressources naturelles Canada)",
+        "sourceUrl": "https://geonames.nrcan.gc.ca/search-place-names/search"
+      }
     },
     {
       "id": "montreal",
@@ -6145,7 +6329,15 @@
             }
           ]
         }
-      ]
+      ],
+      "location": {
+        "latitude": 45.508822,
+        "longitude": -73.554077,
+        "label": "Centre municipal",
+        "precision": "municipal-centre",
+        "source": "Base de données toponymiques du Canada (Ressources naturelles Canada)",
+        "sourceUrl": "https://geonames.nrcan.gc.ca/search-place-names/search"
+      }
     },
     {
       "id": "saint-lin-laurentides",
@@ -6598,7 +6790,15 @@
           ],
           "events": []
         }
-      ]
+      ],
+      "location": {
+        "latitude": 45.851691,
+        "longitude": -73.755663,
+        "label": "Centre municipal",
+        "precision": "municipal-centre",
+        "source": "Base de données toponymiques du Canada (Ressources naturelles Canada)",
+        "sourceUrl": "https://geonames.nrcan.gc.ca/search-place-names/search"
+      }
     },
     {
       "id": "boisbriand",
@@ -6678,7 +6878,15 @@
           ],
           "events": []
         }
-      ]
+      ],
+      "location": {
+        "latitude": 45.612716,
+        "longitude": -73.838424,
+        "label": "Centre municipal",
+        "precision": "municipal-centre",
+        "source": "Base de données toponymiques du Canada (Ressources naturelles Canada)",
+        "sourceUrl": "https://geonames.nrcan.gc.ca/search-place-names/search"
+      }
     },
     {
       "id": "bois-des-filion",
@@ -6834,7 +7042,15 @@
             }
           ]
         }
-      ]
+      ],
+      "location": {
+        "latitude": 45.669677,
+        "longitude": -73.755258,
+        "label": "Centre municipal",
+        "precision": "municipal-centre",
+        "source": "Base de données toponymiques du Canada (Ressources naturelles Canada)",
+        "sourceUrl": "https://geonames.nrcan.gc.ca/search-place-names/search"
+      }
     },
     {
       "id": "charlemagne",
@@ -6914,7 +7130,15 @@
           ],
           "events": []
         }
-      ]
+      ],
+      "location": {
+        "latitude": 45.721299,
+        "longitude": -73.486821,
+        "label": "Centre municipal",
+        "precision": "municipal-centre",
+        "source": "Base de données toponymiques du Canada (Ressources naturelles Canada)",
+        "sourceUrl": "https://geonames.nrcan.gc.ca/search-place-names/search"
+      }
     },
     {
       "id": "deux-montagnes",
@@ -6936,7 +7160,15 @@
       ],
       "coverageNote": "Réseau et station confirmés dans le répertoire du MELCCFP. Aucun bilan annuel chiffré n’était publié sur la page municipale de gestion de l’eau lors de la vérification du 1er août 2026; aucun résultat n’est imputé sans source.",
       "coverageUrl": "https://www.environnement.gouv.qc.ca/eau/potable/distribution/index.asp",
-      "reports": []
+      "reports": [],
+      "location": {
+        "latitude": 45.54183,
+        "longitude": -73.89293,
+        "label": "Centre municipal",
+        "precision": "municipal-centre",
+        "source": "Base de données toponymiques du Canada (Ressources naturelles Canada)",
+        "sourceUrl": "https://geonames.nrcan.gc.ca/search-place-names/search"
+      }
     },
     {
       "id": "lassomption",
@@ -7023,7 +7255,15 @@
           ],
           "events": []
         }
-      ]
+      ],
+      "location": {
+        "latitude": 45.811088,
+        "longitude": -73.43136,
+        "label": "Centre municipal",
+        "precision": "municipal-centre",
+        "source": "Base de données toponymiques du Canada (Ressources naturelles Canada)",
+        "sourceUrl": "https://geonames.nrcan.gc.ca/search-place-names/search"
+      }
     },
     {
       "id": "lorraine",
@@ -7103,7 +7343,15 @@
           ],
           "events": []
         }
-      ]
+      ],
+      "location": {
+        "latitude": 45.659744,
+        "longitude": -73.776541,
+        "label": "Centre municipal",
+        "precision": "municipal-centre",
+        "source": "Base de données toponymiques du Canada (Ressources naturelles Canada)",
+        "sourceUrl": "https://geonames.nrcan.gc.ca/search-place-names/search"
+      }
     },
     {
       "id": "mascouche",
@@ -7232,7 +7480,15 @@
             }
           ]
         }
-      ]
+      ],
+      "location": {
+        "latitude": 45.745591,
+        "longitude": -73.60178,
+        "label": "Centre municipal",
+        "precision": "municipal-centre",
+        "source": "Base de données toponymiques du Canada (Ressources naturelles Canada)",
+        "sourceUrl": "https://geonames.nrcan.gc.ca/search-place-names/search"
+      }
     },
     {
       "id": "oka",
@@ -7388,7 +7644,15 @@
             }
           ]
         }
-      ]
+      ],
+      "location": {
+        "latitude": 45.45935,
+        "longitude": -74.090074,
+        "label": "Centre municipal",
+        "precision": "municipal-centre",
+        "source": "Base de données toponymiques du Canada (Ressources naturelles Canada)",
+        "sourceUrl": "https://geonames.nrcan.gc.ca/search-place-names/search"
+      }
     },
     {
       "id": "pointe-calumet",
@@ -7477,7 +7741,15 @@
             }
           ]
         }
-      ]
+      ],
+      "location": {
+        "latitude": 45.499958,
+        "longitude": -73.967363,
+        "label": "Centre municipal",
+        "precision": "municipal-centre",
+        "source": "Base de données toponymiques du Canada (Ressources naturelles Canada)",
+        "sourceUrl": "https://geonames.nrcan.gc.ca/search-place-names/search"
+      }
     },
     {
       "id": "rosemere",
@@ -7633,7 +7905,15 @@
           ],
           "events": []
         }
-      ]
+      ],
+      "location": {
+        "latitude": 45.639041,
+        "longitude": -73.78508,
+        "label": "Centre municipal",
+        "precision": "municipal-centre",
+        "source": "Base de données toponymiques du Canada (Ressources naturelles Canada)",
+        "sourceUrl": "https://geonames.nrcan.gc.ca/search-place-names/search"
+      }
     },
     {
       "id": "sainte-anne-des-plaines",
@@ -7713,7 +7993,15 @@
           ],
           "events": []
         }
-      ]
+      ],
+      "location": {
+        "latitude": 45.760144,
+        "longitude": -73.8157,
+        "label": "Centre municipal",
+        "precision": "municipal-centre",
+        "source": "Base de données toponymiques du Canada (Ressources naturelles Canada)",
+        "sourceUrl": "https://geonames.nrcan.gc.ca/search-place-names/search"
+      }
     },
     {
       "id": "sainte-marthe-sur-le-lac",
@@ -7802,7 +8090,15 @@
             }
           ]
         }
-      ]
+      ],
+      "location": {
+        "latitude": 45.528799,
+        "longitude": -73.932432,
+        "label": "Centre municipal",
+        "precision": "municipal-centre",
+        "source": "Base de données toponymiques du Canada (Ressources naturelles Canada)",
+        "sourceUrl": "https://geonames.nrcan.gc.ca/search-place-names/search"
+      }
     },
     {
       "id": "sainte-therese",
@@ -7882,7 +8178,15 @@
           ],
           "events": []
         }
-      ]
+      ],
+      "location": {
+        "latitude": 45.640144,
+        "longitude": -73.843088,
+        "label": "Centre municipal",
+        "precision": "municipal-centre",
+        "source": "Base de données toponymiques du Canada (Ressources naturelles Canada)",
+        "sourceUrl": "https://geonames.nrcan.gc.ca/search-place-names/search"
+      }
     },
     {
       "id": "saint-joseph-du-lac",
@@ -7971,7 +8275,15 @@
             }
           ]
         }
-      ]
+      ],
+      "location": {
+        "latitude": 45.5333333,
+        "longitude": -74,
+        "label": "Centre municipal",
+        "precision": "municipal-centre",
+        "source": "Base de données toponymiques du Canada (Ressources naturelles Canada)",
+        "sourceUrl": "https://geonames.nrcan.gc.ca/search-place-names/search"
+      }
     },
     {
       "id": "saint-sulpice",
@@ -7992,7 +8304,15 @@
       ],
       "coverageNote": "Le réseau X0008645 et ses deux alimentations sont confirmés au répertoire du MELCCFP. Le nouveau site municipal consulté le 1er août 2026 ne publiait pas de bilan annuel chiffré; aucun résultat n’est imputé sans source. Les procès-verbaux confirment un achat d’eau à L’Assomption du 8 octobre au 9 décembre 2025.",
       "coverageUrl": "https://www.environnement.gouv.qc.ca/eau/potable/distribution/index.asp",
-      "reports": []
+      "reports": [],
+      "location": {
+        "latitude": 45.826521,
+        "longitude": -73.356236,
+        "label": "Centre municipal",
+        "precision": "municipal-centre",
+        "source": "Base de données toponymiques du Canada (Ressources naturelles Canada)",
+        "sourceUrl": "https://geonames.nrcan.gc.ca/search-place-names/search"
+      }
     },
     {
       "id": "vaudreuil-dorion",
@@ -8376,7 +8696,15 @@
           "supplier": "Ville de Hudson",
           "sourceReport": "vaudreuil-murphy-2025"
         }
-      ]
+      ],
+      "location": {
+        "latitude": 45.403577,
+        "longitude": -74.036469,
+        "label": "Centre municipal",
+        "precision": "municipal-centre",
+        "source": "Base de données toponymiques du Canada (Ressources naturelles Canada)",
+        "sourceUrl": "https://geonames.nrcan.gc.ca/search-place-names/search"
+      }
     },
     {
       "id": "sorel-tracy",
@@ -8529,7 +8857,15 @@
           "supplier": "Régie intermunicipale d’aqueduc Richelieu–Yamaska",
           "sourceReport": "sorel-tracy-tracy-2025"
         }
-      ]
+      ],
+      "location": {
+        "latitude": 46.0436111,
+        "longitude": -73.1130556,
+        "label": "Centre municipal",
+        "precision": "municipal-centre",
+        "source": "Base de données toponymiques du Canada (Ressources naturelles Canada)",
+        "sourceUrl": "https://geonames.nrcan.gc.ca/search-place-names/search"
+      }
     },
     {
       "id": "sainte-julie",
@@ -8609,7 +8945,15 @@
           "supplier": "Régie intermunicipale de l’eau potable Varennes, Sainte-Julie et Saint-Amable",
           "sourceReport": "sainte-julie-2025"
         }
-      ]
+      ],
+      "location": {
+        "latitude": 45.587671,
+        "longitude": -73.326149,
+        "label": "Centre municipal",
+        "precision": "municipal-centre",
+        "source": "Base de données toponymiques du Canada (Ressources naturelles Canada)",
+        "sourceUrl": "https://geonames.nrcan.gc.ca/search-place-names/search"
+      }
     },
     {
       "id": "saint-georges",
@@ -8689,7 +9033,15 @@
           "treatment": "Usine de traitement de l’eau potable",
           "sourceReport": "saint-georges-2025"
         }
-      ]
+      ],
+      "location": {
+        "latitude": 46.122938,
+        "longitude": -70.671163,
+        "label": "Centre municipal",
+        "precision": "municipal-centre",
+        "source": "Base de données toponymiques du Canada (Ressources naturelles Canada)",
+        "sourceUrl": "https://geonames.nrcan.gc.ca/search-place-names/search"
+      }
     },
     {
       "id": "mont-tremblant",
@@ -8908,7 +9260,15 @@
           "name": "Mont du Daim",
           "sourceReport": "mont-tremblant-mont-du-daim-2025"
         }
-      ]
+      ],
+      "location": {
+        "latitude": 46.118146,
+        "longitude": -74.600227,
+        "label": "Centre municipal",
+        "precision": "municipal-centre",
+        "source": "Base de données toponymiques du Canada (Ressources naturelles Canada)",
+        "sourceUrl": "https://geonames.nrcan.gc.ca/search-place-names/search"
+      }
     },
     {
       "id": "alma",
@@ -9003,7 +9363,15 @@
           "name": "Usine de filtration d’Alma",
           "sourceReport": "alma-2024"
         }
-      ]
+      ],
+      "location": {
+        "latitude": 48.549702,
+        "longitude": -71.653425,
+        "label": "Centre municipal",
+        "precision": "municipal-centre",
+        "source": "Base de données toponymiques du Canada (Ressources naturelles Canada)",
+        "sourceUrl": "https://geonames.nrcan.gc.ca/search-place-names/search"
+      }
     },
     {
       "id": "magog",
@@ -9081,7 +9449,15 @@
           "name": "Usine d’eau potable de Magog",
           "sourceReport": "magog-2024"
         }
-      ]
+      ],
+      "location": {
+        "latitude": 45.264991,
+        "longitude": -72.146858,
+        "label": "Centre municipal",
+        "precision": "municipal-centre",
+        "source": "Base de données toponymiques du Canada (Ressources naturelles Canada)",
+        "sourceUrl": "https://geonames.nrcan.gc.ca/search-place-names/search"
+      }
     },
     {
       "id": "val-dor",
@@ -9380,7 +9756,15 @@
           "name": "Val-Senneville",
           "sourceReport": "val-dor-val-senneville-2025"
         }
-      ]
+      ],
+      "location": {
+        "latitude": 48.102044,
+        "longitude": -77.789358,
+        "label": "Centre municipal",
+        "precision": "municipal-centre",
+        "source": "Base de données toponymiques du Canada (Ressources naturelles Canada)",
+        "sourceUrl": "https://geonames.nrcan.gc.ca/search-place-names/search"
+      }
     },
     {
       "id": "sept-iles",
@@ -9728,7 +10112,15 @@
           "name": "Place La Boule",
           "sourceReport": "sept-iles-place-la-boule-2025"
         }
-      ]
+      ],
+      "location": {
+        "latitude": 50.209655,
+        "longitude": -66.38518,
+        "label": "Centre municipal",
+        "precision": "municipal-centre",
+        "source": "Base de données toponymiques du Canada (Ressources naturelles Canada)",
+        "sourceUrl": "https://geonames.nrcan.gc.ca/search-place-names/search"
+      }
     },
     {
       "id": "baie-comeau",
@@ -9930,7 +10322,15 @@
           "name": "Mont Tibasse",
           "sourceReport": "baie-comeau-mont-tibasse-2025"
         }
-      ]
+      ],
+      "location": {
+        "latitude": 49.220927,
+        "longitude": -68.149305,
+        "label": "Centre municipal",
+        "precision": "municipal-centre",
+        "source": "Base de données toponymiques du Canada (Ressources naturelles Canada)",
+        "sourceUrl": "https://geonames.nrcan.gc.ca/search-place-names/search"
+      }
     }
   ],
   "coverage": {
@@ -9963,6 +10363,16 @@
       }
     ],
     "sharedReportNote": "Le réseau X0009510 de Pointe-Calumet est représenté par le bilan de l’installation de production X2045657 partagé avec Saint-Joseph-du-Lac; ce n’est pas un bilan local distinct.",
-    "methodologyNote": "Chaque fiche renvoie au bilan annuel officiel de la municipalité ou du responsable du réseau. Les résultats ponctuels sont distingués des normes fondées sur une moyenne annuelle; les contradictions internes des bilans sont signalées sans réinterprétation."
+    "methodologyNote": "Chaque fiche renvoie au bilan annuel officiel de la municipalité ou du responsable du réseau. Les résultats ponctuels sont distingués des normes fondées sur une moyenne annuelle; les contradictions internes des bilans sont signalées sans réinterprétation.",
+    "geographicLocations": 50,
+    "geographicPrecision": "Centres municipaux officiels; aucune adresse d’installation extrapolée."
+  },
+  "geography": {
+    "mapProvider": "OpenFreeMap",
+    "mapData": "OpenStreetMap",
+    "coordinateSource": "Base de données toponymiques du Canada (Ressources naturelles Canada)",
+    "coordinateSourceUrl": "https://geonames.nrcan.gc.ca/search-place-names/search",
+    "defaultPrecision": "municipal-centre",
+    "facilityLocationPolicy": "Une installation est localisée distinctement uniquement lorsque son adresse publique officielle est confirmée."
   }
 }
